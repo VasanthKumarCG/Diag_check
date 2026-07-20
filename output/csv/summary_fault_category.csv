@@ -1,0 +1,6 @@
+FaultCategory,DTCCount,TotalOccurrences,ActiveCount,MaxRiskScore
+ECU Specific/Other,285,7065,109,450
+Sensor,232,5878,84,445
+Voltage,231,5595,66,450
+Performance,227,5966,68,450
+Communication,225,6224,82,446

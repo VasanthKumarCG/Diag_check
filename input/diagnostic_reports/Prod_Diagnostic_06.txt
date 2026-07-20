@@ -1,0 +1,869 @@
+SW I-Step - 26-07-540
+SA's - J I P W V D H E
+SA's - J X O K I N T C
+
+ECU - BCM
+Hardware Version - 418.826.618
+Bootloader Version - 7.27.899
+SW Version - 26.9.129
+Coding - 277.297.996
+
+ECU - SRS
+Hardware Version - 952.305.957
+Bootloader Version - 1.41.133
+SW Version - 25.0.469
+Coding - 821.303.380
+
+ECU - OBC
+Hardware Version - 477.943.575
+Bootloader Version - 7.91.226
+SW Version - 26.0.347
+Coding - 481.600.708
+
+ECU - HVAC
+Hardware Version - 556.281.991
+Bootloader Version - 8.85.664
+SW Version - 25.5.267
+Coding - 957.364.866
+
+ECU - ADAS
+Hardware Version - 950.805.192
+Bootloader Version - 5.13.495
+SW Version - 24.2.974
+Coding - 685.898.319
+
+ECU - TCU
+Hardware Version - 977.326.762
+Bootloader Version - 4.96.311
+SW Version - 25.6.625
+Coding - 120.985.899
+
+ECU - BMS
+Hardware Version - 885.798.109
+Bootloader Version - 8.26.762
+SW Version - 24.9.920
+Coding - 108.329.358
+
+ECU - FCAM
+Hardware Version - 722.924.412
+Bootloader Version - 5.64.485
+SW Version - 25.7.358
+Coding - 323.577.409
+
+ECU - ECM
+Hardware Version - 793.633.944
+Bootloader Version - 7.84.204
+SW Version - 24.8.778
+Coding - 963.959.483
+
+ECU - EPS
+Hardware Version - 674.762.708
+Bootloader Version - 5.48.800
+SW Version - 24.7.165
+Coding - 444.383.755
+
+ECU - TCM
+Hardware Version - 432.982.383
+Bootloader Version - 5.93.828
+SW Version - 26.4.292
+Coding - 253.629.883
+
+ECU - GW
+Hardware Version - 346.158.924
+Bootloader Version - 7.94.427
+SW Version - 26.2.838
+Coding - 126.771.609
+
+DTCs
+
+BCM :
+DTC - 0x5269 - Sensor range fault
+Status - Stored
+Occurrence Counter - 26
+Aging Counter - 12
+Priority - 1
+Environment Data:
+  Timestamp - 2026-05-19 22:36:00
+  Battery Voltage - 836
+  Door Status - 195
+  Lock State - 352
+  Ignition - 744
+  Window Pos - 731
+
+DTC - 0xBFB2 - Voltage fault
+Status - Intermittent
+Occurrence Counter - 41
+Aging Counter - 15
+Priority - 3
+Environment Data:
+  Timestamp - 2026-05-17 09:54:00
+  Battery Voltage - 175
+  Door Status - 861
+  Lock State - 674
+  Ignition - 898
+  Window Pos - 572
+
+DTC - 0x5B35 - Voltage fault
+Status - Active
+Occurrence Counter - 31
+Aging Counter - 4
+Priority - 3
+Environment Data:
+  Timestamp - 2026-05-24 17:48:00
+  Battery Voltage - 935
+  Door Status - 188
+  Lock State - 970
+  Ignition - 697
+  Window Pos - 922
+
+DTC - 0xB789 - Sensor range fault
+Status - Active
+Occurrence Counter - 15
+Aging Counter - 11
+Priority - 2
+Environment Data:
+  Timestamp - 2026-05-24 09:26:00
+  Battery Voltage - 808
+  Door Status - 909
+  Lock State - 340
+  Ignition - 381
+  Window Pos - 267
+
+DTC - 0x5B46 - BCM performance issue 5
+Status - Stored
+Occurrence Counter - 8
+Aging Counter - 15
+Priority - 1
+Environment Data:
+  Timestamp - 2026-05-28 20:37:00
+  Battery Voltage - 595
+  Door Status - 967
+  Lock State - 636
+  Ignition - 73
+  Window Pos - 484
+
+SRS :
+DTC - 0x901F - Voltage fault
+Status - Active
+Occurrence Counter - 44
+Aging Counter - 12
+Priority - 5
+Environment Data:
+  Timestamp - 2026-05-10 13:03:00
+  Vehicle Speed - 892
+  Seat Occupancy - 875
+  Crash Counter - 155
+  Supply Voltage - 141
+  Belt Status - 206
+
+DTC - 0x78C0 - Sensor range fault
+Status - Intermittent
+Occurrence Counter - 30
+Aging Counter - 4
+Priority - 3
+Environment Data:
+  Timestamp - 2026-05-28 22:11:00
+  Vehicle Speed - 798
+  Seat Occupancy - 83
+  Crash Counter - 500
+  Supply Voltage - 341
+  Belt Status - 647
+
+DTC - 0x603B - Voltage fault
+Status - Intermittent
+Occurrence Counter - 4
+Aging Counter - 0
+Priority - 4
+Environment Data:
+  Timestamp - 2026-05-09 06:48:00
+  Vehicle Speed - 793
+  Seat Occupancy - 173
+  Crash Counter - 591
+  Supply Voltage - 783
+  Belt Status - 163
+
+DTC - 0xD903 - SRS specific fault 4
+Status - Active
+Occurrence Counter - 9
+Aging Counter - 19
+Priority - 4
+Environment Data:
+  Timestamp - 2026-05-21 13:25:00
+  Vehicle Speed - 440
+  Seat Occupancy - 989
+  Crash Counter - 489
+  Supply Voltage - 393
+  Belt Status - 5
+
+DTC - 0x98A5 - Communication fault
+Status - Active
+Occurrence Counter - 47
+Aging Counter - 11
+Priority - 1
+Environment Data:
+  Timestamp - 2026-05-11 16:12:00
+  Vehicle Speed - 19
+  Seat Occupancy - 693
+  Crash Counter - 5
+  Supply Voltage - 642
+  Belt Status - 752
+
+OBC :
+DTC - 0x49EC - Voltage fault
+Status - Intermittent
+Occurrence Counter - 23
+Aging Counter - 9
+Priority - 2
+Environment Data:
+  Timestamp - 2026-05-04 12:32:00
+  AC Voltage - 603
+  Charge Current - 314
+  Battery Temp - 172
+  SOC - 67
+  Input Freq - 844
+
+DTC - 0x5C56 - Communication fault
+Status - Stored
+Occurrence Counter - 30
+Aging Counter - 16
+Priority - 5
+Environment Data:
+  Timestamp - 2026-05-17 10:27:00
+  AC Voltage - 910
+  Charge Current - 704
+  Battery Temp - 138
+  SOC - 351
+  Input Freq - 924
+
+DTC - 0x6BF7 - OBC specific fault 3
+Status - Active
+Occurrence Counter - 11
+Aging Counter - 12
+Priority - 1
+Environment Data:
+  Timestamp - 2026-05-08 07:46:00
+  AC Voltage - 135
+  Charge Current - 217
+  Battery Temp - 752
+  SOC - 23
+  Input Freq - 604
+
+DTC - 0x3B42 - OBC performance issue 4
+Status - Active
+Occurrence Counter - 24
+Aging Counter - 20
+Priority - 1
+Environment Data:
+  Timestamp - 2026-05-13 20:16:00
+  AC Voltage - 790
+  Charge Current - 548
+  Battery Temp - 639
+  SOC - 50
+  Input Freq - 609
+
+DTC - 0xB976 - Communication fault
+Status - Active
+Occurrence Counter - 42
+Aging Counter - 0
+Priority - 1
+Environment Data:
+  Timestamp - 2026-05-23 03:26:00
+  AC Voltage - 455
+  Charge Current - 390
+  Battery Temp - 127
+  SOC - 561
+  Input Freq - 259
+
+HVAC :
+DTC - 0xC3AD - HVAC specific fault 1
+Status - Active
+Occurrence Counter - 14
+Aging Counter - 20
+Priority - 1
+Environment Data:
+  Timestamp - 2026-05-10 13:42:00
+  Cabin Temp - 104
+  Blower Speed - 679
+  Evap Temp - 533
+  Ambient Temp - 277
+  AC Pressure - 638
+
+DTC - 0xC362 - HVAC performance issue 2
+Status - Active
+Occurrence Counter - 27
+Aging Counter - 3
+Priority - 5
+Environment Data:
+  Timestamp - 2026-05-24 19:07:00
+  Cabin Temp - 290
+  Blower Speed - 117
+  Evap Temp - 804
+  Ambient Temp - 109
+  AC Pressure - 510
+
+DTC - 0xABE7 - Voltage fault
+Status - Active
+Occurrence Counter - 50
+Aging Counter - 8
+Priority - 5
+Environment Data:
+  Timestamp - 2026-05-07 11:45:00
+  Cabin Temp - 420
+  Blower Speed - 303
+  Evap Temp - 165
+  Ambient Temp - 41
+  AC Pressure - 562
+
+DTC - 0xF90D - HVAC specific fault 4
+Status - Active
+Occurrence Counter - 45
+Aging Counter - 15
+Priority - 3
+Environment Data:
+  Timestamp - 2026-05-08 00:00:00
+  Cabin Temp - 688
+  Blower Speed - 92
+  Evap Temp - 929
+  Ambient Temp - 114
+  AC Pressure - 856
+
+DTC - 0xBB45 - HVAC performance issue 5
+Status - Stored
+Occurrence Counter - 10
+Aging Counter - 2
+Priority - 5
+Environment Data:
+  Timestamp - 2026-05-03 23:46:00
+  Cabin Temp - 104
+  Blower Speed - 927
+  Evap Temp - 263
+  Ambient Temp - 660
+  AC Pressure - 237
+
+ADAS :
+DTC - 0x5BC8 - ADAS specific fault 1
+Status - Stored
+Occurrence Counter - 30
+Aging Counter - 1
+Priority - 1
+Environment Data:
+  Timestamp - 2026-05-27 05:55:00
+  CPU Load - 41
+  Lane State - 873
+  Object Count - 298
+  Voltage - 369
+  Speed - 821
+
+DTC - 0x7D0E - Sensor range fault
+Status - Intermittent
+Occurrence Counter - 8
+Aging Counter - 3
+Priority - 1
+Environment Data:
+  Timestamp - 2026-05-01 04:42:00
+  CPU Load - 663
+  Lane State - 175
+  Object Count - 337
+  Voltage - 367
+  Speed - 916
+
+DTC - 0xAF2E - ADAS specific fault 3
+Status - Stored
+Occurrence Counter - 47
+Aging Counter - 2
+Priority - 3
+Environment Data:
+  Timestamp - 2026-05-27 10:11:00
+  CPU Load - 117
+  Lane State - 411
+  Object Count - 410
+  Voltage - 986
+  Speed - 468
+
+DTC - 0xE5F0 - Sensor range fault
+Status - Stored
+Occurrence Counter - 45
+Aging Counter - 15
+Priority - 4
+Environment Data:
+  Timestamp - 2026-05-21 05:07:00
+  CPU Load - 136
+  Lane State - 713
+  Object Count - 744
+  Voltage - 61
+  Speed - 966
+
+DTC - 0x2A8C - Voltage fault
+Status - Stored
+Occurrence Counter - 38
+Aging Counter - 15
+Priority - 5
+Environment Data:
+  Timestamp - 2026-05-22 14:11:00
+  CPU Load - 626
+  Lane State - 389
+  Object Count - 798
+  Voltage - 368
+  Speed - 627
+
+TCU :
+DTC - 0xECD1 - Communication fault
+Status - Intermittent
+Occurrence Counter - 47
+Aging Counter - 4
+Priority - 4
+Environment Data:
+  Timestamp - 2026-05-16 03:56:00
+  RSSI - 422
+  GPS Status - 452
+  Network Type - 48
+  Speed - 65
+  Voltage - 268
+
+DTC - 0x132A - Sensor range fault
+Status - Intermittent
+Occurrence Counter - 44
+Aging Counter - 16
+Priority - 5
+Environment Data:
+  Timestamp - 2026-05-24 18:14:00
+  RSSI - 979
+  GPS Status - 686
+  Network Type - 895
+  Speed - 347
+  Voltage - 532
+
+DTC - 0xC030 - TCU performance issue 3
+Status - Intermittent
+Occurrence Counter - 40
+Aging Counter - 3
+Priority - 4
+Environment Data:
+  Timestamp - 2026-05-22 23:15:00
+  RSSI - 494
+  GPS Status - 355
+  Network Type - 680
+  Speed - 693
+  Voltage - 657
+
+DTC - 0x360E - TCU specific fault 4
+Status - Intermittent
+Occurrence Counter - 40
+Aging Counter - 1
+Priority - 1
+Environment Data:
+  Timestamp - 2026-05-21 05:32:00
+  RSSI - 870
+  GPS Status - 481
+  Network Type - 873
+  Speed - 508
+  Voltage - 891
+
+DTC - 0x232A - Voltage fault
+Status - Stored
+Occurrence Counter - 21
+Aging Counter - 7
+Priority - 3
+Environment Data:
+  Timestamp - 2026-05-09 01:32:00
+  RSSI - 229
+  GPS Status - 564
+  Network Type - 659
+  Speed - 388
+  Voltage - 413
+
+BMS :
+DTC - 0x242E - Voltage fault
+Status - Stored
+Occurrence Counter - 29
+Aging Counter - 18
+Priority - 4
+Environment Data:
+  Timestamp - 2026-05-03 15:28:00
+  SOC - 324
+  SOH - 122
+  HV Voltage - 510
+  Cell Temp Max - 764
+  Cell Temp Min - 670
+
+DTC - 0x2A46 - Communication fault
+Status - Stored
+Occurrence Counter - 27
+Aging Counter - 1
+Priority - 5
+Environment Data:
+  Timestamp - 2026-05-18 00:52:00
+  SOC - 94
+  SOH - 811
+  HV Voltage - 619
+  Cell Temp Max - 987
+  Cell Temp Min - 634
+
+DTC - 0xF3DE - Sensor range fault
+Status - Intermittent
+Occurrence Counter - 36
+Aging Counter - 6
+Priority - 4
+Environment Data:
+  Timestamp - 2026-05-11 11:52:00
+  SOC - 56
+  SOH - 837
+  HV Voltage - 229
+  Cell Temp Max - 865
+  Cell Temp Min - 466
+
+DTC - 0x9F66 - Sensor range fault
+Status - Intermittent
+Occurrence Counter - 39
+Aging Counter - 15
+Priority - 3
+Environment Data:
+  Timestamp - 2026-05-23 14:07:00
+  SOC - 100
+  SOH - 778
+  HV Voltage - 675
+  Cell Temp Max - 228
+  Cell Temp Min - 3
+
+DTC - 0x6AEA - Sensor range fault
+Status - Intermittent
+Occurrence Counter - 19
+Aging Counter - 17
+Priority - 5
+Environment Data:
+  Timestamp - 2026-05-12 22:06:00
+  SOC - 47
+  SOH - 919
+  HV Voltage - 169
+  Cell Temp Max - 505
+  Cell Temp Min - 144
+
+FCAM :
+DTC - 0x2B61 - FCAM specific fault 1
+Status - Stored
+Occurrence Counter - 40
+Aging Counter - 6
+Priority - 2
+Environment Data:
+  Timestamp - 2026-05-04 12:13:00
+  Lane Confidence - 469
+  Visibility - 845
+  Image Quality - 801
+  Speed - 196
+  Light Level - 734
+
+DTC - 0x2B96 - Sensor range fault
+Status - Stored
+Occurrence Counter - 3
+Aging Counter - 20
+Priority - 5
+Environment Data:
+  Timestamp - 2026-05-04 14:29:00
+  Lane Confidence - 675
+  Visibility - 604
+  Image Quality - 980
+  Speed - 517
+  Light Level - 138
+
+DTC - 0x111C - FCAM specific fault 3
+Status - Intermittent
+Occurrence Counter - 48
+Aging Counter - 1
+Priority - 5
+Environment Data:
+  Timestamp - 2026-05-14 18:30:00
+  Lane Confidence - 947
+  Visibility - 521
+  Image Quality - 800
+  Speed - 944
+  Light Level - 933
+
+DTC - 0xC11A - Voltage fault
+Status - Intermittent
+Occurrence Counter - 12
+Aging Counter - 4
+Priority - 1
+Environment Data:
+  Timestamp - 2026-05-13 21:38:00
+  Lane Confidence - 621
+  Visibility - 904
+  Image Quality - 330
+  Speed - 517
+  Light Level - 903
+
+DTC - 0x7B2D - FCAM specific fault 5
+Status - Intermittent
+Occurrence Counter - 45
+Aging Counter - 7
+Priority - 3
+Environment Data:
+  Timestamp - 2026-05-13 10:18:00
+  Lane Confidence - 464
+  Visibility - 825
+  Image Quality - 137
+  Speed - 142
+  Light Level - 423
+
+ECM :
+DTC - 0xC334 - ECM performance issue 1
+Status - Intermittent
+Occurrence Counter - 33
+Aging Counter - 9
+Priority - 5
+Environment Data:
+  Timestamp - 2026-05-28 10:45:00
+  RPM - 755
+  Coolant Temp - 958
+  Fuel Pressure - 567
+  Boost Pressure - 648
+  Engine Load - 223
+
+DTC - 0x45AF - Voltage fault
+Status - Intermittent
+Occurrence Counter - 46
+Aging Counter - 9
+Priority - 3
+Environment Data:
+  Timestamp - 2026-05-22 04:45:00
+  RPM - 666
+  Coolant Temp - 999
+  Fuel Pressure - 982
+  Boost Pressure - 183
+  Engine Load - 516
+
+DTC - 0xC1BE - ECM performance issue 3
+Status - Intermittent
+Occurrence Counter - 21
+Aging Counter - 3
+Priority - 3
+Environment Data:
+  Timestamp - 2026-05-18 15:37:00
+  RPM - 585
+  Coolant Temp - 966
+  Fuel Pressure - 684
+  Boost Pressure - 728
+  Engine Load - 428
+
+DTC - 0x5932 - ECM performance issue 4
+Status - Stored
+Occurrence Counter - 1
+Aging Counter - 16
+Priority - 1
+Environment Data:
+  Timestamp - 2026-05-01 12:09:00
+  RPM - 55
+  Coolant Temp - 687
+  Fuel Pressure - 58
+  Boost Pressure - 205
+  Engine Load - 274
+
+DTC - 0x595F - Voltage fault
+Status - Intermittent
+Occurrence Counter - 17
+Aging Counter - 4
+Priority - 1
+Environment Data:
+  Timestamp - 2026-05-23 09:13:00
+  RPM - 772
+  Coolant Temp - 555
+  Fuel Pressure - 34
+  Boost Pressure - 368
+  Engine Load - 834
+
+EPS :
+DTC - 0x2A3C - EPS specific fault 1
+Status - Intermittent
+Occurrence Counter - 44
+Aging Counter - 17
+Priority - 2
+Environment Data:
+  Timestamp - 2026-05-24 20:35:00
+  Steering Angle - 399
+  Driver Torque - 244
+  Motor Current - 524
+  Supply Voltage - 804
+  Speed - 816
+
+DTC - 0xC164 - Sensor range fault
+Status - Intermittent
+Occurrence Counter - 4
+Aging Counter - 12
+Priority - 4
+Environment Data:
+  Timestamp - 2026-05-14 21:20:00
+  Steering Angle - 990
+  Driver Torque - 566
+  Motor Current - 56
+  Supply Voltage - 14
+  Speed - 762
+
+DTC - 0x43FD - Sensor range fault
+Status - Intermittent
+Occurrence Counter - 50
+Aging Counter - 14
+Priority - 2
+Environment Data:
+  Timestamp - 2026-05-21 22:45:00
+  Steering Angle - 664
+  Driver Torque - 377
+  Motor Current - 774
+  Supply Voltage - 603
+  Speed - 560
+
+DTC - 0x424B - EPS performance issue 4
+Status - Intermittent
+Occurrence Counter - 13
+Aging Counter - 9
+Priority - 4
+Environment Data:
+  Timestamp - 2026-05-06 21:04:00
+  Steering Angle - 192
+  Driver Torque - 986
+  Motor Current - 178
+  Supply Voltage - 753
+  Speed - 527
+
+DTC - 0x7090 - Communication fault
+Status - Active
+Occurrence Counter - 28
+Aging Counter - 8
+Priority - 5
+Environment Data:
+  Timestamp - 2026-05-09 04:10:00
+  Steering Angle - 599
+  Driver Torque - 867
+  Motor Current - 262
+  Supply Voltage - 6
+  Speed - 339
+
+TCM :
+DTC - 0xC5AE - TCM specific fault 1
+Status - Active
+Occurrence Counter - 3
+Aging Counter - 4
+Priority - 3
+Environment Data:
+  Timestamp - 2026-05-20 01:49:00
+  Gear - 955
+  Oil Temp - 641
+  Turbine Speed - 631
+  Clutch Pressure - 864
+  Output Speed - 678
+
+DTC - 0x8D94 - Sensor range fault
+Status - Intermittent
+Occurrence Counter - 36
+Aging Counter - 11
+Priority - 1
+Environment Data:
+  Timestamp - 2026-05-26 22:20:00
+  Gear - 539
+  Oil Temp - 226
+  Turbine Speed - 980
+  Clutch Pressure - 189
+  Output Speed - 534
+
+DTC - 0xD948 - Communication fault
+Status - Intermittent
+Occurrence Counter - 11
+Aging Counter - 13
+Priority - 5
+Environment Data:
+  Timestamp - 2026-05-18 12:05:00
+  Gear - 358
+  Oil Temp - 227
+  Turbine Speed - 905
+  Clutch Pressure - 219
+  Output Speed - 680
+
+DTC - 0x64C0 - Sensor range fault
+Status - Stored
+Occurrence Counter - 19
+Aging Counter - 6
+Priority - 5
+Environment Data:
+  Timestamp - 2026-05-17 15:35:00
+  Gear - 844
+  Oil Temp - 771
+  Turbine Speed - 665
+  Clutch Pressure - 10
+  Output Speed - 118
+
+DTC - 0x8217 - Sensor range fault
+Status - Active
+Occurrence Counter - 42
+Aging Counter - 19
+Priority - 5
+Environment Data:
+  Timestamp - 2026-05-08 01:43:00
+  Gear - 907
+  Oil Temp - 329
+  Turbine Speed - 391
+  Clutch Pressure - 938
+  Output Speed - 816
+
+GW :
+DTC - 0x72C8 - Communication fault
+Status - Stored
+Occurrence Counter - 35
+Aging Counter - 9
+Priority - 1
+Environment Data:
+  Timestamp - 2026-05-17 11:32:00
+  CAN Load - 823
+  Eth Status - 521
+  Voltage - 457
+  Bus Errors - 499
+  Ignition - 45
+
+DTC - 0xF5F5 - Sensor range fault
+Status - Intermittent
+Occurrence Counter - 13
+Aging Counter - 10
+Priority - 5
+Environment Data:
+  Timestamp - 2026-05-03 03:10:00
+  CAN Load - 995
+  Eth Status - 980
+  Voltage - 792
+  Bus Errors - 551
+  Ignition - 547
+
+DTC - 0xB07E - Communication fault
+Status - Active
+Occurrence Counter - 14
+Aging Counter - 20
+Priority - 2
+Environment Data:
+  Timestamp - 2026-05-28 21:27:00
+  CAN Load - 856
+  Eth Status - 107
+  Voltage - 211
+  Bus Errors - 551
+  Ignition - 849
+
+DTC - 0xB585 - GW specific fault 4
+Status - Active
+Occurrence Counter - 48
+Aging Counter - 4
+Priority - 1
+Environment Data:
+  Timestamp - 2026-05-15 22:21:00
+  CAN Load - 39
+  Eth Status - 90
+  Voltage - 76
+  Bus Errors - 56
+  Ignition - 183
+
+DTC - 0x9EDE - Sensor range fault
+Status - Active
+Occurrence Counter - 37
+Aging Counter - 7
+Priority - 3
+Environment Data:
+  Timestamp - 2026-05-14 12:28:00
+  CAN Load - 646
+  Eth Status - 415
+  Voltage - 444
+  Bus Errors - 324
+  Ignition - 18
