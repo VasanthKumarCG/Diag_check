@@ -1,4 +1,5 @@
 AI-usecase-for-Check-in-Readings
+
 We analyze automotive diagnostic report files containing DTCs and environmental data from various vehicle models and software releases. We manually review DTCs of the ECU we own and related ECUs to determine root causes. The process is repetitive, time-consuming and requires correlation across multiple ECUs and historical datasets. We can leverage AI to automatically analyze large volumes of such reports, identify DTC trends across software releases, detect recurring issues after specific releases, correlate faults between interacting ECUs, and generate actionable diagnostic insights.
 
 This development involves 5 levels, at present level 1 is complete i.e., building a DTC Intelligence Database using the dummy diagnostics files. Refer the documents from the Doc folder for more details.
