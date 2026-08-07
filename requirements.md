@@ -1,0 +1,16 @@
+certifi==2026.6.17
+charset-normalizer==3.4.9
+et_xmlfile==2.0.0
+idna==3.18
+lxml==6.1.1
+numpy==2.5.1
+openpyxl==3.1.5
+pandas==3.0.3
+psycopg[binary]==3.3.4
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+requests==2.34.2
+setuptools==83.0.0
+six==1.17.0
+tzdata==2026.3
+urllib3==2.7.0

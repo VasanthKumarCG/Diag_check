@@ -1,0 +1,35 @@
+# Secrets
+.env
+*.pem
+*.key
+*.pfx
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+
+# Generated outputs
+output/
+logs/
+
+# Diagnostic input and processed data
+Data/input/diagnostic_reports/*
+Data/input/processed/*
+Data/input/rejected/*
+Data/input/failed/*
+!Data/input/diagnostic_reports/.gitkeep
+!Data/input/processed/.gitkeep
+!Data/input/rejected/.gitkeep
+!Data/input/failed/.gitkeep
+
+# Local databases and temporary files
+*.db
+*.sqlite
+*.log
+*.tmp
+
+# Power BI and Office temporary files
+~$*
