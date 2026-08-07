@@ -1,35 +1,65 @@
-# Secrets
+# Local environment and secrets
 .env
-*.pem
+.env.local
 *.key
+*.pem
 *.pfx
+*.p12
 
-# Python
+# Python virtual environment
 .venv/
+venv/
+env/
+
+# Python-generated files
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
 .pytest_cache/
 .coverage
+htmlcov/
 
-# Generated outputs
-output/
+# IDE configuration
+.vscode/
+.idea/
+
+# Generated logs
 logs/
+*.log
+
+# Generated parser outputs
+output/
+batch_temp/
+temp/
+tmp/
 
 # Diagnostic input and processed data
 Data/input/diagnostic_reports/*
 Data/input/processed/*
 Data/input/rejected/*
 Data/input/failed/*
+
+# Keep empty directory markers
 !Data/input/diagnostic_reports/.gitkeep
 !Data/input/processed/.gitkeep
 !Data/input/rejected/.gitkeep
 !Data/input/failed/.gitkeep
 
-# Local databases and temporary files
+# Local database files and dumps
 *.db
 *.sqlite
-*.log
+*.sqlite3
+*.dump
+*.backup
+
+# Office temporary files
+~$*
 *.tmp
 
-# Power BI and Office temporary files
-~$*
+# Operating-system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Power BI local temporary files
+*.pbix.autosave
