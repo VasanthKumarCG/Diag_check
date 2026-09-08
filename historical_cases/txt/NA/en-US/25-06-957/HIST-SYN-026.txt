@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-026
+Source Report - Prod_Diagnostic_Extended_SYN_026.txt
+Source Language - en-US
+Canonical Language - en
+Region - NA
+VIN Scope - Synthetic
+SW I-Step - 25-06-957
+Test Type - Cold climate
+Test Environment - Workshop dynamometer
+Primary ECU - TCU
+Related ECUs - ADAS, BCM, SEAT_CTRL, THERMAL_CTRL
+DTC Codes - 0x9E13, 0xA93C, 0x3025, 0xC096, 0x3FF5
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_026.txt contains 77 DTCs across 26 ECUs for SW I-Step 25-06-957. The leading candidates include TCU 0x9E13 TCU Timeout fault (Active, Critical); THERMAL_CTRL 0xA93C THERMAL_CTRL Communication fault (Active, Critical); ADAS 0x3025 ADAS Timeout fault (Active, Critical); SEAT_CTRL 0xC096 SEAT_CTRL Timeout fault (Active, Critical); BCM 0x3FF5 BCM Communication fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - The technical cause must be confirmed from measured evidence. Use approved diagnostic procedures.
+Root Cause Status - Candidate only
+Possible Root Cause - Supply or ground instability
+Recommended Checks - Inspect connector and harness; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

@@ -1,0 +1,19 @@
+{
+  "canonical_language": "en",
+  "supported": [
+    "en-IN",
+    "en-US",
+    "de",
+    "fr",
+    "es",
+    "pt-BR",
+    "it",
+    "pl",
+    "hi",
+    "ja",
+    "ko",
+    "zh-Hans"
+  ],
+  "policy": "Keep structural labels and canonical diagnostic facts in English. Preserve source-language cause and recommendation in separate fields. Never overwrite source text.",
+  "production_rule": "Draft synthetic records may be loaded for testing; only approved and reviewed knowledge may be used for production RAG."
+}

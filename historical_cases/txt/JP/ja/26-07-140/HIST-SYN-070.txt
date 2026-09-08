@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-070
+Source Report - Prod_Diagnostic_Extended_SYN_070.txt
+Source Language - ja
+Canonical Language - en
+Region - JP
+VIN Scope - Synthetic
+SW I-Step - 26-07-140
+Test Type - Highway profile
+Test Environment - Proving ground
+Primary ECU - TCU
+Related ECUs - ADAS, BCM, SEAT_CTRL, THERMAL_CTRL
+DTC Codes - 0x6A3E, 0xDDF3, 0x2265, 0x91B4, 0xE367
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_070.txt contains 75 DTCs across 26 ECUs for SW I-Step 26-07-140. The leading candidates include TCU 0x6A3E TCU Communication fault (Active, Critical); THERMAL_CTRL 0xDDF3 THERMAL_CTRL Timeout fault (Active, Critical); ADAS 0x2265 ADAS Communication fault (Active, Critical); SEAT_CTRL 0x91B4 SEAT_CTRL Communication fault (Active, Critical); BCM 0xE367 BCM Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - 技術的原因は測定データで確認する必要があります。 承認済みの診断手順を使用してください。
+Root Cause Status - Candidate only
+Possible Root Cause - Software or calibration mismatch
+Recommended Checks - Verify supply and ground under load; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

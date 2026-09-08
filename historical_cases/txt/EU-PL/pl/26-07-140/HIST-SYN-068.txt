@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-068
+Source Report - Prod_Diagnostic_Extended_SYN_068.txt
+Source Language - pl
+Canonical Language - en
+Region - EU-PL
+VIN Scope - Synthetic
+SW I-Step - 26-07-140
+Test Type - Endurance
+Test Environment - Workshop dynamometer
+Primary ECU - SEAT_CTRL
+Related ECUs - BCM, RR_CORNER_RADAR, TCU, THERMAL_CTRL
+DTC Codes - 0x4699, 0xDDBC, 0x9FCB, 0x6D5F, 0xAC81
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_068.txt contains 61 DTCs across 24 ECUs for SW I-Step 26-07-140. The leading candidates include SEAT_CTRL 0x4699 SEAT_CTRL Timeout fault (Active, Critical); BCM 0xDDBC BCM Communication fault (Active, Critical); RR_CORNER_RADAR 0x9FCB RR_CORNER_RADAR Communication fault (Active, Critical); TCU 0x6D5F TCU Timeout fault (Active, Critical); THERMAL_CTRL 0xAC81 THERMAL_CTRL Communication fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - Przyczyna techniczna wymaga potwierdzenia na podstawie pomiarów. Użyć zatwierdzonych procedur diagnostycznych.
+Root Cause Status - Candidate only
+Possible Root Cause - Network congestion or termination issue
+Recommended Checks - Verify supply and ground under load; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-063
+Source Report - Prod_Diagnostic_Extended_SYN_063.txt
+Source Language - de
+Canonical Language - en
+Region - EU-DE
+VIN Scope - Synthetic
+SW I-Step - 26-07-140
+Test Type - Urban profile
+Test Environment - Climate chamber
+Primary ECU - BCM
+Related ECUs - RR_CORNER_RADAR, TCU, THERMAL_CTRL, TPMS
+DTC Codes - 0x8349, 0x8FC7, 0x108A, 0xAB03, 0x7DF6
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_063.txt contains 57 DTCs across 27 ECUs for SW I-Step 26-07-140. The leading candidates include BCM 0x8349 BCM Timeout fault (Active, Critical); TPMS 0x8FC7 TPMS Communication fault (Active, Critical); RR_CORNER_RADAR 0x108A RR_CORNER_RADAR Timeout fault (Active, Critical); TCU 0xAB03 TCU Communication fault (Active, Critical); THERMAL_CTRL 0x7DF6 THERMAL_CTRL Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - Die technische Ursache muss anhand der Messdaten bestätigt werden. Freigegebene Diagnoseverfahren verwenden.
+Root Cause Status - Candidate only
+Possible Root Cause - Supply or ground instability
+Recommended Checks - Verify supply and ground under load; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

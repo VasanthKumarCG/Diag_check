@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-039
+Source Report - Prod_Diagnostic_Extended_SYN_039.txt
+Source Language - de
+Canonical Language - en
+Region - EU-DE
+VIN Scope - Synthetic
+SW I-Step - 25-06-957
+Test Type - Urban profile
+Test Environment - Climate chamber
+Primary ECU - ADAS
+Related ECUs - BCM, RR_CORNER_RADAR, SEAT_CTRL, TPMS
+DTC Codes - 0x4324, 0x2498, 0x33AE, 0xF928, 0x082B
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_039.txt contains 75 DTCs across 27 ECUs for SW I-Step 25-06-957. The leading candidates include ADAS 0x4324 ADAS Communication fault (Active, Critical); SEAT_CTRL 0x2498 SEAT_CTRL Communication fault (Active, Critical); BCM 0x33AE BCM Timeout fault (Active, Critical); TPMS 0xF928 TPMS Communication fault (Active, Critical); RR_CORNER_RADAR 0x082B RR_CORNER_RADAR Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - Die technische Ursache muss anhand der Messdaten bestätigt werden. Freigegebene Diagnoseverfahren verwenden.
+Root Cause Status - Candidate only
+Possible Root Cause - Supply or ground instability
+Recommended Checks - Verify supply and ground under load; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

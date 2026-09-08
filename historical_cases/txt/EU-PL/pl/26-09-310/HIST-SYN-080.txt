@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-080
+Source Report - Prod_Diagnostic_Extended_SYN_080.txt
+Source Language - pl
+Canonical Language - en
+Region - EU-PL
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Software regression
+Test Environment - Workshop dynamometer
+Primary ECU - BCM
+Related ECUs - ADAS, RR_CORNER_RADAR, TCU, THERMAL_CTRL
+DTC Codes - 0xAF60, 0x0507, 0x1650, 0x2899, 0x56D6
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_080.txt contains 52 DTCs across 24 ECUs for SW I-Step 26-09-310. The leading candidates include BCM 0xAF60 BCM Timeout fault (Active, Critical); RR_CORNER_RADAR 0x0507 RR_CORNER_RADAR Timeout fault (Active, Critical); TCU 0x1650 TCU Communication fault (Active, Critical); THERMAL_CTRL 0x2899 THERMAL_CTRL Timeout fault (Active, Critical); ADAS 0x56D6 ADAS Communication fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - Przyczyna techniczna wymaga potwierdzenia na podstawie pomiarów. Użyć zatwierdzonych procedur diagnostycznych.
+Root Cause Status - Candidate only
+Possible Root Cause - Network congestion or termination issue
+Recommended Checks - Verify supply and ground under load; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

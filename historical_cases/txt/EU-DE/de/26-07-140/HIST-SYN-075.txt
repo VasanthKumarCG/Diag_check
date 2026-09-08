@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-075
+Source Report - Prod_Diagnostic_Extended_SYN_075.txt
+Source Language - de
+Canonical Language - en
+Region - EU-DE
+VIN Scope - Synthetic
+SW I-Step - 26-07-140
+Test Type - Network robustness
+Test Environment - Climate chamber
+Primary ECU - RR_CORNER_RADAR
+Related ECUs - ADAS, SEAT_CTRL, TCU, THERMAL_CTRL
+DTC Codes - 0x60EB, 0x563D, 0x82F2, 0x9C53, 0x1A18
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_075.txt contains 79 DTCs across 27 ECUs for SW I-Step 26-07-140. The leading candidates include RR_CORNER_RADAR 0x60EB RR_CORNER_RADAR Communication fault (Active, Critical); TCU 0x563D TCU Timeout fault (Active, Critical); THERMAL_CTRL 0x82F2 THERMAL_CTRL Communication fault (Active, Critical); ADAS 0x9C53 ADAS Timeout fault (Active, Critical); SEAT_CTRL 0x1A18 SEAT_CTRL Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - Die technische Ursache muss anhand der Messdaten bestätigt werden. Freigegebene Diagnoseverfahren verwenden.
+Root Cause Status - Candidate only
+Possible Root Cause - Supply or ground instability
+Recommended Checks - Verify supply and ground under load; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

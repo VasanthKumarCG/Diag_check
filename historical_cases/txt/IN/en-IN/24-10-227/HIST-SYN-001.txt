@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-001
+Source Report - Prod_Diagnostic_Extended_SYN_001.txt
+Source Language - en-IN
+Canonical Language - en
+Region - IN
+VIN Scope - Synthetic
+SW I-Step - 24-10-227
+Test Type - Hot climate
+Test Environment - Public road profile
+Primary ECU - FCAM
+Related ECUs - BODY_DC, INV_FRONT, OBC, VCU
+DTC Codes - 0xFCAB, 0x92B6, 0x9A8A, 0xDB91, 0xD00B
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_001.txt contains 57 DTCs across 25 ECUs for SW I-Step 24-10-227. The leading candidates include FCAM 0xFCAB FCAM Internal control module fault (Stored, Critical); VCU 0x92B6 VCU Voltage fault (Pending, Critical); OBC 0x9A8A OBC Performance issue (Pending, Critical); BODY_DC 0xDB91 BODY_DC Internal control module fault (Stored, Critical); INV_FRONT 0xD00B INV_FRONT Voltage fault (Pending, Critical). Engineering confirmation is required.
+Source-Language Note - The technical cause must be confirmed from measured evidence. Use approved diagnostic procedures.
+Root Cause Status - Candidate only
+Possible Root Cause - Software or calibration mismatch
+Recommended Checks - Preserve trace and check network integrity; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

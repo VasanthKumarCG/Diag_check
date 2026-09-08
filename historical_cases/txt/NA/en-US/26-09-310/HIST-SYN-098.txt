@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-098
+Source Report - Prod_Diagnostic_Extended_SYN_098.txt
+Source Language - en-US
+Canonical Language - en
+Region - NA
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Cold climate
+Test Environment - Workshop dynamometer
+Primary ECU - TCU
+Related ECUs - BODY_DC, GW, INV_FRONT, OBC
+DTC Codes - 0xFDE7, 0x121C, 0x789E, 0xC5E9, 0x238B
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_098.txt contains 54 DTCs across 26 ECUs for SW I-Step 26-09-310. The leading candidates include TCU 0xFDE7 TCU Timeout fault (Active, Critical); OBC 0x121C OBC Performance issue (Pending, Critical); BODY_DC 0x789E BODY_DC Internal control module fault (Stored, Critical); INV_FRONT 0xC5E9 INV_FRONT Voltage fault (Pending, Critical); GW 0x238B GW Signal plausibility fault (Stored, Critical). Engineering confirmation is required.
+Source-Language Note - The technical cause must be confirmed from measured evidence. Use approved diagnostic procedures.
+Root Cause Status - Candidate only
+Possible Root Cause - Connector or harness issue
+Recommended Checks - Compare live value with reference; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

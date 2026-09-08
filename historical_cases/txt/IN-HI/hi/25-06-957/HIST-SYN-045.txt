@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-045
+Source Report - Prod_Diagnostic_Extended_SYN_045.txt
+Source Language - hi
+Canonical Language - en
+Region - IN-HI
+VIN Scope - Synthetic
+SW I-Step - 25-06-957
+Test Type - Charging validation
+Test Environment - Climate chamber
+Primary ECU - TCM
+Related ECUs - CHARGE_CTRL, FCAM, OBC, VCU
+DTC Codes - 0xFDDD, 0x1E75, 0xDE64, 0x004B, 0x7192
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_045.txt contains 55 DTCs across 25 ECUs for SW I-Step 25-06-957. The leading candidates include TCM 0xFDDD TCM Performance issue (Pending, Critical); CHARGE_CTRL 0x1E75 CHARGE_CTRL Internal control module fault (Stored, Critical); FCAM 0xDE64 FCAM Signal plausibility fault (Stored, Critical); VCU 0x004B VCU Performance issue (Pending, Critical); OBC 0x7192 OBC Voltage fault (Pending, Critical). Engineering confirmation is required.
+Source-Language Note - तकनीकी कारण की पुष्टि मापन डेटा से की जानी चाहिए। स्वीकृत डायग्नोस्टिक प्रक्रिया का उपयोग करें।
+Root Cause Status - Candidate only
+Possible Root Cause - Supply or ground instability
+Recommended Checks - Verify supply and ground under load; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

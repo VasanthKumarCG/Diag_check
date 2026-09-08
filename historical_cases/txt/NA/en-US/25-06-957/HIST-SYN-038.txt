@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-038
+Source Report - Prod_Diagnostic_Extended_SYN_038.txt
+Source Language - en-US
+Canonical Language - en
+Region - NA
+VIN Scope - Synthetic
+SW I-Step - 25-06-957
+Test Type - Highway profile
+Test Environment - Workshop dynamometer
+Primary ECU - ADAS
+Related ECUs - BCM, GW, RR_CORNER_RADAR, TCU
+DTC Codes - 0x6DB1, 0x1FDC, 0x90CB, 0x2DCE, 0x1CAF
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_038.txt contains 68 DTCs across 26 ECUs for SW I-Step 25-06-957. The leading candidates include ADAS 0x6DB1 ADAS Communication fault (Active, Critical); BCM 0x1FDC BCM Timeout fault (Active, Critical); RR_CORNER_RADAR 0x90CB RR_CORNER_RADAR Timeout fault (Active, Critical); TCU 0x2DCE TCU Communication fault (Active, Critical); GW 0x1CAF GW Internal control module fault (Stored, Critical). Engineering confirmation is required.
+Source-Language Note - The technical cause must be confirmed from measured evidence. Use approved diagnostic procedures.
+Root Cause Status - Candidate only
+Possible Root Cause - Supply or ground instability
+Recommended Checks - Inspect connector and harness; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

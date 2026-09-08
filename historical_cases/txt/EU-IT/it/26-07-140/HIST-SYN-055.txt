@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-055
+Source Report - Prod_Diagnostic_Extended_SYN_055.txt
+Source Language - it
+Canonical Language - en
+Region - EU-IT
+VIN Scope - Synthetic
+SW I-Step - 26-07-140
+Test Type - Urban profile
+Test Environment - Public road profile
+Primary ECU - ADAS
+Related ECUs - BCM, RR_CORNER_RADAR, SEAT_CTRL, TPMS
+DTC Codes - 0x1E2E, 0x49A3, 0xFB2A, 0x7C4D, 0x191F
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_055.txt contains 63 DTCs across 27 ECUs for SW I-Step 26-07-140. The leading candidates include ADAS 0x1E2E ADAS Communication fault (Active, Critical); SEAT_CTRL 0x49A3 SEAT_CTRL Communication fault (Active, Critical); BCM 0xFB2A BCM Timeout fault (Active, Critical); TPMS 0x7C4D TPMS Communication fault (Active, Critical); RR_CORNER_RADAR 0x191F RR_CORNER_RADAR Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - La causa tecnica deve essere confermata con i dati misurati. Utilizzare procedure diagnostiche approvate.
+Root Cause Status - Candidate only
+Possible Root Cause - Network congestion or termination issue
+Recommended Checks - Inspect connector and harness; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

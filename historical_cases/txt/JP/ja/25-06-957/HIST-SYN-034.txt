@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-034
+Source Report - Prod_Diagnostic_Extended_SYN_034.txt
+Source Language - ja
+Canonical Language - en
+Region - JP
+VIN Scope - Synthetic
+SW I-Step - 25-06-957
+Test Type - Cold climate
+Test Environment - Proving ground
+Primary ECU - BCM
+Related ECUs - ADAS, RR_CORNER_RADAR, SEAT_CTRL, TCU
+DTC Codes - 0xA431, 0xB3AF, 0x6C9D, 0xAA14, 0x3901
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_034.txt contains 71 DTCs across 26 ECUs for SW I-Step 25-06-957. The leading candidates include BCM 0xA431 BCM Communication fault (Active, Critical); RR_CORNER_RADAR 0xB3AF RR_CORNER_RADAR Communication fault (Active, Critical); TCU 0x6C9D TCU Timeout fault (Active, Critical); ADAS 0xAA14 ADAS Timeout fault (Active, Critical); SEAT_CTRL 0x3901 SEAT_CTRL Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - 技術的原因は測定データで確認する必要があります。 承認済みの診断手順を使用してください。
+Root Cause Status - Candidate only
+Possible Root Cause - Connector or harness issue
+Recommended Checks - Compare live value with reference; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-091
+Source Report - Prod_Diagnostic_Extended_SYN_091.txt
+Source Language - it
+Canonical Language - en
+Region - EU-IT
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Network robustness
+Test Environment - Public road profile
+Primary ECU - BCM
+Related ECUs - RR_CORNER_RADAR, TCU, THERMAL_CTRL, TPMS
+DTC Codes - 0xEA95, 0xD42E, 0xED47, 0x4123, 0x1262
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_091.txt contains 67 DTCs across 27 ECUs for SW I-Step 26-09-310. The leading candidates include BCM 0xEA95 BCM Communication fault (Active, Critical); TPMS 0xD42E TPMS Timeout fault (Active, Critical); RR_CORNER_RADAR 0xED47 RR_CORNER_RADAR Communication fault (Active, Critical); TCU 0x4123 TCU Timeout fault (Active, Critical); THERMAL_CTRL 0x1262 THERMAL_CTRL Communication fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - La causa tecnica deve essere confermata con i dati misurati. Utilizzare procedure diagnostiche approvate.
+Root Cause Status - Candidate only
+Possible Root Cause - Sensor drift or contamination
+Recommended Checks - Compare live value with reference; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

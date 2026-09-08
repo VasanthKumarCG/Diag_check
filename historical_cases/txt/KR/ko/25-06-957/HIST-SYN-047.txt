@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-047
+Source Report - Prod_Diagnostic_Extended_SYN_047.txt
+Source Language - ko
+Canonical Language - en
+Region - KR
+VIN Scope - Synthetic
+SW I-Step - 25-06-957
+Test Type - Urban profile
+Test Environment - HIL bench
+Primary ECU - RR_CORNER_RADAR
+Related ECUs - ADAS, SEAT_CTRL, TCU, THERMAL_CTRL
+DTC Codes - 0xFE5E, 0x26C3, 0x813B, 0x7B07, 0x732F
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_047.txt contains 69 DTCs across 27 ECUs for SW I-Step 25-06-957. The leading candidates include RR_CORNER_RADAR 0xFE5E RR_CORNER_RADAR Timeout fault (Active, Critical); TCU 0x26C3 TCU Communication fault (Active, Critical); THERMAL_CTRL 0x813B THERMAL_CTRL Timeout fault (Active, Critical); ADAS 0x7B07 ADAS Communication fault (Active, Critical); SEAT_CTRL 0x732F SEAT_CTRL Communication fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - 기술적 원인은 측정 데이터로 확인해야 합니다. 승인된 진단 절차를 사용하십시오.
+Root Cause Status - Candidate only
+Possible Root Cause - Connector or harness issue
+Recommended Checks - Run actuator test and rescan; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

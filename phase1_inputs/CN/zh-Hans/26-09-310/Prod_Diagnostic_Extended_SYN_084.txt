@@ -1,0 +1,2364 @@
+VIN - SYN95B7FEA
+SW I-Step - 26-09-310
+SA's - G H I J K L M N
+SA's - O P Q R S T U V
+ECU - TCU
+Hardware Version - 124.628.796
+Bootloader Version - 4.52.436
+SW Version - 24.6.108
+Coding - 292.232.904
+Diagnostic Address - 0x694
+Calibration Version - CAL-665196
+Network - LIN 19.2 kbit/s
+Secure Boot - Attention
+OTA State - Current
+ECU - GW
+Hardware Version - 125.629.797
+Bootloader Version - 5.53.437
+SW Version - 25.7.145
+Coding - 293.233.905
+Diagnostic Address - 0x695
+Calibration Version - CAL-665293
+Network - CAN FD 2/5 Mbit/s
+Secure Boot - Verified
+OTA State - Update available
+ECU - ECM
+Hardware Version - 126.630.798
+Bootloader Version - 6.54.438
+SW Version - 26.8.182
+Coding - 294.234.906
+Diagnostic Address - 0x696
+Calibration Version - CAL-665390
+Network - CAN 500 kbit/s
+Secure Boot - Verified
+OTA State - Install pending
+ECU - OBC
+Hardware Version - 127.631.799
+Bootloader Version - 7.55.439
+SW Version - 24.9.219
+Coding - 295.235.907
+Diagnostic Address - 0x697
+Calibration Version - CAL-665487
+Network - 100BASE-T1
+Secure Boot - Attention
+OTA State - Current
+ECU - BCM
+Hardware Version - 128.632.800
+Bootloader Version - 8.56.440
+SW Version - 25.10.256
+Coding - 296.236.908
+Diagnostic Address - 0x698
+Calibration Version - CAL-665584
+Network - 1000BASE-T1
+Secure Boot - Verified
+OTA State - Update available
+ECU - FCAM
+Hardware Version - 129.633.801
+Bootloader Version - 9.57.441
+SW Version - 26.11.293
+Coding - 297.237.909
+Diagnostic Address - 0x699
+Calibration Version - CAL-665681
+Network - LIN 19.2 kbit/s
+Secure Boot - Verified
+OTA State - Install pending
+ECU - HVAC
+Hardware Version - 130.634.802
+Bootloader Version - 1.58.442
+SW Version - 24.12.330
+Coding - 298.238.910
+Diagnostic Address - 0x69A
+Calibration Version - CAL-665778
+Network - CAN FD 2/5 Mbit/s
+Secure Boot - Attention
+OTA State - Current
+ECU - TCM
+Hardware Version - 131.635.803
+Bootloader Version - 2.59.443
+SW Version - 25.0.367
+Coding - 299.239.911
+Diagnostic Address - 0x69B
+Calibration Version - CAL-665875
+Network - CAN 500 kbit/s
+Secure Boot - Verified
+OTA State - Update available
+ECU - ADAS
+Hardware Version - 132.636.804
+Bootloader Version - 3.60.444
+SW Version - 26.1.404
+Coding - 300.240.912
+Diagnostic Address - 0x69C
+Calibration Version - CAL-665972
+Network - 100BASE-T1
+Secure Boot - Verified
+OTA State - Install pending
+ECU - EPS
+Hardware Version - 133.637.805
+Bootloader Version - 4.61.445
+SW Version - 24.2.441
+Coding - 301.241.913
+Diagnostic Address - 0x69D
+Calibration Version - CAL-666069
+Network - 1000BASE-T1
+Secure Boot - Attention
+OTA State - Current
+ECU - ABS
+Hardware Version - 134.638.806
+Bootloader Version - 5.62.446
+SW Version - 25.3.478
+Coding - 302.242.914
+Diagnostic Address - 0x69E
+Calibration Version - CAL-666166
+Network - LIN 19.2 kbit/s
+Secure Boot - Verified
+OTA State - Update available
+ECU - RADAR
+Hardware Version - 135.639.807
+Bootloader Version - 6.63.447
+SW Version - 26.4.515
+Coding - 303.243.915
+Diagnostic Address - 0x69F
+Calibration Version - CAL-666263
+Network - CAN FD 2/5 Mbit/s
+Secure Boot - Verified
+OTA State - Install pending
+ECU - RR_CORNER_RADAR
+Hardware Version - 136.640.808
+Bootloader Version - 7.64.448
+SW Version - 24.5.552
+Coding - 304.244.916
+Diagnostic Address - 0x6A0
+Calibration Version - CAL-666360
+Network - CAN 500 kbit/s
+Secure Boot - Attention
+OTA State - Current
+ECU - BODY_DC
+Hardware Version - 137.641.809
+Bootloader Version - 8.65.449
+SW Version - 25.6.589
+Coding - 305.245.917
+Diagnostic Address - 0x6A1
+Calibration Version - CAL-666457
+Network - 100BASE-T1
+Secure Boot - Verified
+OTA State - Update available
+ECU - LIGHT_CTRL
+Hardware Version - 138.642.810
+Bootloader Version - 9.66.450
+SW Version - 26.7.626
+Coding - 306.246.918
+Diagnostic Address - 0x6A2
+Calibration Version - CAL-666554
+Network - 1000BASE-T1
+Secure Boot - Verified
+OTA State - Install pending
+ECU - VCU
+Hardware Version - 139.643.811
+Bootloader Version - 1.67.451
+SW Version - 24.8.663
+Coding - 307.247.919
+Diagnostic Address - 0x6A3
+Calibration Version - CAL-666651
+Network - LIN 19.2 kbit/s
+Secure Boot - Attention
+OTA State - Current
+ECU - SEAT_CTRL
+Hardware Version - 140.644.812
+Bootloader Version - 2.68.452
+SW Version - 25.9.700
+Coding - 308.248.920
+Diagnostic Address - 0x6A4
+Calibration Version - CAL-666748
+Network - CAN FD 2/5 Mbit/s
+Secure Boot - Verified
+OTA State - Update available
+ECU - CHARGE_CTRL
+Hardware Version - 141.645.813
+Bootloader Version - 3.69.453
+SW Version - 26.10.737
+Coding - 309.249.921
+Diagnostic Address - 0x6A5
+Calibration Version - CAL-666845
+Network - CAN 500 kbit/s
+Secure Boot - Verified
+OTA State - Install pending
+ECU - BMS
+Hardware Version - 142.646.814
+Bootloader Version - 4.70.454
+SW Version - 24.11.774
+Coding - 310.250.922
+Diagnostic Address - 0x6A6
+Calibration Version - CAL-666942
+Network - 100BASE-T1
+Secure Boot - Attention
+OTA State - Current
+ECU - DMS
+Hardware Version - 143.647.815
+Bootloader Version - 5.71.455
+SW Version - 25.12.811
+Coding - 311.251.923
+Diagnostic Address - 0x6A7
+Calibration Version - CAL-667039
+Network - 1000BASE-T1
+Secure Boot - Verified
+OTA State - Update available
+ECU - THERMAL_CTRL
+Hardware Version - 144.648.816
+Bootloader Version - 6.72.456
+SW Version - 26.0.848
+Coding - 312.252.924
+Diagnostic Address - 0x6A8
+Calibration Version - CAL-667136
+Network - LIN 19.2 kbit/s
+Secure Boot - Verified
+OTA State - Install pending
+ECU - PARK_ASSIST
+Hardware Version - 145.649.817
+Bootloader Version - 7.73.457
+SW Version - 24.1.885
+Coding - 313.253.925
+Diagnostic Address - 0x6A9
+Calibration Version - CAL-667233
+Network - CAN FD 2/5 Mbit/s
+Secure Boot - Attention
+OTA State - Current
+ECU - KEYLESS
+Hardware Version - 146.650.818
+Bootloader Version - 8.74.458
+SW Version - 25.2.922
+Coding - 314.254.926
+Diagnostic Address - 0x6AA
+Calibration Version - CAL-667330
+Network - CAN 500 kbit/s
+Secure Boot - Verified
+OTA State - Update available
+ECU - INV_FRONT
+Hardware Version - 147.651.819
+Bootloader Version - 9.75.459
+SW Version - 26.3.959
+Coding - 315.255.927
+Diagnostic Address - 0x6AB
+Calibration Version - CAL-667427
+Network - 100BASE-T1
+Secure Boot - Verified
+OTA State - Install pending
+DTCs
+TCU :
+DTC - 0x9224 - TCU Timeout fault
+Status - Active
+Occurrence Counter - 7
+Aging Counter - 0
+Priority - 5
+Healing Counter - 0
+Debounce Counter - 156
+Severity - Critical
+First Detected - 2026-03-14 08:00:00
+Last Detected - 2026-03-18 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Network congestion or termination issue
+Recommended Check - Verify supply and ground under load
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-18 08:00:00
+  RSSI - 256
+  GPS Status - 515
+  Network Type - 650
+  Speed - 506
+  Voltage - 641
+  ECU Internal Temp - 93.2
+  ECU Supply Voltage - 12.08
+  Communication Error Counter - 2
+DTC - 0xED9A - TCU Performance issue
+Status - Pending
+Occurrence Counter - 14
+Aging Counter - 1
+Priority - 1
+Healing Counter - 1
+Debounce Counter - 169
+Severity - High
+First Detected - 2026-03-12 05:00:00
+Last Detected - 2026-03-17 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Connector or harness issue
+Recommended Check - Run actuator test and rescan
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-17 05:00:00
+  RSSI - 329
+  GPS Status - 588
+  Network Type - 723
+  Speed - 579
+  Voltage - 714
+  ECU Internal Temp - 100.5
+  ECU Supply Voltage - 12.25
+  Communication Error Counter - 3
+DTC - 0x7CBF - TCU Calibration fault
+Status - Intermittent
+Occurrence Counter - 21
+Aging Counter - 2
+Priority - 2
+Healing Counter - 2
+Debounce Counter - 182
+Severity - Medium
+First Detected - 2026-03-10 02:00:00
+Last Detected - 2026-03-16 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Sensor drift or contamination
+Recommended Check - Preserve trace and check network integrity
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-16 02:00:00
+  RSSI - 402
+  GPS Status - 661
+  Network Type - 796
+  Speed - 652
+  Voltage - 787
+  ECU Internal Temp - 107.8
+  ECU Supply Voltage - 12.42
+  Communication Error Counter - 4
+DTC - 0x1453 - TCU Internal control module fault
+Status - Stored
+Occurrence Counter - 28
+Aging Counter - 3
+Priority - 3
+Healing Counter - 3
+Debounce Counter - 195
+Severity - Low
+First Detected - 2026-03-07 23:00:00
+Last Detected - 2026-03-14 23:00:00
+Confirmation State - Confirmed
+Possible Cause - Software or calibration mismatch
+Recommended Check - Inspect connector and harness
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-14 23:00:00
+  RSSI - 475
+  GPS Status - 734
+  Network Type - 869
+  Speed - 725
+  Voltage - 860
+  ECU Internal Temp - 25.1
+  ECU Supply Voltage - 12.59
+  Communication Error Counter - 5
+GW :
+DTC - 0x1D10 - GW Performance issue
+Status - Pending
+Occurrence Counter - 12
+Aging Counter - 1
+Priority - 1
+Healing Counter - 1
+Debounce Counter - 163
+Severity - Medium
+First Detected - 2026-03-12 08:00:00
+Last Detected - 2026-03-17 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Connector or harness issue
+Recommended Check - Inspect connector and harness
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-17 08:00:00
+  CAN Load - 453
+  Eth Status - 588
+  Voltage - 568
+  Bus Errors - 734
+  Ignition - 745
+  ECU Internal Temp - 100.5
+  ECU Supply Voltage - 12.25
+  Communication Error Counter - 3
+DTC - 0x332F - GW Calibration fault
+Status - Intermittent
+Occurrence Counter - 19
+Aging Counter - 2
+Priority - 2
+Healing Counter - 2
+Debounce Counter - 176
+Severity - Low
+First Detected - 2026-03-10 05:00:00
+Last Detected - 2026-03-16 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Sensor drift or contamination
+Recommended Check - Compare live value with reference
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-16 05:00:00
+  CAN Load - 526
+  Eth Status - 661
+  Voltage - 641
+  Bus Errors - 807
+  Ignition - 818
+  ECU Internal Temp - 107.8
+  ECU Supply Voltage - 12.42
+  Communication Error Counter - 4
+DTC - 0x0FFC - GW Internal control module fault
+Status - Stored
+Occurrence Counter - 26
+Aging Counter - 3
+Priority - 3
+Healing Counter - 3
+Debounce Counter - 189
+Severity - Critical
+First Detected - 2026-03-08 02:00:00
+Last Detected - 2026-03-15 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Software or calibration mismatch
+Recommended Check - Verify supply and ground under load
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-15 02:00:00
+  CAN Load - 599
+  Eth Status - 734
+  Voltage - 714
+  Bus Errors - 880
+  Ignition - 891
+  ECU Internal Temp - 25.1
+  ECU Supply Voltage - 12.59
+  Communication Error Counter - 5
+DTC - 0xAFB0 - GW Communication fault
+Status - Active
+Occurrence Counter - 33
+Aging Counter - 4
+Priority - 4
+Healing Counter - 4
+Debounce Counter - 202
+Severity - High
+First Detected - 2026-03-05 23:00:00
+Last Detected - 2026-03-13 23:00:00
+Confirmation State - Confirmed
+Possible Cause - Supply or ground instability
+Recommended Check - Run actuator test and rescan
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-13 23:00:00
+  CAN Load - 672
+  Eth Status - 807
+  Voltage - 787
+  Bus Errors - 953
+  Ignition - 964
+  ECU Internal Temp - 32.4
+  ECU Supply Voltage - 12.76
+  Communication Error Counter - 6
+ECM :
+DTC - 0xDBD5 - ECM Calibration fault
+Status - Intermittent
+Occurrence Counter - 17
+Aging Counter - 2
+Priority - 2
+Healing Counter - 2
+Debounce Counter - 170
+Severity - Critical
+First Detected - 2026-03-10 08:00:00
+Last Detected - 2026-03-16 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Sensor drift or contamination
+Recommended Check - Run actuator test and rescan
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-16 08:00:00
+  RPM - 371
+  Coolant Temp - 723
+  Fuel Pressure - 827
+  Boost Pressure - 931
+  Engine Load - 911
+  ECU Internal Temp - 107.8
+  ECU Supply Voltage - 12.42
+  Communication Error Counter - 4
+DTC - 0x04ED - ECM Internal control module fault
+Status - Stored
+Occurrence Counter - 24
+Aging Counter - 3
+Priority - 3
+Healing Counter - 3
+Debounce Counter - 183
+Severity - High
+First Detected - 2026-03-08 05:00:00
+Last Detected - 2026-03-15 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Software or calibration mismatch
+Recommended Check - Preserve trace and check network integrity
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-15 05:00:00
+  RPM - 444
+  Coolant Temp - 796
+  Fuel Pressure - 900
+  Boost Pressure - 4
+  Engine Load - 984
+  ECU Internal Temp - 25.1
+  ECU Supply Voltage - 12.59
+  Communication Error Counter - 5
+DTC - 0x1BC6 - ECM Communication fault
+Status - Active
+Occurrence Counter - 31
+Aging Counter - 4
+Priority - 4
+Healing Counter - 4
+Debounce Counter - 196
+Severity - Medium
+First Detected - 2026-03-06 02:00:00
+Last Detected - 2026-03-14 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Supply or ground instability
+Recommended Check - Inspect connector and harness
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-14 02:00:00
+  RPM - 517
+  Coolant Temp - 869
+  Fuel Pressure - 973
+  Boost Pressure - 77
+  Engine Load - 57
+  ECU Internal Temp - 32.4
+  ECU Supply Voltage - 12.76
+  Communication Error Counter - 6
+DTC - 0xB814 - ECM Voltage fault
+Status - Pending
+Occurrence Counter - 38
+Aging Counter - 5
+Priority - 5
+Healing Counter - 5
+Debounce Counter - 209
+Severity - Low
+First Detected - 2026-03-03 23:00:00
+Last Detected - 2026-03-12 23:00:00
+Confirmation State - Confirmed
+Possible Cause - Network congestion or termination issue
+Recommended Check - Compare live value with reference
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-12 23:00:00
+  RPM - 590
+  Coolant Temp - 942
+  Fuel Pressure - 46
+  Boost Pressure - 150
+  Engine Load - 130
+  ECU Internal Temp - 39.7
+  ECU Supply Voltage - 12.93
+  Communication Error Counter - 7
+OBC :
+DTC - 0xA8C7 - OBC Internal control module fault
+Status - Stored
+Occurrence Counter - 22
+Aging Counter - 3
+Priority - 3
+Healing Counter - 3
+Debounce Counter - 177
+Severity - Medium
+First Detected - 2026-03-08 08:00:00
+Last Detected - 2026-03-15 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Software or calibration mismatch
+Recommended Check - Compare live value with reference
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-15 08:00:00
+  AC Voltage - 661
+  Charge Current - 858
+  Battery Temp - 869
+  SOC - 663
+  Input Freq - 953
+  ECU Internal Temp - 25.1
+  ECU Supply Voltage - 12.59
+  Communication Error Counter - 5
+DTC - 0x7FF4 - OBC Communication fault
+Status - Active
+Occurrence Counter - 29
+Aging Counter - 4
+Priority - 4
+Healing Counter - 4
+Debounce Counter - 190
+Severity - Low
+First Detected - 2026-03-06 05:00:00
+Last Detected - 2026-03-14 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Supply or ground instability
+Recommended Check - Verify supply and ground under load
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-14 05:00:00
+  AC Voltage - 734
+  Charge Current - 931
+  Battery Temp - 942
+  SOC - 736
+  Input Freq - 26
+  ECU Internal Temp - 32.4
+  ECU Supply Voltage - 12.76
+  Communication Error Counter - 6
+DTC - 0x71AD - OBC Voltage fault
+Status - Pending
+Occurrence Counter - 36
+Aging Counter - 5
+Priority - 5
+Healing Counter - 5
+Debounce Counter - 203
+Severity - Critical
+First Detected - 2026-03-04 02:00:00
+Last Detected - 2026-03-13 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Network congestion or termination issue
+Recommended Check - Run actuator test and rescan
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-13 02:00:00
+  AC Voltage - 807
+  Charge Current - 4
+  Battery Temp - 15
+  SOC - 809
+  Input Freq - 99
+  ECU Internal Temp - 39.7
+  ECU Supply Voltage - 12.93
+  Communication Error Counter - 7
+DTC - 0x1F19 - OBC Sensor range fault
+Status - Intermittent
+Occurrence Counter - 43
+Aging Counter - 6
+Priority - 1
+Healing Counter - 6
+Debounce Counter - 216
+Severity - High
+First Detected - 2026-03-01 23:00:00
+Last Detected - 2026-03-11 23:00:00
+Confirmation State - Confirmed
+Possible Cause - Connector or harness issue
+Recommended Check - Preserve trace and check network integrity
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-11 23:00:00
+  AC Voltage - 880
+  Charge Current - 77
+  Battery Temp - 88
+  SOC - 882
+  Input Freq - 172
+  ECU Internal Temp - 47.0
+  ECU Supply Voltage - 13.1
+  Communication Error Counter - 8
+BCM :
+DTC - 0x58E1 - BCM Communication fault
+Status - Active
+Occurrence Counter - 27
+Aging Counter - 4
+Priority - 4
+Healing Counter - 4
+Debounce Counter - 184
+Severity - Critical
+First Detected - 2026-03-06 08:00:00
+Last Detected - 2026-03-14 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Supply or ground instability
+Recommended Check - Preserve trace and check network integrity
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-14 08:00:00
+  Battery Voltage - 889
+  Door Status - 838
+  Lock State - 880
+  Ignition - 891
+  Window Pos - 26
+  ECU Internal Temp - 32.4
+  ECU Supply Voltage - 12.76
+  Communication Error Counter - 6
+DTC - 0xD0FE - BCM Voltage fault
+Status - Pending
+Occurrence Counter - 34
+Aging Counter - 5
+Priority - 5
+Healing Counter - 5
+Debounce Counter - 197
+Severity - High
+First Detected - 2026-03-04 05:00:00
+Last Detected - 2026-03-13 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Network congestion or termination issue
+Recommended Check - Inspect connector and harness
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-13 05:00:00
+  Battery Voltage - 962
+  Door Status - 911
+  Lock State - 953
+  Ignition - 964
+  Window Pos - 99
+  ECU Internal Temp - 39.7
+  ECU Supply Voltage - 12.93
+  Communication Error Counter - 7
+DTC - 0xF20C - BCM Sensor range fault
+Status - Intermittent
+Occurrence Counter - 41
+Aging Counter - 6
+Priority - 1
+Healing Counter - 6
+Debounce Counter - 210
+Severity - Medium
+First Detected - 2026-03-02 02:00:00
+Last Detected - 2026-03-12 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Connector or harness issue
+Recommended Check - Compare live value with reference
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-12 02:00:00
+  Battery Voltage - 35
+  Door Status - 984
+  Lock State - 26
+  Ignition - 37
+  Window Pos - 172
+  ECU Internal Temp - 47.0
+  ECU Supply Voltage - 13.1
+  Communication Error Counter - 8
+DTC - 0xE30D - BCM Signal plausibility fault
+Status - Stored
+Occurrence Counter - 48
+Aging Counter - 7
+Priority - 2
+Healing Counter - 7
+Debounce Counter - 223
+Severity - Low
+First Detected - 2026-02-27 23:00:00
+Last Detected - 2026-03-10 23:00:00
+Confirmation State - Confirmed
+Possible Cause - Sensor drift or contamination
+Recommended Check - Verify supply and ground under load
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-10 23:00:00
+  Battery Voltage - 108
+  Door Status - 57
+  Lock State - 99
+  Ignition - 110
+  Window Pos - 245
+  ECU Internal Temp - 54.3
+  ECU Supply Voltage - 13.27
+  Communication Error Counter - 9
+FCAM :
+DTC - 0xE86E - FCAM Voltage fault
+Status - Pending
+Occurrence Counter - 32
+Aging Counter - 5
+Priority - 5
+Healing Counter - 5
+Debounce Counter - 191
+Severity - Medium
+First Detected - 2026-03-04 08:00:00
+Last Detected - 2026-03-13 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Network congestion or termination issue
+Recommended Check - Verify supply and ground under load
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-13 08:00:00
+  Lane Confidence - 962
+  Visibility - 880
+  Image Quality - 46
+  Speed - 871
+  Light Level - 130
+  ECU Internal Temp - 39.7
+  ECU Supply Voltage - 12.93
+  Communication Error Counter - 7
+DTC - 0x35B2 - FCAM Sensor range fault
+Status - Intermittent
+Occurrence Counter - 39
+Aging Counter - 6
+Priority - 1
+Healing Counter - 6
+Debounce Counter - 204
+Severity - Low
+First Detected - 2026-03-02 05:00:00
+Last Detected - 2026-03-12 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Connector or harness issue
+Recommended Check - Run actuator test and rescan
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-12 05:00:00
+  Lane Confidence - 35
+  Visibility - 953
+  Image Quality - 119
+  Speed - 944
+  Light Level - 203
+  ECU Internal Temp - 47.0
+  ECU Supply Voltage - 13.1
+  Communication Error Counter - 8
+DTC - 0xF7F0 - FCAM Signal plausibility fault
+Status - Stored
+Occurrence Counter - 46
+Aging Counter - 7
+Priority - 2
+Healing Counter - 7
+Debounce Counter - 217
+Severity - Critical
+First Detected - 2026-02-28 02:00:00
+Last Detected - 2026-03-11 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Sensor drift or contamination
+Recommended Check - Preserve trace and check network integrity
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-11 02:00:00
+  Lane Confidence - 108
+  Visibility - 26
+  Image Quality - 192
+  Speed - 17
+  Light Level - 276
+  ECU Internal Temp - 54.3
+  ECU Supply Voltage - 13.27
+  Communication Error Counter - 9
+DTC - 0x596B - FCAM Timeout fault
+Status - Active
+Occurrence Counter - 3
+Aging Counter - 8
+Priority - 3
+Healing Counter - 8
+Debounce Counter - 230
+Severity - High
+First Detected - 2026-02-25 23:00:00
+Last Detected - 2026-03-09 23:00:00
+Confirmation State - Confirmed
+Possible Cause - Software or calibration mismatch
+Recommended Check - Inspect connector and harness
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-09 23:00:00
+  Lane Confidence - 181
+  Visibility - 99
+  Image Quality - 265
+  Speed - 90
+  Light Level - 349
+  ECU Internal Temp - 61.6
+  ECU Supply Voltage - 13.44
+  Communication Error Counter - 10
+HVAC :
+DTC - 0xD818 - HVAC Sensor range fault
+Status - Intermittent
+Occurrence Counter - 37
+Aging Counter - 6
+Priority - 1
+Healing Counter - 6
+Debounce Counter - 198
+Severity - Critical
+First Detected - 2026-03-02 08:00:00
+Last Detected - 2026-03-12 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Connector or harness issue
+Recommended Check - Inspect connector and harness
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-12 08:00:00
+  Cabin Temp - 880
+  Blower Speed - 15
+  Evap Temp - 995
+  Ambient Temp - 161
+  AC Pressure - 203
+  ECU Internal Temp - 47.0
+  ECU Supply Voltage - 13.1
+  Communication Error Counter - 8
+DTC - 0x6B7C - HVAC Signal plausibility fault
+Status - Stored
+Occurrence Counter - 44
+Aging Counter - 7
+Priority - 2
+Healing Counter - 7
+Debounce Counter - 211
+Severity - High
+First Detected - 2026-02-28 05:00:00
+Last Detected - 2026-03-11 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Sensor drift or contamination
+Recommended Check - Compare live value with reference
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-11 05:00:00
+  Cabin Temp - 953
+  Blower Speed - 88
+  Evap Temp - 68
+  Ambient Temp - 234
+  AC Pressure - 276
+  ECU Internal Temp - 54.3
+  ECU Supply Voltage - 13.27
+  Communication Error Counter - 9
+DTC - 0x283A - HVAC Timeout fault
+Status - Active
+Occurrence Counter - 1
+Aging Counter - 8
+Priority - 3
+Healing Counter - 8
+Debounce Counter - 224
+Severity - Medium
+First Detected - 2026-02-26 02:00:00
+Last Detected - 2026-03-10 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Software or calibration mismatch
+Recommended Check - Verify supply and ground under load
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-10 02:00:00
+  Cabin Temp - 26
+  Blower Speed - 161
+  Evap Temp - 141
+  Ambient Temp - 307
+  AC Pressure - 349
+  ECU Internal Temp - 61.6
+  ECU Supply Voltage - 13.44
+  Communication Error Counter - 10
+DTC - 0x03E5 - HVAC Performance issue
+Status - Pending
+Occurrence Counter - 8
+Aging Counter - 9
+Priority - 4
+Healing Counter - 9
+Debounce Counter - 237
+Severity - Low
+First Detected - 2026-02-23 23:00:00
+Last Detected - 2026-03-08 23:00:00
+Confirmation State - Confirmed
+Possible Cause - Supply or ground instability
+Recommended Check - Run actuator test and rescan
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-08 23:00:00
+  Cabin Temp - 99
+  Blower Speed - 234
+  Evap Temp - 214
+  Ambient Temp - 380
+  AC Pressure - 422
+  ECU Internal Temp - 68.9
+  ECU Supply Voltage - 13.61
+  Communication Error Counter - 11
+TCM :
+DTC - 0xBCED - TCM Signal plausibility fault
+Status - Stored
+Occurrence Counter - 42
+Aging Counter - 7
+Priority - 2
+Healing Counter - 7
+Debounce Counter - 205
+Severity - Medium
+First Detected - 2026-02-28 08:00:00
+Last Detected - 2026-03-11 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Sensor drift or contamination
+Recommended Check - Run actuator test and rescan
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-11 08:00:00
+  Gear - 767
+  Oil Temp - 964
+  Turbine Speed - 192
+  Clutch Pressure - 327
+  Output Speed - 307
+  ECU Internal Temp - 54.3
+  ECU Supply Voltage - 13.27
+  Communication Error Counter - 9
+DTC - 0x8B52 - TCM Timeout fault
+Status - Active
+Occurrence Counter - 49
+Aging Counter - 8
+Priority - 3
+Healing Counter - 8
+Debounce Counter - 218
+Severity - Low
+First Detected - 2026-02-26 05:00:00
+Last Detected - 2026-03-10 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Software or calibration mismatch
+Recommended Check - Preserve trace and check network integrity
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-10 05:00:00
+  Gear - 840
+  Oil Temp - 37
+  Turbine Speed - 265
+  Clutch Pressure - 400
+  Output Speed - 380
+  ECU Internal Temp - 61.6
+  ECU Supply Voltage - 13.44
+  Communication Error Counter - 10
+DTC - 0xD38F - TCM Performance issue
+Status - Pending
+Occurrence Counter - 6
+Aging Counter - 9
+Priority - 4
+Healing Counter - 9
+Debounce Counter - 231
+Severity - Critical
+First Detected - 2026-02-24 02:00:00
+Last Detected - 2026-03-09 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Supply or ground instability
+Recommended Check - Inspect connector and harness
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-09 02:00:00
+  Gear - 913
+  Oil Temp - 110
+  Turbine Speed - 338
+  Clutch Pressure - 473
+  Output Speed - 453
+  ECU Internal Temp - 68.9
+  ECU Supply Voltage - 13.61
+  Communication Error Counter - 11
+DTC - 0xA7C2 - TCM Calibration fault
+Status - Intermittent
+Occurrence Counter - 13
+Aging Counter - 10
+Priority - 5
+Healing Counter - 10
+Debounce Counter - 244
+Severity - High
+First Detected - 2026-02-21 23:00:00
+Last Detected - 2026-03-07 23:00:00
+Confirmation State - Confirmed
+Possible Cause - Network congestion or termination issue
+Recommended Check - Compare live value with reference
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-07 23:00:00
+  Gear - 986
+  Oil Temp - 183
+  Turbine Speed - 411
+  Clutch Pressure - 546
+  Output Speed - 526
+  ECU Internal Temp - 76.2
+  ECU Supply Voltage - 13.78
+  Communication Error Counter - 12
+ADAS :
+DTC - 0x9AAE - ADAS Timeout fault
+Status - Active
+Occurrence Counter - 47
+Aging Counter - 8
+Priority - 3
+Healing Counter - 8
+Debounce Counter - 212
+Severity - Critical
+First Detected - 2026-02-26 08:00:00
+Last Detected - 2026-03-10 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Software or calibration mismatch
+Recommended Check - Compare live value with reference
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-10 08:00:00
+  CPU Load - 964
+  Lane State - 99
+  Object Count - 234
+  Voltage - 152
+  Speed - 163
+  ECU Internal Temp - 61.6
+  ECU Supply Voltage - 13.44
+  Communication Error Counter - 10
+DTC - 0xD709 - ADAS Performance issue
+Status - Pending
+Occurrence Counter - 4
+Aging Counter - 9
+Priority - 4
+Healing Counter - 9
+Debounce Counter - 225
+Severity - High
+First Detected - 2026-02-24 05:00:00
+Last Detected - 2026-03-09 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Supply or ground instability
+Recommended Check - Verify supply and ground under load
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-09 05:00:00
+  CPU Load - 37
+  Lane State - 172
+  Object Count - 307
+  Voltage - 225
+  Speed - 236
+  ECU Internal Temp - 68.9
+  ECU Supply Voltage - 13.61
+  Communication Error Counter - 11
+DTC - 0x26CD - ADAS Calibration fault
+Status - Intermittent
+Occurrence Counter - 11
+Aging Counter - 10
+Priority - 5
+Healing Counter - 10
+Debounce Counter - 238
+Severity - Medium
+First Detected - 2026-02-22 02:00:00
+Last Detected - 2026-03-08 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Network congestion or termination issue
+Recommended Check - Run actuator test and rescan
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-08 02:00:00
+  CPU Load - 110
+  Lane State - 245
+  Object Count - 380
+  Voltage - 298
+  Speed - 309
+  ECU Internal Temp - 76.2
+  ECU Supply Voltage - 13.78
+  Communication Error Counter - 12
+EPS :
+DTC - 0xFB6E - EPS Performance issue
+Status - Pending
+Occurrence Counter - 2
+Aging Counter - 9
+Priority - 4
+Healing Counter - 9
+Debounce Counter - 219
+Severity - Medium
+First Detected - 2026-02-24 08:00:00
+Last Detected - 2026-03-09 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Supply or ground instability
+Recommended Check - Preserve trace and check network integrity
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-09 08:00:00
+  Steering Angle - 223
+  Driver Torque - 265
+  Motor Current - 338
+  Supply Voltage - 442
+  Speed - 236
+  ECU Internal Temp - 68.9
+  ECU Supply Voltage - 13.61
+  Communication Error Counter - 11
+DTC - 0x74F9 - EPS Calibration fault
+Status - Intermittent
+Occurrence Counter - 9
+Aging Counter - 10
+Priority - 5
+Healing Counter - 10
+Debounce Counter - 232
+Severity - Low
+First Detected - 2026-02-22 05:00:00
+Last Detected - 2026-03-08 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Network congestion or termination issue
+Recommended Check - Inspect connector and harness
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-08 05:00:00
+  Steering Angle - 296
+  Driver Torque - 338
+  Motor Current - 411
+  Supply Voltage - 515
+  Speed - 309
+  ECU Internal Temp - 76.2
+  ECU Supply Voltage - 13.78
+  Communication Error Counter - 12
+DTC - 0x8DBF - EPS Internal control module fault
+Status - Stored
+Occurrence Counter - 16
+Aging Counter - 11
+Priority - 1
+Healing Counter - 11
+Debounce Counter - 245
+Severity - Critical
+First Detected - 2026-02-20 02:00:00
+Last Detected - 2026-03-07 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Connector or harness issue
+Recommended Check - Compare live value with reference
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-07 02:00:00
+  Steering Angle - 369
+  Driver Torque - 411
+  Motor Current - 484
+  Supply Voltage - 588
+  Speed - 382
+  ECU Internal Temp - 83.5
+  ECU Supply Voltage - 13.95
+  Communication Error Counter - 13
+ABS :
+DTC - 0x8E38 - ABS Calibration fault
+Status - Intermittent
+Occurrence Counter - 7
+Aging Counter - 10
+Priority - 5
+Healing Counter - 10
+Debounce Counter - 226
+Severity - Critical
+First Detected - 2026-02-22 08:00:00
+Last Detected - 2026-03-08 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Network congestion or termination issue
+Recommended Check - Verify supply and ground under load
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-08 08:00:00
+  Wheel FL - 110
+  Wheel FR - 183
+  Brake Pressure - 442
+  Yaw Rate - 329
+  Vehicle Speed - 557
+  ECU Internal Temp - 76.2
+  ECU Supply Voltage - 13.78
+  Communication Error Counter - 12
+DTC - 0x1D7C - ABS Internal control module fault
+Status - Stored
+Occurrence Counter - 14
+Aging Counter - 11
+Priority - 1
+Healing Counter - 11
+Debounce Counter - 239
+Severity - High
+First Detected - 2026-02-20 05:00:00
+Last Detected - 2026-03-07 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Connector or harness issue
+Recommended Check - Run actuator test and rescan
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-07 05:00:00
+  Wheel FL - 183
+  Wheel FR - 256
+  Brake Pressure - 515
+  Yaw Rate - 402
+  Vehicle Speed - 630
+  ECU Internal Temp - 83.5
+  ECU Supply Voltage - 13.95
+  Communication Error Counter - 13
+DTC - 0xBF8E - ABS Communication fault
+Status - Active
+Occurrence Counter - 21
+Aging Counter - 12
+Priority - 2
+Healing Counter - 12
+Debounce Counter - 252
+Severity - Medium
+First Detected - 2026-02-18 02:00:00
+Last Detected - 2026-03-06 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Sensor drift or contamination
+Recommended Check - Preserve trace and check network integrity
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-06 02:00:00
+  Wheel FL - 256
+  Wheel FR - 329
+  Brake Pressure - 588
+  Yaw Rate - 475
+  Vehicle Speed - 703
+  ECU Internal Temp - 90.8
+  ECU Supply Voltage - 14.12
+  Communication Error Counter - 14
+RADAR :
+DTC - 0xDF6F - RADAR Internal control module fault
+Status - Stored
+Occurrence Counter - 12
+Aging Counter - 11
+Priority - 1
+Healing Counter - 11
+Debounce Counter - 233
+Severity - Medium
+First Detected - 2026-02-20 08:00:00
+Last Detected - 2026-03-07 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Connector or harness issue
+Recommended Check - Inspect connector and harness
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-07 08:00:00
+  Target Distance - 400
+  Relative Speed - 442
+  Object Count - 453
+  Speed - 309
+  Temperature - 568
+  ECU Internal Temp - 83.5
+  ECU Supply Voltage - 13.95
+  Communication Error Counter - 13
+DTC - 0xB0B6 - RADAR Communication fault
+Status - Active
+Occurrence Counter - 19
+Aging Counter - 12
+Priority - 2
+Healing Counter - 12
+Debounce Counter - 246
+Severity - Low
+First Detected - 2026-02-18 05:00:00
+Last Detected - 2026-03-06 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Sensor drift or contamination
+Recommended Check - Compare live value with reference
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-06 05:00:00
+  Target Distance - 473
+  Relative Speed - 515
+  Object Count - 526
+  Speed - 382
+  Temperature - 641
+  ECU Internal Temp - 90.8
+  ECU Supply Voltage - 14.12
+  Communication Error Counter - 14
+DTC - 0x317D - RADAR Voltage fault
+Status - Pending
+Occurrence Counter - 26
+Aging Counter - 13
+Priority - 3
+Healing Counter - 13
+Debounce Counter - 3
+Severity - Critical
+First Detected - 2026-02-16 02:00:00
+Last Detected - 2026-03-05 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Software or calibration mismatch
+Recommended Check - Verify supply and ground under load
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-05 02:00:00
+  Target Distance - 546
+  Relative Speed - 588
+  Object Count - 599
+  Speed - 455
+  Temperature - 714
+  ECU Internal Temp - 98.1
+  ECU Supply Voltage - 14.29
+  Communication Error Counter - 15
+RR_CORNER_RADAR :
+DTC - 0x8974 - RR_CORNER_RADAR Communication fault
+Status - Active
+Occurrence Counter - 17
+Aging Counter - 12
+Priority - 2
+Healing Counter - 12
+Debounce Counter - 240
+Severity - Critical
+First Detected - 2026-02-18 08:00:00
+Last Detected - 2026-03-06 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Sensor drift or contamination
+Recommended Check - Run actuator test and rescan
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-06 08:00:00
+  Target Distance - 473
+  Relative Speed - 515
+  Object Count - 526
+  Alignment Offset - 723
+  Temperature - 641
+  ECU Internal Temp - 90.8
+  ECU Supply Voltage - 14.12
+  Communication Error Counter - 14
+DTC - 0x6143 - RR_CORNER_RADAR Voltage fault
+Status - Pending
+Occurrence Counter - 24
+Aging Counter - 13
+Priority - 3
+Healing Counter - 13
+Debounce Counter - 253
+Severity - High
+First Detected - 2026-02-16 05:00:00
+Last Detected - 2026-03-05 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Software or calibration mismatch
+Recommended Check - Preserve trace and check network integrity
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-05 05:00:00
+  Target Distance - 546
+  Relative Speed - 588
+  Object Count - 599
+  Alignment Offset - 796
+  Temperature - 714
+  ECU Internal Temp - 98.1
+  ECU Supply Voltage - 14.29
+  Communication Error Counter - 15
+DTC - 0x519B - RR_CORNER_RADAR Sensor range fault
+Status - Intermittent
+Occurrence Counter - 31
+Aging Counter - 14
+Priority - 4
+Healing Counter - 14
+Debounce Counter - 10
+Severity - Medium
+First Detected - 2026-02-14 02:00:00
+Last Detected - 2026-03-04 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Supply or ground instability
+Recommended Check - Inspect connector and harness
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-04 02:00:00
+  Target Distance - 619
+  Relative Speed - 661
+  Object Count - 672
+  Alignment Offset - 869
+  Temperature - 787
+  ECU Internal Temp - 105.4
+  ECU Supply Voltage - 14.46
+  Communication Error Counter - 16
+BODY_DC :
+DTC - 0xCFEB - BODY_DC Voltage fault
+Status - Pending
+Occurrence Counter - 22
+Aging Counter - 13
+Priority - 3
+Healing Counter - 13
+Debounce Counter - 247
+Severity - Medium
+First Detected - 2026-02-16 08:00:00
+Last Detected - 2026-03-05 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Software or calibration mismatch
+Recommended Check - Compare live value with reference
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-05 08:00:00
+  Supply Voltage - 515
+  CPU Load - 402
+  Door Requests - 630
+  Lighting Requests - 827
+  Network Errors - 807
+  ECU Internal Temp - 98.1
+  ECU Supply Voltage - 14.29
+  Communication Error Counter - 15
+DTC - 0x43A9 - BODY_DC Sensor range fault
+Status - Intermittent
+Occurrence Counter - 29
+Aging Counter - 14
+Priority - 4
+Healing Counter - 14
+Debounce Counter - 4
+Severity - Low
+First Detected - 2026-02-14 05:00:00
+Last Detected - 2026-03-04 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Supply or ground instability
+Recommended Check - Verify supply and ground under load
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-04 05:00:00
+  Supply Voltage - 588
+  CPU Load - 475
+  Door Requests - 703
+  Lighting Requests - 900
+  Network Errors - 880
+  ECU Internal Temp - 105.4
+  ECU Supply Voltage - 14.46
+  Communication Error Counter - 16
+DTC - 0xA0E0 - BODY_DC Signal plausibility fault
+Status - Stored
+Occurrence Counter - 36
+Aging Counter - 15
+Priority - 5
+Healing Counter - 15
+Debounce Counter - 17
+Severity - Critical
+First Detected - 2026-02-12 02:00:00
+Last Detected - 2026-03-03 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Network congestion or termination issue
+Recommended Check - Run actuator test and rescan
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-03 02:00:00
+  Supply Voltage - 661
+  CPU Load - 548
+  Door Requests - 776
+  Lighting Requests - 973
+  Network Errors - 953
+  ECU Internal Temp - 22.7
+  ECU Supply Voltage - 14.63
+  Communication Error Counter - 17
+LIGHT_CTRL :
+DTC - 0xF5BD - LIGHT_CTRL Sensor range fault
+Status - Intermittent
+Occurrence Counter - 27
+Aging Counter - 14
+Priority - 4
+Healing Counter - 14
+Debounce Counter - 254
+Severity - Critical
+First Detected - 2026-02-14 08:00:00
+Last Detected - 2026-03-04 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Supply or ground instability
+Recommended Check - Preserve trace and check network integrity
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-04 08:00:00
+  Low Beam State - 588
+  High Beam State - 692
+  Ambient Light - 703
+  Lamp Current - 745
+  Voltage - 663
+  ECU Internal Temp - 105.4
+  ECU Supply Voltage - 14.46
+  Communication Error Counter - 16
+DTC - 0x0D14 - LIGHT_CTRL Signal plausibility fault
+Status - Stored
+Occurrence Counter - 34
+Aging Counter - 15
+Priority - 5
+Healing Counter - 15
+Debounce Counter - 11
+Severity - High
+First Detected - 2026-02-12 05:00:00
+Last Detected - 2026-03-03 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Network congestion or termination issue
+Recommended Check - Inspect connector and harness
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-03 05:00:00
+  Low Beam State - 661
+  High Beam State - 765
+  Ambient Light - 776
+  Lamp Current - 818
+  Voltage - 736
+  ECU Internal Temp - 22.7
+  ECU Supply Voltage - 14.63
+  Communication Error Counter - 17
+DTC - 0xC435 - LIGHT_CTRL Timeout fault
+Status - Active
+Occurrence Counter - 41
+Aging Counter - 16
+Priority - 1
+Healing Counter - 16
+Debounce Counter - 24
+Severity - Medium
+First Detected - 2026-02-26 02:00:00
+Last Detected - 2026-03-18 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Connector or harness issue
+Recommended Check - Compare live value with reference
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-18 02:00:00
+  Low Beam State - 734
+  High Beam State - 838
+  Ambient Light - 849
+  Lamp Current - 891
+  Voltage - 809
+  ECU Internal Temp - 30.0
+  ECU Supply Voltage - 11.4
+  Communication Error Counter - 18
+VCU :
+DTC - 0xE4BF - VCU Signal plausibility fault
+Status - Stored
+Occurrence Counter - 32
+Aging Counter - 15
+Priority - 5
+Healing Counter - 15
+Debounce Counter - 5
+Severity - Medium
+First Detected - 2026-02-12 08:00:00
+Last Detected - 2026-03-03 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Network congestion or termination issue
+Recommended Check - Verify supply and ground under load
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-03 08:00:00
+  Requested Torque - 723
+  Actual Torque - 703
+  Drive Mode - 683
+  Vehicle Speed - 849
+  HV State - 767
+  ECU Internal Temp - 22.7
+  ECU Supply Voltage - 14.63
+  Communication Error Counter - 17
+DTC - 0x083B - VCU Timeout fault
+Status - Active
+Occurrence Counter - 39
+Aging Counter - 16
+Priority - 1
+Healing Counter - 16
+Debounce Counter - 18
+Severity - Low
+First Detected - 2026-02-26 05:00:00
+Last Detected - 2026-03-18 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Connector or harness issue
+Recommended Check - Run actuator test and rescan
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-18 05:00:00
+  Requested Torque - 796
+  Actual Torque - 776
+  Drive Mode - 756
+  Vehicle Speed - 922
+  HV State - 840
+  ECU Internal Temp - 30.0
+  ECU Supply Voltage - 11.4
+  Communication Error Counter - 18
+DTC - 0x5360 - VCU Performance issue
+Status - Pending
+Occurrence Counter - 46
+Aging Counter - 17
+Priority - 2
+Healing Counter - 17
+Debounce Counter - 31
+Severity - Critical
+First Detected - 2026-02-24 02:00:00
+Last Detected - 2026-03-17 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Sensor drift or contamination
+Recommended Check - Preserve trace and check network integrity
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-17 02:00:00
+  Requested Torque - 869
+  Actual Torque - 849
+  Drive Mode - 829
+  Vehicle Speed - 995
+  HV State - 913
+  ECU Internal Temp - 37.3
+  ECU Supply Voltage - 11.57
+  Communication Error Counter - 19
+SEAT_CTRL :
+DTC - 0x39B8 - SEAT_CTRL Timeout fault
+Status - Active
+Occurrence Counter - 37
+Aging Counter - 16
+Priority - 1
+Healing Counter - 16
+Debounce Counter - 12
+Severity - Critical
+First Detected - 2026-02-26 08:00:00
+Last Detected - 2026-03-18 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Connector or harness issue
+Recommended Check - Inspect connector and harness
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-18 08:00:00
+  Seat Position - 703
+  Backrest Position - 900
+  Occupancy - 725
+  Motor Current - 922
+  Voltage - 809
+  ECU Internal Temp - 30.0
+  ECU Supply Voltage - 11.4
+  Communication Error Counter - 18
+DTC - 0xBDA7 - SEAT_CTRL Performance issue
+Status - Pending
+Occurrence Counter - 44
+Aging Counter - 17
+Priority - 2
+Healing Counter - 17
+Debounce Counter - 25
+Severity - High
+First Detected - 2026-02-24 05:00:00
+Last Detected - 2026-03-17 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Sensor drift or contamination
+Recommended Check - Compare live value with reference
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-17 05:00:00
+  Seat Position - 776
+  Backrest Position - 973
+  Occupancy - 798
+  Motor Current - 995
+  Voltage - 882
+  ECU Internal Temp - 37.3
+  ECU Supply Voltage - 11.57
+  Communication Error Counter - 19
+DTC - 0xF885 - SEAT_CTRL Calibration fault
+Status - Intermittent
+Occurrence Counter - 1
+Aging Counter - 18
+Priority - 3
+Healing Counter - 18
+Debounce Counter - 38
+Severity - Medium
+First Detected - 2026-02-22 02:00:00
+Last Detected - 2026-03-16 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Software or calibration mismatch
+Recommended Check - Verify supply and ground under load
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-16 02:00:00
+  Seat Position - 849
+  Backrest Position - 46
+  Occupancy - 871
+  Motor Current - 68
+  Voltage - 955
+  ECU Internal Temp - 44.6
+  ECU Supply Voltage - 11.74
+  Communication Error Counter - 20
+CHARGE_CTRL :
+DTC - 0x273A - CHARGE_CTRL Performance issue
+Status - Pending
+Occurrence Counter - 42
+Aging Counter - 17
+Priority - 2
+Healing Counter - 17
+Debounce Counter - 19
+Severity - Medium
+First Detected - 2026-02-24 08:00:00
+Last Detected - 2026-03-17 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Sensor drift or contamination
+Recommended Check - Run actuator test and rescan
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-17 08:00:00
+  CP Duty - 590
+  EVSE Limit - 756
+  Plug Temp - 798
+  Charge Power - 964
+  Lock State - 975
+  ECU Internal Temp - 37.3
+  ECU Supply Voltage - 11.57
+  Communication Error Counter - 19
+DTC - 0x9AF3 - CHARGE_CTRL Calibration fault
+Status - Intermittent
+Occurrence Counter - 49
+Aging Counter - 18
+Priority - 3
+Healing Counter - 18
+Debounce Counter - 32
+Severity - Low
+First Detected - 2026-02-22 05:00:00
+Last Detected - 2026-03-16 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Software or calibration mismatch
+Recommended Check - Preserve trace and check network integrity
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-16 05:00:00
+  CP Duty - 663
+  EVSE Limit - 829
+  Plug Temp - 871
+  Charge Power - 37
+  Lock State - 48
+  ECU Internal Temp - 44.6
+  ECU Supply Voltage - 11.74
+  Communication Error Counter - 20
+DTC - 0x0C24 - CHARGE_CTRL Internal control module fault
+Status - Stored
+Occurrence Counter - 6
+Aging Counter - 19
+Priority - 4
+Healing Counter - 19
+Debounce Counter - 45
+Severity - Critical
+First Detected - 2026-02-20 02:00:00
+Last Detected - 2026-03-15 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Supply or ground instability
+Recommended Check - Inspect connector and harness
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-15 02:00:00
+  CP Duty - 736
+  EVSE Limit - 902
+  Plug Temp - 944
+  Charge Power - 110
+  Lock State - 121
+  ECU Internal Temp - 51.9
+  ECU Supply Voltage - 11.91
+  Communication Error Counter - 21
+BMS :
+DTC - 0x14DA - BMS Calibration fault
+Status - Intermittent
+Occurrence Counter - 47
+Aging Counter - 18
+Priority - 3
+Healing Counter - 18
+Debounce Counter - 26
+Severity - Critical
+First Detected - 2026-02-22 08:00:00
+Last Detected - 2026-03-16 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Software or calibration mismatch
+Recommended Check - Compare live value with reference
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-16 08:00:00
+  Pack Voltage - 818
+  Pack Current - 891
+  SOC - 685
+  SOH - 758
+  Cell Delta - 48
+  ECU Internal Temp - 44.6
+  ECU Supply Voltage - 11.74
+  Communication Error Counter - 20
+DTC - 0x75C9 - BMS Internal control module fault
+Status - Stored
+Occurrence Counter - 4
+Aging Counter - 19
+Priority - 4
+Healing Counter - 19
+Debounce Counter - 39
+Severity - High
+First Detected - 2026-02-20 05:00:00
+Last Detected - 2026-03-15 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Supply or ground instability
+Recommended Check - Verify supply and ground under load
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-15 05:00:00
+  Pack Voltage - 891
+  Pack Current - 964
+  SOC - 758
+  SOH - 831
+  Cell Delta - 121
+  ECU Internal Temp - 51.9
+  ECU Supply Voltage - 11.91
+  Communication Error Counter - 21
+DTC - 0x0AE2 - BMS Communication fault
+Status - Active
+Occurrence Counter - 11
+Aging Counter - 20
+Priority - 5
+Healing Counter - 20
+Debounce Counter - 52
+Severity - Medium
+First Detected - 2026-02-18 02:00:00
+Last Detected - 2026-03-14 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Network congestion or termination issue
+Recommended Check - Run actuator test and rescan
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-14 02:00:00
+  Pack Voltage - 964
+  Pack Current - 37
+  SOC - 831
+  SOH - 904
+  Cell Delta - 194
+  ECU Internal Temp - 59.2
+  ECU Supply Voltage - 12.08
+  Communication Error Counter - 22
+DMS :
+DTC - 0xB808 - DMS Internal control module fault
+Status - Stored
+Occurrence Counter - 2
+Aging Counter - 19
+Priority - 4
+Healing Counter - 19
+Debounce Counter - 33
+Severity - Medium
+First Detected - 2026-02-20 08:00:00
+Last Detected - 2026-03-15 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Supply or ground instability
+Recommended Check - Preserve trace and check network integrity
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-15 08:00:00
+  Attention Score - 984
+  Eye Closure - 933
+  Gaze Direction - 99
+  Face Confidence - 203
+  Visibility - 121
+  ECU Internal Temp - 51.9
+  ECU Supply Voltage - 11.91
+  Communication Error Counter - 21
+DTC - 0x73E8 - DMS Communication fault
+Status - Active
+Occurrence Counter - 9
+Aging Counter - 20
+Priority - 5
+Healing Counter - 20
+Debounce Counter - 46
+Severity - Low
+First Detected - 2026-02-18 05:00:00
+Last Detected - 2026-03-14 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Network congestion or termination issue
+Recommended Check - Inspect connector and harness
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-14 05:00:00
+  Attention Score - 57
+  Eye Closure - 6
+  Gaze Direction - 172
+  Face Confidence - 276
+  Visibility - 194
+  ECU Internal Temp - 59.2
+  ECU Supply Voltage - 12.08
+  Communication Error Counter - 22
+DTC - 0x289F - DMS Voltage fault
+Status - Pending
+Occurrence Counter - 16
+Aging Counter - 0
+Priority - 1
+Healing Counter - 0
+Debounce Counter - 59
+Severity - Critical
+First Detected - 2026-03-09 02:00:00
+Last Detected - 2026-03-13 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Connector or harness issue
+Recommended Check - Compare live value with reference
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-13 02:00:00
+  Attention Score - 130
+  Eye Closure - 79
+  Gaze Direction - 245
+  Face Confidence - 349
+  Visibility - 267
+  ECU Internal Temp - 66.5
+  ECU Supply Voltage - 12.25
+  Communication Error Counter - 23
+THERMAL_CTRL :
+DTC - 0xBFDD - THERMAL_CTRL Communication fault
+Status - Active
+Occurrence Counter - 7
+Aging Counter - 20
+Priority - 5
+Healing Counter - 20
+Debounce Counter - 40
+Severity - Critical
+First Detected - 2026-02-18 08:00:00
+Last Detected - 2026-03-14 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Network congestion or termination issue
+Recommended Check - Verify supply and ground under load
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-14 08:00:00
+  Battery Inlet Temp - 150
+  Battery Outlet Temp - 254
+  Pump Speed - 48
+  Valve Position - 245
+  Refrigerant Pressure - 504
+  ECU Internal Temp - 59.2
+  ECU Supply Voltage - 12.08
+  Communication Error Counter - 22
+DTC - 0xD38B - THERMAL_CTRL Voltage fault
+Status - Pending
+Occurrence Counter - 14
+Aging Counter - 0
+Priority - 1
+Healing Counter - 0
+Debounce Counter - 53
+Severity - High
+First Detected - 2026-03-09 05:00:00
+Last Detected - 2026-03-13 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Connector or harness issue
+Recommended Check - Run actuator test and rescan
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-13 05:00:00
+  Battery Inlet Temp - 223
+  Battery Outlet Temp - 327
+  Pump Speed - 121
+  Valve Position - 318
+  Refrigerant Pressure - 577
+  ECU Internal Temp - 66.5
+  ECU Supply Voltage - 12.25
+  Communication Error Counter - 23
+DTC - 0xF4A3 - THERMAL_CTRL Sensor range fault
+Status - Intermittent
+Occurrence Counter - 21
+Aging Counter - 1
+Priority - 2
+Healing Counter - 1
+Debounce Counter - 66
+Severity - Medium
+First Detected - 2026-03-07 02:00:00
+Last Detected - 2026-03-12 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Sensor drift or contamination
+Recommended Check - Preserve trace and check network integrity
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-12 02:00:00
+  Battery Inlet Temp - 296
+  Battery Outlet Temp - 400
+  Pump Speed - 194
+  Valve Position - 391
+  Refrigerant Pressure - 650
+  ECU Internal Temp - 73.8
+  ECU Supply Voltage - 12.42
+  Communication Error Counter - 24
+PARK_ASSIST :
+DTC - 0xEA73 - PARK_ASSIST Voltage fault
+Status - Pending
+Occurrence Counter - 12
+Aging Counter - 0
+Priority - 1
+Healing Counter - 0
+Debounce Counter - 47
+Severity - Medium
+First Detected - 2026-03-09 08:00:00
+Last Detected - 2026-03-13 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Connector or harness issue
+Recommended Check - Inspect connector and harness
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-13 08:00:00
+  Distance Front - 99
+  Distance Rear - 141
+  Slot Confidence - 276
+  Vehicle Speed - 287
+  System State - 329
+  ECU Internal Temp - 66.5
+  ECU Supply Voltage - 12.25
+  Communication Error Counter - 23
+DTC - 0xBC68 - PARK_ASSIST Sensor range fault
+Status - Intermittent
+Occurrence Counter - 19
+Aging Counter - 1
+Priority - 2
+Healing Counter - 1
+Debounce Counter - 60
+Severity - Low
+First Detected - 2026-03-07 05:00:00
+Last Detected - 2026-03-12 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Sensor drift or contamination
+Recommended Check - Compare live value with reference
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-12 05:00:00
+  Distance Front - 172
+  Distance Rear - 214
+  Slot Confidence - 349
+  Vehicle Speed - 360
+  System State - 402
+  ECU Internal Temp - 73.8
+  ECU Supply Voltage - 12.42
+  Communication Error Counter - 24
+DTC - 0x87F6 - PARK_ASSIST Signal plausibility fault
+Status - Stored
+Occurrence Counter - 26
+Aging Counter - 2
+Priority - 3
+Healing Counter - 2
+Debounce Counter - 73
+Severity - Critical
+First Detected - 2026-03-05 02:00:00
+Last Detected - 2026-03-11 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Software or calibration mismatch
+Recommended Check - Verify supply and ground under load
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-11 02:00:00
+  Distance Front - 245
+  Distance Rear - 287
+  Slot Confidence - 422
+  Vehicle Speed - 433
+  System State - 475
+  ECU Internal Temp - 81.1
+  ECU Supply Voltage - 12.59
+  Communication Error Counter - 25
+KEYLESS :
+DTC - 0x8F97 - KEYLESS Sensor range fault
+Status - Intermittent
+Occurrence Counter - 17
+Aging Counter - 1
+Priority - 2
+Healing Counter - 1
+Debounce Counter - 54
+Severity - Critical
+First Detected - 2026-03-07 08:00:00
+Last Detected - 2026-03-12 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Sensor drift or contamination
+Recommended Check - Run actuator test and rescan
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-12 08:00:00
+  Key RSSI - 986
+  Key Status - 121
+  Immobilizer State - 411
+  Antenna Status - 391
+  Voltage - 247
+  ECU Internal Temp - 73.8
+  ECU Supply Voltage - 12.42
+  Communication Error Counter - 24
+DTC - 0x1AE8 - KEYLESS Signal plausibility fault
+Status - Stored
+Occurrence Counter - 24
+Aging Counter - 2
+Priority - 3
+Healing Counter - 2
+Debounce Counter - 67
+Severity - High
+First Detected - 2026-03-05 05:00:00
+Last Detected - 2026-03-11 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Software or calibration mismatch
+Recommended Check - Preserve trace and check network integrity
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-11 05:00:00
+  Key RSSI - 59
+  Key Status - 194
+  Immobilizer State - 484
+  Antenna Status - 464
+  Voltage - 320
+  ECU Internal Temp - 81.1
+  ECU Supply Voltage - 12.59
+  Communication Error Counter - 25
+DTC - 0x97FC - KEYLESS Timeout fault
+Status - Active
+Occurrence Counter - 31
+Aging Counter - 3
+Priority - 4
+Healing Counter - 3
+Debounce Counter - 80
+Severity - Medium
+First Detected - 2026-03-03 02:00:00
+Last Detected - 2026-03-10 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Supply or ground instability
+Recommended Check - Inspect connector and harness
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-10 02:00:00
+  Key RSSI - 132
+  Key Status - 267
+  Immobilizer State - 557
+  Antenna Status - 537
+  Voltage - 393
+  ECU Internal Temp - 88.4
+  ECU Supply Voltage - 12.76
+  Communication Error Counter - 26
+INV_FRONT :
+DTC - 0xF836 - INV_FRONT Signal plausibility fault
+Status - Stored
+Occurrence Counter - 22
+Aging Counter - 2
+Priority - 3
+Healing Counter - 2
+Debounce Counter - 61
+Severity - Medium
+First Detected - 2026-03-05 08:00:00
+Last Detected - 2026-03-11 08:00:00
+Confirmation State - Confirmed
+Possible Cause - Software or calibration mismatch
+Recommended Check - Compare live value with reference
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-11 08:00:00
+  DC Link Voltage - 276
+  Motor Speed - 225
+  Motor Torque - 329
+  Phase Current - 433
+  Temperature - 444
+  ECU Internal Temp - 81.1
+  ECU Supply Voltage - 12.59
+  Communication Error Counter - 25
+DTC - 0x068F - INV_FRONT Timeout fault
+Status - Active
+Occurrence Counter - 29
+Aging Counter - 3
+Priority - 4
+Healing Counter - 3
+Debounce Counter - 74
+Severity - Low
+First Detected - 2026-03-03 05:00:00
+Last Detected - 2026-03-10 05:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Supply or ground instability
+Recommended Check - Verify supply and ground under load
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-10 05:00:00
+  DC Link Voltage - 349
+  Motor Speed - 298
+  Motor Torque - 402
+  Phase Current - 506
+  Temperature - 517
+  ECU Internal Temp - 88.4
+  ECU Supply Voltage - 12.76
+  Communication Error Counter - 26
+DTC - 0xEEDB - INV_FRONT Performance issue
+Status - Pending
+Occurrence Counter - 36
+Aging Counter - 4
+Priority - 5
+Healing Counter - 4
+Debounce Counter - 87
+Severity - Critical
+First Detected - 2026-03-01 02:00:00
+Last Detected - 2026-03-09 02:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Network congestion or termination issue
+Recommended Check - Run actuator test and rescan
+Source Language - zh-Hans
+Source Possible Cause - 可能原因: 技术原因必须通过测量数据确认。
+Source Recommended Check - 建议检查: 使用经批准的诊断流程。
+Environment Data:
+  Timestamp - 2026-03-09 02:00:00
+  DC Link Voltage - 422
+  Motor Speed - 371
+  Motor Torque - 475
+  Phase Current - 579
+  Temperature - 590
+  ECU Internal Temp - 95.7
+  ECU Supply Voltage - 12.93
+  Communication Error Counter - 27
+ADDITIONAL VEHICLE TEST INFORMATION
+Test Start - 2026-03-18 05:00:00
+Test End - 2026-03-18 08:00:00
+Test Type - Endurance
+Test Environment - Charging laboratory
+Logger ID - LOGGER-84
+ECU Count - 24
+Total DTCs - 80
+Active DTCs - 20
+CAN Frames Captured - 11370388
+CAN FD Frames Captured - 10133996
+Ethernet Packets Captured - 5996204
+Data Completeness - 99.40 %
+Overall Result - FAIL
+DISCLAIMER - Synthetic data only.

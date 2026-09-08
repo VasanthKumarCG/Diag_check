@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-004
+Source Report - Prod_Diagnostic_Extended_SYN_004.txt
+Source Language - fr
+Canonical Language - en
+Region - EU-FR
+VIN Scope - Synthetic
+SW I-Step - 24-10-227
+Test Type - Endurance
+Test Environment - Proving ground
+Primary ECU - RR_CORNER_RADAR
+Related ECUs - ADAS, SEAT_CTRL, TCU, THERMAL_CTRL
+DTC Codes - 0xED89, 0xDCE9, 0xC5D7, 0x0113, 0xDA8A
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_004.txt contains 78 DTCs across 24 ECUs for SW I-Step 24-10-227. The leading candidates include RR_CORNER_RADAR 0xED89 RR_CORNER_RADAR Communication fault (Active, Critical); TCU 0xDCE9 TCU Timeout fault (Active, Critical); THERMAL_CTRL 0xC5D7 THERMAL_CTRL Communication fault (Active, Critical); ADAS 0x0113 ADAS Timeout fault (Active, Critical); SEAT_CTRL 0xDA8A SEAT_CTRL Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - La cause technique doit être confirmée à partir des mesures. Utiliser les procédures de diagnostic approuvées.
+Root Cause Status - Candidate only
+Possible Root Cause - Sensor drift or contamination
+Recommended Checks - Run actuator test and rescan; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-020
+Source Report - Prod_Diagnostic_Extended_SYN_020.txt
+Source Language - pl
+Canonical Language - en
+Region - EU-PL
+VIN Scope - Synthetic
+SW I-Step - 24-10-227
+Test Type - Endurance
+Test Environment - Workshop dynamometer
+Primary ECU - RR_CORNER_RADAR
+Related ECUs - ADAS, SEAT_CTRL, TCU, THERMAL_CTRL
+DTC Codes - 0xB3CE, 0x3D31, 0xA179, 0x180B, 0x571B
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_020.txt contains 66 DTCs across 24 ECUs for SW I-Step 24-10-227. The leading candidates include RR_CORNER_RADAR 0xB3CE RR_CORNER_RADAR Communication fault (Active, Critical); TCU 0x3D31 TCU Timeout fault (Active, Critical); THERMAL_CTRL 0xA179 THERMAL_CTRL Communication fault (Active, Critical); ADAS 0x180B ADAS Timeout fault (Active, Critical); SEAT_CTRL 0x571B SEAT_CTRL Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - Przyczyna techniczna wymaga potwierdzenia na podstawie pomiarów. Użyć zatwierdzonych procedur diagnostycznych.
+Root Cause Status - Candidate only
+Possible Root Cause - Software or calibration mismatch
+Recommended Checks - Compare live value with reference; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

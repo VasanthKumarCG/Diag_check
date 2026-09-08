@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-083
+Source Report - Prod_Diagnostic_Extended_SYN_083.txt
+Source Language - ko
+Canonical Language - en
+Region - KR
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Network robustness
+Test Environment - HIL bench
+Primary ECU - ADAS
+Related ECUs - BCM, RR_CORNER_RADAR, SEAT_CTRL, TPMS
+DTC Codes - 0x4D21, 0x6E6F, 0x1557, 0xB0F6, 0x4371
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_083.txt contains 73 DTCs across 27 ECUs for SW I-Step 26-09-310. The leading candidates include ADAS 0x4D21 ADAS Timeout fault (Active, Critical); SEAT_CTRL 0x6E6F SEAT_CTRL Timeout fault (Active, Critical); BCM 0x1557 BCM Communication fault (Active, Critical); TPMS 0xB0F6 TPMS Timeout fault (Active, Critical); RR_CORNER_RADAR 0x4371 RR_CORNER_RADAR Communication fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - 기술적 원인은 측정 데이터로 확인해야 합니다. 승인된 진단 절차를 사용하십시오.
+Root Cause Status - Candidate only
+Possible Root Cause - Software or calibration mismatch
+Recommended Checks - Preserve trace and check network integrity; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

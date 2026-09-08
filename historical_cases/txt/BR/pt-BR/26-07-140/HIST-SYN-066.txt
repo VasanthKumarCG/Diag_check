@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-066
+Source Report - Prod_Diagnostic_Extended_SYN_066.txt
+Source Language - pt-BR
+Canonical Language - en
+Region - BR
+VIN Scope - Synthetic
+SW I-Step - 26-07-140
+Test Type - Cold climate
+Test Environment - Charging laboratory
+Primary ECU - ADAS
+Related ECUs - BCM, RR_CORNER_RADAR, SEAT_CTRL, TPMS
+DTC Codes - 0x57F1, 0xE79A, 0x8D3E, 0xD092, 0xA096
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_066.txt contains 78 DTCs across 26 ECUs for SW I-Step 26-07-140. The leading candidates include ADAS 0x57F1 ADAS Timeout fault (Active, Critical); SEAT_CTRL 0xE79A SEAT_CTRL Timeout fault (Active, Critical); BCM 0x8D3E BCM Communication fault (Active, Critical); TPMS 0xD092 TPMS Timeout fault (Active, Critical); RR_CORNER_RADAR 0xA096 RR_CORNER_RADAR Communication fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - A causa técnica deve ser confirmada com os dados medidos. Usar procedimentos de diagnóstico aprovados.
+Root Cause Status - Candidate only
+Possible Root Cause - Sensor drift or contamination
+Recommended Checks - Preserve trace and check network integrity; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

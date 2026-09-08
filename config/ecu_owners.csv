@@ -1,0 +1,5 @@
+ecu_name,department,team_name,owner_name,contact_email,escalation_path,active
+UCAP-10,Powertrain,UCAP Diagnostics,Replace Me,ucap-owner@example.invalid,Software Lead > Program Quality,true
+BCP,Body Controls,BCP Software,Replace Me,bcp-owner@example.invalid,Software Lead > Program Quality,true
+MGU,Electric Drive,MGU Controls,Replace Me,mgu-owner@example.invalid,Software Lead > Program Quality,true
+GW,Vehicle Network,Gateway Software,Replace Me,gw-owner@example.invalid,Network Lead > Program Quality,true

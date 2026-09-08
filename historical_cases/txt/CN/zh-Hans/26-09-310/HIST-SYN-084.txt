@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-084
+Source Report - Prod_Diagnostic_Extended_SYN_084.txt
+Source Language - zh-Hans
+Canonical Language - en
+Region - CN
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Endurance
+Test Environment - Charging laboratory
+Primary ECU - ADAS
+Related ECUs - BCM, RR_CORNER_RADAR, SEAT_CTRL, TCU
+DTC Codes - 0x9AAE, 0x39B8, 0x58E1, 0x8974, 0x9224
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_084.txt contains 80 DTCs across 24 ECUs for SW I-Step 26-09-310. The leading candidates include ADAS 0x9AAE ADAS Timeout fault (Active, Critical); SEAT_CTRL 0x39B8 SEAT_CTRL Timeout fault (Active, Critical); BCM 0x58E1 BCM Communication fault (Active, Critical); RR_CORNER_RADAR 0x8974 RR_CORNER_RADAR Communication fault (Active, Critical); TCU 0x9224 TCU Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - 技术原因必须通过测量数据确认。 使用经批准的诊断流程。
+Root Cause Status - Candidate only
+Possible Root Cause - Software or calibration mismatch
+Recommended Checks - Compare live value with reference; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

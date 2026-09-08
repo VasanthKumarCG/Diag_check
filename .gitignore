@@ -63,3 +63,31 @@ Desktop.ini
 
 # Power BI local temporary files
 *.pbix.autosave
+
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+logs/
+output/
+Data/input/diagnostic_reports/*
+Data/input/processed/*
+Data/input/rejected/*
+Data/input/failed/*
+!Data/input/diagnostic_reports/.gitkeep
+!Data/input/processed/.gitkeep
+!Data/input/rejected/.gitkeep
+!Data/input/failed/.gitkeep
+knowledge/approved/*
+!knowledge/approved/.gitkeep
+~$*
+.venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+output/
+logs/
+historical_docs/**/*
+!historical_docs/*/.gitkeep

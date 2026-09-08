@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-018
+Source Report - Prod_Diagnostic_Extended_SYN_018.txt
+Source Language - pt-BR
+Canonical Language - en
+Region - BR
+VIN Scope - Synthetic
+SW I-Step - 24-10-227
+Test Type - Cold climate
+Test Environment - Charging laboratory
+Primary ECU - TCM
+Related ECUs - CHARGE_CTRL, DCDC, FCAM, VCU
+DTC Codes - 0x746E, 0xC856, 0x8F5F, 0x3FA1, 0x2543
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_018.txt contains 52 DTCs across 26 ECUs for SW I-Step 24-10-227. The leading candidates include TCM 0x746E TCM Voltage fault (Pending, Critical); CHARGE_CTRL 0xC856 CHARGE_CTRL Signal plausibility fault (Stored, Critical); FCAM 0x8F5F FCAM Internal control module fault (Stored, Critical); VCU 0x3FA1 VCU Voltage fault (Pending, Critical); DCDC 0x2543 DCDC Signal plausibility fault (Stored, Critical). Engineering confirmation is required.
+Source-Language Note - A causa técnica deve ser confirmada com os dados medidos. Usar procedimentos de diagnóstico aprovados.
+Root Cause Status - Candidate only
+Possible Root Cause - Connector or harness issue
+Recommended Checks - Inspect connector and harness; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

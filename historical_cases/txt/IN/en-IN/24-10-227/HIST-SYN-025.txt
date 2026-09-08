@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-025
+Source Report - Prod_Diagnostic_Extended_SYN_025.txt
+Source Language - en-IN
+Canonical Language - en
+Region - IN
+VIN Scope - Synthetic
+SW I-Step - 24-10-227
+Test Type - Hot climate
+Test Environment - Public road profile
+Primary ECU - OBC
+Related ECUs - BODY_DC, GW, INV_FRONT, RADAR
+DTC Codes - 0x1DD2, 0x9302, 0x06D3, 0xAA87, 0xBDF5
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_025.txt contains 70 DTCs across 25 ECUs for SW I-Step 24-10-227. The leading candidates include OBC 0x1DD2 OBC Performance issue (Pending, Critical); BODY_DC 0x9302 BODY_DC Internal control module fault (Stored, Critical); INV_FRONT 0x06D3 INV_FRONT Voltage fault (Pending, Critical); GW 0xAA87 GW Signal plausibility fault (Stored, Critical); RADAR 0xBDF5 RADAR Performance issue (Pending, Critical). Engineering confirmation is required.
+Source-Language Note - The technical cause must be confirmed from measured evidence. Use approved diagnostic procedures.
+Root Cause Status - Candidate only
+Possible Root Cause - Network congestion or termination issue
+Recommended Checks - Inspect connector and harness; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-093
+Source Report - Prod_Diagnostic_Extended_SYN_093.txt
+Source Language - hi
+Canonical Language - en
+Region - IN-HI
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Charging validation
+Test Environment - Climate chamber
+Primary ECU - GW
+Related ECUs - DMS, EPS, PARK_ASSIST, RADAR
+DTC Codes - 0x4BEF, 0x1CEE, 0xB95E, 0x1600, 0x872C
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_093.txt contains 50 DTCs across 25 ECUs for SW I-Step 26-09-310. The leading candidates include GW 0x4BEF GW Internal control module fault (Stored, Critical); RADAR 0x1CEE RADAR Voltage fault (Pending, Critical); PARK_ASSIST 0xB95E PARK_ASSIST Signal plausibility fault (Stored, Critical); EPS 0x1600 EPS Internal control module fault (Stored, Critical); DMS 0x872C DMS Voltage fault (Pending, Critical). Engineering confirmation is required.
+Source-Language Note - तकनीकी कारण की पुष्टि मापन डेटा से की जानी चाहिए। स्वीकृत डायग्नोस्टिक प्रक्रिया का उपयोग करें।
+Root Cause Status - Candidate only
+Possible Root Cause - Connector or harness issue
+Recommended Checks - Run actuator test and rescan; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

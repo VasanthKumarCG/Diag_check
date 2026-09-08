@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-094
+Source Report - Prod_Diagnostic_Extended_SYN_094.txt
+Source Language - ja
+Canonical Language - en
+Region - JP
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Highway profile
+Test Environment - Proving ground
+Primary ECU - BCM
+Related ECUs - DMS, EPS, TCM, TCU
+DTC Codes - 0xE746, 0xF502, 0x6B7C, 0x9860, 0xAA62
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_094.txt contains 57 DTCs across 26 ECUs for SW I-Step 26-09-310. The leading candidates include BCM 0xE746 BCM Timeout fault (Active, Critical); TCU 0xF502 TCU Communication fault (Active, Critical); EPS 0x6B7C EPS Internal control module fault (Stored, Critical); DMS 0x9860 DMS Voltage fault (Pending, Critical); TCM 0xAA62 TCM Performance issue (Pending, Critical). Engineering confirmation is required.
+Source-Language Note - 技術的原因は測定データで確認する必要があります。 承認済みの診断手順を使用してください。
+Root Cause Status - Candidate only
+Possible Root Cause - Connector or harness issue
+Recommended Checks - Compare live value with reference; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

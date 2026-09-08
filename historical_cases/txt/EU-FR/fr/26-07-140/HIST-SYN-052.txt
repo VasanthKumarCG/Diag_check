@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-052
+Source Report - Prod_Diagnostic_Extended_SYN_052.txt
+Source Language - fr
+Canonical Language - en
+Region - EU-FR
+VIN Scope - Synthetic
+SW I-Step - 26-07-140
+Test Type - Endurance
+Test Environment - Proving ground
+Primary ECU - SEAT_CTRL
+Related ECUs - BCM, RR_CORNER_RADAR, TCU, THERMAL_CTRL
+DTC Codes - 0x80C4, 0x1360, 0x144D, 0xDAA7, 0xE7D0
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_052.txt contains 73 DTCs across 24 ECUs for SW I-Step 26-07-140. The leading candidates include SEAT_CTRL 0x80C4 SEAT_CTRL Timeout fault (Active, Critical); BCM 0x1360 BCM Communication fault (Active, Critical); RR_CORNER_RADAR 0x144D RR_CORNER_RADAR Communication fault (Active, Critical); TCU 0xDAA7 TCU Timeout fault (Active, Critical); THERMAL_CTRL 0xE7D0 THERMAL_CTRL Communication fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - La cause technique doit être confirmée à partir des mesures. Utiliser les procédures de diagnostic approuvées.
+Root Cause Status - Candidate only
+Possible Root Cause - Supply or ground instability
+Recommended Checks - Preserve trace and check network integrity; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

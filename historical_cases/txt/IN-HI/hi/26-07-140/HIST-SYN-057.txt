@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-057
+Source Report - Prod_Diagnostic_Extended_SYN_057.txt
+Source Language - hi
+Canonical Language - en
+Region - IN-HI
+VIN Scope - Synthetic
+SW I-Step - 26-07-140
+Test Type - Hot climate
+Test Environment - Climate chamber
+Primary ECU - TCU
+Related ECUs - BODY_DC, FCAM, OBC, VCU
+DTC Codes - 0x2ED3, 0x6C9E, 0xE8C1, 0x9C04, 0x3607
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_057.txt contains 77 DTCs across 25 ECUs for SW I-Step 26-07-140. The leading candidates include TCU 0x2ED3 TCU Timeout fault (Active, Critical); FCAM 0x6C9E FCAM Internal control module fault (Stored, Critical); VCU 0xE8C1 VCU Voltage fault (Pending, Critical); OBC 0x9C04 OBC Performance issue (Pending, Critical); BODY_DC 0x3607 BODY_DC Internal control module fault (Stored, Critical). Engineering confirmation is required.
+Source-Language Note - तकनीकी कारण की पुष्टि मापन डेटा से की जानी चाहिए। स्वीकृत डायग्नोस्टिक प्रक्रिया का उपयोग करें।
+Root Cause Status - Candidate only
+Possible Root Cause - Connector or harness issue
+Recommended Checks - Preserve trace and check network integrity; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

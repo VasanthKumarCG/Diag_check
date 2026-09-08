@@ -1,0 +1,10 @@
+{
+  "algorithm_version": "rules-v1",
+  "default_window_seconds": 30,
+  "relationships": [
+    {"source_ecu":"UCAP-10","target_ecu":"BCP","interaction_type":"CAN communication","network":"CAN FD","criticality":"High"},
+    {"source_ecu":"UCAP-10","target_ecu":"MGU","interaction_type":"Torque and state exchange","network":"CAN FD","criticality":"High"},
+    {"source_ecu":"UCAP-10","target_ecu":"GW","interaction_type":"Gateway routing","network":"1000BASE-T1","criticality":"Critical"},
+    {"source_ecu":"BCP","target_ecu":"GW","interaction_type":"Wakeup and power-state propagation","network":"CAN FD","criticality":"High"}
+  ]
+}

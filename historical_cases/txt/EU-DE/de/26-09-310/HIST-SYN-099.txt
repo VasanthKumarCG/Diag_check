@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-099
+Source Report - Prod_Diagnostic_Extended_SYN_099.txt
+Source Language - de
+Canonical Language - en
+Region - EU-DE
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Network robustness
+Test Environment - Climate chamber
+Primary ECU - TCU
+Related ECUs - ADAS, BCM, SEAT_CTRL, THERMAL_CTRL
+DTC Codes - 0x3E99, 0xB87C, 0x9DC2, 0x0E54, 0x5F9D
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_099.txt contains 61 DTCs across 27 ECUs for SW I-Step 26-09-310. The leading candidates include TCU 0x3E99 TCU Timeout fault (Active, Critical); THERMAL_CTRL 0xB87C THERMAL_CTRL Communication fault (Active, Critical); ADAS 0x9DC2 ADAS Timeout fault (Active, Critical); SEAT_CTRL 0x0E54 SEAT_CTRL Timeout fault (Active, Critical); BCM 0x5F9D BCM Communication fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - Die technische Ursache muss anhand der Messdaten bestätigt werden. Freigegebene Diagnoseverfahren verwenden.
+Root Cause Status - Candidate only
+Possible Root Cause - Connector or harness issue
+Recommended Checks - Run actuator test and rescan; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

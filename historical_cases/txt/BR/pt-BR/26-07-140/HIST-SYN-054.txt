@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-054
+Source Report - Prod_Diagnostic_Extended_SYN_054.txt
+Source Language - pt-BR
+Canonical Language - en
+Region - BR
+VIN Scope - Synthetic
+SW I-Step - 26-07-140
+Test Type - Highway profile
+Test Environment - Charging laboratory
+Primary ECU - TCU
+Related ECUs - EPS, GW, PARK_ASSIST, RADAR
+DTC Codes - 0xF43F, 0xC036, 0x6500, 0x4560, 0xAA96
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_054.txt contains 56 DTCs across 26 ECUs for SW I-Step 26-07-140. The leading candidates include TCU 0xF43F TCU Communication fault (Active, Critical); GW 0xC036 GW Internal control module fault (Stored, Critical); RADAR 0x6500 RADAR Voltage fault (Pending, Critical); PARK_ASSIST 0x4560 PARK_ASSIST Signal plausibility fault (Stored, Critical); EPS 0xAA96 EPS Internal control module fault (Stored, Critical). Engineering confirmation is required.
+Source-Language Note - A causa técnica deve ser confirmada com os dados medidos. Usar procedimentos de diagnóstico aprovados.
+Root Cause Status - Candidate only
+Possible Root Cause - Sensor drift or contamination
+Recommended Checks - Preserve trace and check network integrity; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

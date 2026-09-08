@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-100
+Source Report - Prod_Diagnostic_Extended_SYN_100.txt
+Source Language - fr
+Canonical Language - en
+Region - EU-FR
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Endurance
+Test Environment - Proving ground
+Primary ECU - ADAS
+Related ECUs - BCM, RR_CORNER_RADAR, SEAT_CTRL, TCU
+DTC Codes - 0x6748, 0xC3E0, 0xF9EA, 0x992F, 0x382D
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_100.txt contains 68 DTCs across 24 ECUs for SW I-Step 26-09-310. The leading candidates include ADAS 0x6748 ADAS Timeout fault (Active, Critical); SEAT_CTRL 0xC3E0 SEAT_CTRL Timeout fault (Active, Critical); BCM 0xF9EA BCM Communication fault (Active, Critical); RR_CORNER_RADAR 0x992F RR_CORNER_RADAR Communication fault (Active, Critical); TCU 0x382D TCU Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - La cause technique doit être confirmée à partir des mesures. Utiliser les procédures de diagnostic approuvées.
+Root Cause Status - Candidate only
+Possible Root Cause - Supply or ground instability
+Recommended Checks - Preserve trace and check network integrity; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

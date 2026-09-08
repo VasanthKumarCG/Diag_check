@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-029
+Source Report - Prod_Diagnostic_Extended_SYN_029.txt
+Source Language - es
+Canonical Language - en
+Region - LATAM
+VIN Scope - Synthetic
+SW I-Step - 25-06-957
+Test Type - Charging validation
+Test Environment - HIL bench
+Primary ECU - FCAM
+Related ECUs - BODY_DC, INV_FRONT, OBC, VCU
+DTC Codes - 0x2521, 0x74BA, 0x8379, 0x25AC, 0x9DF6
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_029.txt contains 67 DTCs across 25 ECUs for SW I-Step 25-06-957. The leading candidates include FCAM 0x2521 FCAM Signal plausibility fault (Stored, Critical); VCU 0x74BA VCU Performance issue (Pending, Critical); OBC 0x8379 OBC Voltage fault (Pending, Critical); BODY_DC 0x25AC BODY_DC Signal plausibility fault (Stored, Critical); INV_FRONT 0x9DF6 INV_FRONT Performance issue (Pending, Critical). Engineering confirmation is required.
+Source-Language Note - La causa técnica debe confirmarse con los datos medidos. Utilizar procedimientos de diagnóstico aprobados.
+Root Cause Status - Candidate only
+Possible Root Cause - Connector or harness issue
+Recommended Checks - Run actuator test and rescan; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

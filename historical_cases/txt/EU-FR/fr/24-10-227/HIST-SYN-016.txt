@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-016
+Source Report - Prod_Diagnostic_Extended_SYN_016.txt
+Source Language - fr
+Canonical Language - en
+Region - EU-FR
+VIN Scope - Synthetic
+SW I-Step - 24-10-227
+Test Type - Software regression
+Test Environment - Proving ground
+Primary ECU - TCU
+Related ECUs - ADAS, BCM, SEAT_CTRL, THERMAL_CTRL
+DTC Codes - 0x7A3D, 0x127D, 0x6593, 0xDCF6, 0x6C94
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_016.txt contains 69 DTCs across 24 ECUs for SW I-Step 24-10-227. The leading candidates include TCU 0x7A3D TCU Communication fault (Active, Critical); THERMAL_CTRL 0x127D THERMAL_CTRL Timeout fault (Active, Critical); ADAS 0x6593 ADAS Communication fault (Active, Critical); SEAT_CTRL 0xDCF6 SEAT_CTRL Communication fault (Active, Critical); BCM 0x6C94 BCM Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - La cause technique doit être confirmée à partir des mesures. Utiliser les procédures de diagnostic approuvées.
+Root Cause Status - Candidate only
+Possible Root Cause - Sensor drift or contamination
+Recommended Checks - Run actuator test and rescan; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

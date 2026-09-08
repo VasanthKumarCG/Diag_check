@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-062
+Source Report - Prod_Diagnostic_Extended_SYN_062.txt
+Source Language - en-US
+Canonical Language - en
+Region - NA
+VIN Scope - Synthetic
+SW I-Step - 26-07-140
+Test Type - Highway profile
+Test Environment - Workshop dynamometer
+Primary ECU - TCM
+Related ECUs - CHARGE_CTRL, DCDC, FCAM, VCU
+DTC Codes - 0x56B8, 0xED65, 0x96B3, 0x6009, 0xA37F
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_062.txt contains 50 DTCs across 26 ECUs for SW I-Step 26-07-140. The leading candidates include TCM 0x56B8 TCM Performance issue (Pending, Critical); CHARGE_CTRL 0xED65 CHARGE_CTRL Internal control module fault (Stored, Critical); FCAM 0x96B3 FCAM Signal plausibility fault (Stored, Critical); VCU 0x6009 VCU Performance issue (Pending, Critical); DCDC 0xA37F DCDC Internal control module fault (Stored, Critical). Engineering confirmation is required.
+Source-Language Note - The technical cause must be confirmed from measured evidence. Use approved diagnostic procedures.
+Root Cause Status - Candidate only
+Possible Root Cause - Network congestion or termination issue
+Recommended Checks - Verify supply and ground under load; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

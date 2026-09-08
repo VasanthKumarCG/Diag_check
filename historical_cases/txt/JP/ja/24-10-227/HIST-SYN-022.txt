@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-022
+Source Report - Prod_Diagnostic_Extended_SYN_022.txt
+Source Language - ja
+Canonical Language - en
+Region - JP
+VIN Scope - Synthetic
+SW I-Step - 24-10-227
+Test Type - Highway profile
+Test Environment - Proving ground
+Primary ECU - SEAT_CTRL
+Related ECUs - BCM, RR_CORNER_RADAR, TCU, TPMS
+DTC Codes - 0xC018, 0x4FAB, 0xA2B5, 0x43D9, 0xC689
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_022.txt contains 80 DTCs across 26 ECUs for SW I-Step 24-10-227. The leading candidates include SEAT_CTRL 0xC018 SEAT_CTRL Communication fault (Active, Critical); BCM 0x4FAB BCM Timeout fault (Active, Critical); TPMS 0xA2B5 TPMS Communication fault (Active, Critical); RR_CORNER_RADAR 0x43D9 RR_CORNER_RADAR Timeout fault (Active, Critical); TCU 0xC689 TCU Communication fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - 技術的原因は測定データで確認する必要があります。 承認済みの診断手順を使用してください。
+Root Cause Status - Candidate only
+Possible Root Cause - Connector or harness issue
+Recommended Checks - Compare live value with reference; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

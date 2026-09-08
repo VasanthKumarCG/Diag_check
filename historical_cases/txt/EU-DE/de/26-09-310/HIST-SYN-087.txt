@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-087
+Source Report - Prod_Diagnostic_Extended_SYN_087.txt
+Source Language - de
+Canonical Language - en
+Region - EU-DE
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Urban profile
+Test Environment - Climate chamber
+Primary ECU - TCU
+Related ECUs - ADAS, BCM, SEAT_CTRL, THERMAL_CTRL
+DTC Codes - 0x9533, 0xE3D0, 0x787B, 0x890B, 0xAC32
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_087.txt contains 70 DTCs across 27 ECUs for SW I-Step 26-09-310. The leading candidates include TCU 0x9533 TCU Communication fault (Active, Critical); THERMAL_CTRL 0xE3D0 THERMAL_CTRL Timeout fault (Active, Critical); ADAS 0x787B ADAS Communication fault (Active, Critical); SEAT_CTRL 0x890B SEAT_CTRL Communication fault (Active, Critical); BCM 0xAC32 BCM Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - Die technische Ursache muss anhand der Messdaten bestätigt werden. Freigegebene Diagnoseverfahren verwenden.
+Root Cause Status - Candidate only
+Possible Root Cause - Supply or ground instability
+Recommended Checks - Verify supply and ground under load; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

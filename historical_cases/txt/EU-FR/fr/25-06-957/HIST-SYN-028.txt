@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-028
+Source Report - Prod_Diagnostic_Extended_SYN_028.txt
+Source Language - fr
+Canonical Language - en
+Region - EU-FR
+VIN Scope - Synthetic
+SW I-Step - 25-06-957
+Test Type - Endurance
+Test Environment - Proving ground
+Primary ECU - ADAS
+Related ECUs - BCM, RR_CORNER_RADAR, SEAT_CTRL, TCU
+DTC Codes - 0xF76D, 0x08D1, 0x850A, 0xA1AC, 0x6AD9
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_028.txt contains 60 DTCs across 24 ECUs for SW I-Step 25-06-957. The leading candidates include ADAS 0xF76D ADAS Timeout fault (Active, Critical); SEAT_CTRL 0x08D1 SEAT_CTRL Timeout fault (Active, Critical); BCM 0x850A BCM Communication fault (Active, Critical); RR_CORNER_RADAR 0xA1AC RR_CORNER_RADAR Communication fault (Active, Critical); TCU 0x6AD9 TCU Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - La cause technique doit être confirmée à partir des mesures. Utiliser les procédures de diagnostic approuvées.
+Root Cause Status - Candidate only
+Possible Root Cause - Sensor drift or contamination
+Recommended Checks - Run actuator test and rescan; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-079
+Source Report - Prod_Diagnostic_Extended_SYN_079.txt
+Source Language - it
+Canonical Language - en
+Region - EU-IT
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Urban profile
+Test Environment - Public road profile
+Primary ECU - SEAT_CTRL
+Related ECUs - BCM, RR_CORNER_RADAR, TCU, TPMS
+DTC Codes - 0x72B6, 0x1391, 0x0D4F, 0xE093, 0xCA6E
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_079.txt contains 76 DTCs across 27 ECUs for SW I-Step 26-09-310. The leading candidates include SEAT_CTRL 0x72B6 SEAT_CTRL Communication fault (Active, Critical); BCM 0x1391 BCM Timeout fault (Active, Critical); TPMS 0x0D4F TPMS Communication fault (Active, Critical); RR_CORNER_RADAR 0xE093 RR_CORNER_RADAR Timeout fault (Active, Critical); TCU 0xCA6E TCU Communication fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - La causa tecnica deve essere confermata con i dati misurati. Utilizzare procedure diagnostiche approvate.
+Root Cause Status - Candidate only
+Possible Root Cause - Sensor drift or contamination
+Recommended Checks - Compare live value with reference; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

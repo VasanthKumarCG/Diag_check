@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-046
+Source Report - Prod_Diagnostic_Extended_SYN_046.txt
+Source Language - ja
+Canonical Language - en
+Region - JP
+VIN Scope - Synthetic
+SW I-Step - 25-06-957
+Test Type - Highway profile
+Test Environment - Proving ground
+Primary ECU - BCM
+Related ECUs - ADAS, CHARGE_CTRL, TCM, TCU
+DTC Codes - 0xBE2B, 0x8099, 0x208C, 0xCBDC, 0xD0CD
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_046.txt contains 62 DTCs across 26 ECUs for SW I-Step 25-06-957. The leading candidates include BCM 0xBE2B BCM Timeout fault (Active, Critical); TCU 0x8099 TCU Communication fault (Active, Critical); ADAS 0x208C ADAS Communication fault (Active, Critical); TCM 0xCBDC TCM Performance issue (Pending, Critical); CHARGE_CTRL 0xD0CD CHARGE_CTRL Internal control module fault (Stored, Critical). Engineering confirmation is required.
+Source-Language Note - 技術的原因は測定データで確認する必要があります。 承認済みの診断手順を使用してください。
+Root Cause Status - Candidate only
+Possible Root Cause - Software or calibration mismatch
+Recommended Checks - Verify supply and ground under load; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

@@ -1,0 +1,1673 @@
+VIN - SYND8671C4
+SW I-Step - 26-09-310
+SA's - L M N O P Q R S
+SA's - T U V W X Y Z A
+ECU - TCU
+Hardware Version - 179.713.891
+Bootloader Version - 9.67.581
+SW Version - 26.11.293
+Coding - 357.347.159
+Diagnostic Address - 0x6E9
+Calibration Version - CAL-704791
+Network - LIN 19.2 kbit/s
+Secure Boot - Verified
+OTA State - Install pending
+ECU - GW
+Hardware Version - 180.714.892
+Bootloader Version - 1.68.582
+SW Version - 24.12.330
+Coding - 358.348.160
+Diagnostic Address - 0x6EA
+Calibration Version - CAL-704888
+Network - CAN FD 2/5 Mbit/s
+Secure Boot - Attention
+OTA State - Current
+ECU - ECM
+Hardware Version - 181.715.893
+Bootloader Version - 2.69.583
+SW Version - 25.0.367
+Coding - 359.349.161
+Diagnostic Address - 0x6EB
+Calibration Version - CAL-704985
+Network - CAN 500 kbit/s
+Secure Boot - Verified
+OTA State - Update available
+ECU - OBC
+Hardware Version - 182.716.894
+Bootloader Version - 3.70.584
+SW Version - 26.1.404
+Coding - 360.350.162
+Diagnostic Address - 0x6EC
+Calibration Version - CAL-705082
+Network - 100BASE-T1
+Secure Boot - Verified
+OTA State - Install pending
+ECU - BCM
+Hardware Version - 183.717.895
+Bootloader Version - 4.71.585
+SW Version - 24.2.441
+Coding - 361.351.163
+Diagnostic Address - 0x6ED
+Calibration Version - CAL-705179
+Network - 1000BASE-T1
+Secure Boot - Attention
+OTA State - Current
+ECU - FCAM
+Hardware Version - 184.718.896
+Bootloader Version - 5.72.586
+SW Version - 25.3.478
+Coding - 362.352.164
+Diagnostic Address - 0x6EE
+Calibration Version - CAL-705276
+Network - LIN 19.2 kbit/s
+Secure Boot - Verified
+OTA State - Update available
+ECU - HVAC
+Hardware Version - 185.719.897
+Bootloader Version - 6.73.587
+SW Version - 26.4.515
+Coding - 363.353.165
+Diagnostic Address - 0x6EF
+Calibration Version - CAL-705373
+Network - CAN FD 2/5 Mbit/s
+Secure Boot - Verified
+OTA State - Install pending
+ECU - TCM
+Hardware Version - 186.720.898
+Bootloader Version - 7.74.588
+SW Version - 24.5.552
+Coding - 364.354.166
+Diagnostic Address - 0x6F0
+Calibration Version - CAL-705470
+Network - CAN 500 kbit/s
+Secure Boot - Attention
+OTA State - Current
+ECU - ADAS
+Hardware Version - 187.721.899
+Bootloader Version - 8.75.589
+SW Version - 25.6.589
+Coding - 365.355.167
+Diagnostic Address - 0x6F1
+Calibration Version - CAL-705567
+Network - 100BASE-T1
+Secure Boot - Verified
+OTA State - Update available
+ECU - EPS
+Hardware Version - 188.722.900
+Bootloader Version - 9.76.590
+SW Version - 26.7.626
+Coding - 366.356.168
+Diagnostic Address - 0x6F2
+Calibration Version - CAL-705664
+Network - 1000BASE-T1
+Secure Boot - Verified
+OTA State - Install pending
+ECU - ABS
+Hardware Version - 189.723.901
+Bootloader Version - 1.77.591
+SW Version - 24.8.663
+Coding - 367.357.169
+Diagnostic Address - 0x6F3
+Calibration Version - CAL-705761
+Network - LIN 19.2 kbit/s
+Secure Boot - Attention
+OTA State - Current
+ECU - RADAR
+Hardware Version - 190.724.902
+Bootloader Version - 2.78.592
+SW Version - 25.9.700
+Coding - 368.358.170
+Diagnostic Address - 0x6F4
+Calibration Version - CAL-705858
+Network - CAN FD 2/5 Mbit/s
+Secure Boot - Verified
+OTA State - Update available
+ECU - RR_CORNER_RADAR
+Hardware Version - 191.725.903
+Bootloader Version - 3.79.593
+SW Version - 26.10.737
+Coding - 369.359.171
+Diagnostic Address - 0x6F5
+Calibration Version - CAL-705955
+Network - CAN 500 kbit/s
+Secure Boot - Verified
+OTA State - Install pending
+ECU - BODY_DC
+Hardware Version - 192.726.904
+Bootloader Version - 4.80.594
+SW Version - 24.11.774
+Coding - 370.360.172
+Diagnostic Address - 0x6F6
+Calibration Version - CAL-706052
+Network - 100BASE-T1
+Secure Boot - Attention
+OTA State - Current
+ECU - LIGHT_CTRL
+Hardware Version - 193.727.905
+Bootloader Version - 5.81.595
+SW Version - 25.12.811
+Coding - 371.361.173
+Diagnostic Address - 0x6F7
+Calibration Version - CAL-706149
+Network - 1000BASE-T1
+Secure Boot - Verified
+OTA State - Update available
+ECU - VCU
+Hardware Version - 194.728.906
+Bootloader Version - 6.82.596
+SW Version - 26.0.848
+Coding - 372.362.174
+Diagnostic Address - 0x6F8
+Calibration Version - CAL-706246
+Network - LIN 19.2 kbit/s
+Secure Boot - Verified
+OTA State - Install pending
+ECU - SEAT_CTRL
+Hardware Version - 195.729.907
+Bootloader Version - 7.83.597
+SW Version - 24.1.885
+Coding - 373.363.175
+Diagnostic Address - 0x6F9
+Calibration Version - CAL-706343
+Network - CAN FD 2/5 Mbit/s
+Secure Boot - Attention
+OTA State - Current
+ECU - CHARGE_CTRL
+Hardware Version - 196.730.908
+Bootloader Version - 8.84.598
+SW Version - 25.2.922
+Coding - 374.364.176
+Diagnostic Address - 0x6FA
+Calibration Version - CAL-706440
+Network - CAN 500 kbit/s
+Secure Boot - Verified
+OTA State - Update available
+ECU - BMS
+Hardware Version - 197.731.909
+Bootloader Version - 9.85.599
+SW Version - 26.3.959
+Coding - 375.365.177
+Diagnostic Address - 0x6FB
+Calibration Version - CAL-706537
+Network - 100BASE-T1
+Secure Boot - Verified
+OTA State - Install pending
+ECU - DMS
+Hardware Version - 198.732.910
+Bootloader Version - 1.86.600
+SW Version - 24.4.996
+Coding - 376.366.178
+Diagnostic Address - 0x6FC
+Calibration Version - CAL-706634
+Network - 1000BASE-T1
+Secure Boot - Attention
+OTA State - Current
+ECU - THERMAL_CTRL
+Hardware Version - 199.733.911
+Bootloader Version - 2.87.601
+SW Version - 25.5.033
+Coding - 377.367.179
+Diagnostic Address - 0x6FD
+Calibration Version - CAL-706731
+Network - LIN 19.2 kbit/s
+Secure Boot - Verified
+OTA State - Update available
+ECU - PARK_ASSIST
+Hardware Version - 200.734.912
+Bootloader Version - 3.88.602
+SW Version - 26.6.070
+Coding - 378.368.180
+Diagnostic Address - 0x6FE
+Calibration Version - CAL-706828
+Network - CAN FD 2/5 Mbit/s
+Secure Boot - Verified
+OTA State - Install pending
+ECU - KEYLESS
+Hardware Version - 201.735.913
+Bootloader Version - 4.89.603
+SW Version - 24.7.107
+Coding - 379.369.181
+Diagnostic Address - 0x6FF
+Calibration Version - CAL-706925
+Network - CAN 500 kbit/s
+Secure Boot - Attention
+OTA State - Current
+ECU - INV_FRONT
+Hardware Version - 202.736.914
+Bootloader Version - 5.90.604
+SW Version - 25.8.144
+Coding - 380.370.182
+Diagnostic Address - 0x700
+Calibration Version - CAL-707022
+Network - 100BASE-T1
+Secure Boot - Verified
+OTA State - Update available
+ECU - TPMS
+Hardware Version - 203.737.915
+Bootloader Version - 6.91.605
+SW Version - 26.9.181
+Coding - 381.371.183
+Diagnostic Address - 0x701
+Calibration Version - CAL-707119
+Network - 1000BASE-T1
+Secure Boot - Verified
+OTA State - Install pending
+DTCs
+TCU :
+DTC - 0x4575 - TCU Voltage fault
+Status - Pending
+Occurrence Counter - 2
+Aging Counter - 5
+Priority - 5
+Healing Counter - 15
+Debounce Counter - 211
+Severity - High
+First Detected - 2026-03-14 13:00:00
+Last Detected - 2026-03-28 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Network congestion or termination issue
+Recommended Check - Verify supply and ground under load
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-28 13:00:00
+  RSSI - 621
+  GPS Status - 880
+  Network Type - 15
+  Speed - 871
+  Voltage - 6
+  ECU Internal Temp - 39.7
+  ECU Supply Voltage - 12.93
+  Communication Error Counter - 7
+DTC - 0x9C9E - TCU Sensor range fault
+Status - Intermittent
+Occurrence Counter - 9
+Aging Counter - 6
+Priority - 1
+Healing Counter - 16
+Debounce Counter - 224
+Severity - Medium
+First Detected - 2026-03-12 10:00:00
+Last Detected - 2026-03-27 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Connector or harness issue
+Recommended Check - Run actuator test and rescan
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-27 10:00:00
+  RSSI - 694
+  GPS Status - 953
+  Network Type - 88
+  Speed - 944
+  Voltage - 79
+  ECU Internal Temp - 47.0
+  ECU Supply Voltage - 13.1
+  Communication Error Counter - 8
+DTC - 0xBB0D - TCU Signal plausibility fault
+Status - Stored
+Occurrence Counter - 16
+Aging Counter - 7
+Priority - 2
+Healing Counter - 17
+Debounce Counter - 237
+Severity - Low
+First Detected - 2026-03-10 07:00:00
+Last Detected - 2026-03-26 07:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Sensor drift or contamination
+Recommended Check - Preserve trace and check network integrity
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-26 07:00:00
+  RSSI - 767
+  GPS Status - 26
+  Network Type - 161
+  Speed - 17
+  Voltage - 152
+  ECU Internal Temp - 54.3
+  ECU Supply Voltage - 13.27
+  Communication Error Counter - 9
+GW :
+DTC - 0x886F - GW Sensor range fault
+Status - Intermittent
+Occurrence Counter - 7
+Aging Counter - 6
+Priority - 1
+Healing Counter - 16
+Debounce Counter - 218
+Severity - Low
+First Detected - 2026-03-12 13:00:00
+Last Detected - 2026-03-27 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Connector or harness issue
+Recommended Check - Inspect connector and harness
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-27 13:00:00
+  CAN Load - 818
+  Eth Status - 953
+  Voltage - 933
+  Bus Errors - 99
+  Ignition - 110
+  ECU Internal Temp - 47.0
+  ECU Supply Voltage - 13.1
+  Communication Error Counter - 8
+DTC - 0xFD7E - GW Signal plausibility fault
+Status - Stored
+Occurrence Counter - 14
+Aging Counter - 7
+Priority - 2
+Healing Counter - 17
+Debounce Counter - 231
+Severity - Critical
+First Detected - 2026-03-10 10:00:00
+Last Detected - 2026-03-26 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Sensor drift or contamination
+Recommended Check - Compare live value with reference
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-26 10:00:00
+  CAN Load - 891
+  Eth Status - 26
+  Voltage - 6
+  Bus Errors - 172
+  Ignition - 183
+  ECU Internal Temp - 54.3
+  ECU Supply Voltage - 13.27
+  Communication Error Counter - 9
+DTC - 0xC3F4 - GW Timeout fault
+Status - Active
+Occurrence Counter - 21
+Aging Counter - 8
+Priority - 3
+Healing Counter - 18
+Debounce Counter - 244
+Severity - High
+First Detected - 2026-03-08 07:00:00
+Last Detected - 2026-03-25 07:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Software or calibration mismatch
+Recommended Check - Verify supply and ground under load
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-25 07:00:00
+  CAN Load - 964
+  Eth Status - 99
+  Voltage - 79
+  Bus Errors - 245
+  Ignition - 256
+  ECU Internal Temp - 61.6
+  ECU Supply Voltage - 13.44
+  Communication Error Counter - 10
+ECM :
+DTC - 0x7D87 - ECM Signal plausibility fault
+Status - Stored
+Occurrence Counter - 12
+Aging Counter - 7
+Priority - 2
+Healing Counter - 17
+Debounce Counter - 225
+Severity - High
+First Detected - 2026-03-10 13:00:00
+Last Detected - 2026-03-26 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Sensor drift or contamination
+Recommended Check - Run actuator test and rescan
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-26 13:00:00
+  RPM - 736
+  Coolant Temp - 88
+  Fuel Pressure - 192
+  Boost Pressure - 296
+  Engine Load - 276
+  ECU Internal Temp - 54.3
+  ECU Supply Voltage - 13.27
+  Communication Error Counter - 9
+DTC - 0xF251 - ECM Timeout fault
+Status - Active
+Occurrence Counter - 19
+Aging Counter - 8
+Priority - 3
+Healing Counter - 18
+Debounce Counter - 238
+Severity - Medium
+First Detected - 2026-03-08 10:00:00
+Last Detected - 2026-03-25 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Software or calibration mismatch
+Recommended Check - Preserve trace and check network integrity
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-25 10:00:00
+  RPM - 809
+  Coolant Temp - 161
+  Fuel Pressure - 265
+  Boost Pressure - 369
+  Engine Load - 349
+  ECU Internal Temp - 61.6
+  ECU Supply Voltage - 13.44
+  Communication Error Counter - 10
+DTC - 0x3498 - ECM Performance issue
+Status - Pending
+Occurrence Counter - 26
+Aging Counter - 9
+Priority - 4
+Healing Counter - 19
+Debounce Counter - 251
+Severity - Low
+First Detected - 2026-03-06 07:00:00
+Last Detected - 2026-03-24 07:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Supply or ground instability
+Recommended Check - Inspect connector and harness
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-24 07:00:00
+  RPM - 882
+  Coolant Temp - 234
+  Fuel Pressure - 338
+  Boost Pressure - 442
+  Engine Load - 422
+  ECU Internal Temp - 68.9
+  ECU Supply Voltage - 13.61
+  Communication Error Counter - 11
+OBC :
+DTC - 0x97A0 - OBC Timeout fault
+Status - Active
+Occurrence Counter - 17
+Aging Counter - 8
+Priority - 3
+Healing Counter - 18
+Debounce Counter - 232
+Severity - Low
+First Detected - 2026-03-08 13:00:00
+Last Detected - 2026-03-25 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Software or calibration mismatch
+Recommended Check - Compare live value with reference
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-25 13:00:00
+  AC Voltage - 26
+  Charge Current - 223
+  Battery Temp - 234
+  SOC - 28
+  Input Freq - 318
+  ECU Internal Temp - 61.6
+  ECU Supply Voltage - 13.44
+  Communication Error Counter - 10
+DTC - 0x7779 - OBC Performance issue
+Status - Pending
+Occurrence Counter - 24
+Aging Counter - 9
+Priority - 4
+Healing Counter - 19
+Debounce Counter - 245
+Severity - Critical
+First Detected - 2026-03-06 10:00:00
+Last Detected - 2026-03-24 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Supply or ground instability
+Recommended Check - Verify supply and ground under load
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-24 10:00:00
+  AC Voltage - 99
+  Charge Current - 296
+  Battery Temp - 307
+  SOC - 101
+  Input Freq - 391
+  ECU Internal Temp - 68.9
+  ECU Supply Voltage - 13.61
+  Communication Error Counter - 11
+BCM :
+DTC - 0x23F7 - BCM Performance issue
+Status - Pending
+Occurrence Counter - 22
+Aging Counter - 9
+Priority - 4
+Healing Counter - 19
+Debounce Counter - 239
+Severity - High
+First Detected - 2026-03-06 13:00:00
+Last Detected - 2026-03-24 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Supply or ground instability
+Recommended Check - Preserve trace and check network integrity
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-24 13:00:00
+  Battery Voltage - 254
+  Door Status - 203
+  Lock State - 245
+  Ignition - 256
+  Window Pos - 391
+  ECU Internal Temp - 68.9
+  ECU Supply Voltage - 13.61
+  Communication Error Counter - 11
+DTC - 0x59EF - BCM Calibration fault
+Status - Intermittent
+Occurrence Counter - 29
+Aging Counter - 10
+Priority - 5
+Healing Counter - 20
+Debounce Counter - 252
+Severity - Medium
+First Detected - 2026-03-04 10:00:00
+Last Detected - 2026-03-23 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Network congestion or termination issue
+Recommended Check - Inspect connector and harness
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-23 10:00:00
+  Battery Voltage - 327
+  Door Status - 276
+  Lock State - 318
+  Ignition - 329
+  Window Pos - 464
+  ECU Internal Temp - 76.2
+  ECU Supply Voltage - 13.78
+  Communication Error Counter - 12
+FCAM :
+DTC - 0xCC0F - FCAM Calibration fault
+Status - Intermittent
+Occurrence Counter - 27
+Aging Counter - 10
+Priority - 5
+Healing Counter - 20
+Debounce Counter - 246
+Severity - Low
+First Detected - 2026-03-04 13:00:00
+Last Detected - 2026-03-23 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Network congestion or termination issue
+Recommended Check - Verify supply and ground under load
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-23 13:00:00
+  Lane Confidence - 327
+  Visibility - 245
+  Image Quality - 411
+  Speed - 236
+  Light Level - 495
+  ECU Internal Temp - 76.2
+  ECU Supply Voltage - 13.78
+  Communication Error Counter - 12
+DTC - 0xA338 - FCAM Internal control module fault
+Status - Stored
+Occurrence Counter - 34
+Aging Counter - 11
+Priority - 1
+Healing Counter - 0
+Debounce Counter - 3
+Severity - Critical
+First Detected - 2026-03-02 10:00:00
+Last Detected - 2026-03-22 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Connector or harness issue
+Recommended Check - Run actuator test and rescan
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-22 10:00:00
+  Lane Confidence - 400
+  Visibility - 318
+  Image Quality - 484
+  Speed - 309
+  Light Level - 568
+  ECU Internal Temp - 83.5
+  ECU Supply Voltage - 13.95
+  Communication Error Counter - 13
+HVAC :
+DTC - 0xD76D - HVAC Internal control module fault
+Status - Stored
+Occurrence Counter - 32
+Aging Counter - 11
+Priority - 1
+Healing Counter - 0
+Debounce Counter - 253
+Severity - High
+First Detected - 2026-03-02 13:00:00
+Last Detected - 2026-03-22 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Connector or harness issue
+Recommended Check - Inspect connector and harness
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-22 13:00:00
+  Cabin Temp - 245
+  Blower Speed - 380
+  Evap Temp - 360
+  Ambient Temp - 526
+  AC Pressure - 568
+  ECU Internal Temp - 83.5
+  ECU Supply Voltage - 13.95
+  Communication Error Counter - 13
+DTC - 0xB153 - HVAC Communication fault
+Status - Active
+Occurrence Counter - 39
+Aging Counter - 12
+Priority - 2
+Healing Counter - 1
+Debounce Counter - 10
+Severity - Medium
+First Detected - 2026-02-28 10:00:00
+Last Detected - 2026-03-21 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Sensor drift or contamination
+Recommended Check - Compare live value with reference
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-21 10:00:00
+  Cabin Temp - 318
+  Blower Speed - 453
+  Evap Temp - 433
+  Ambient Temp - 599
+  AC Pressure - 641
+  ECU Internal Temp - 90.8
+  ECU Supply Voltage - 14.12
+  Communication Error Counter - 14
+TCM :
+DTC - 0xF044 - TCM Communication fault
+Status - Active
+Occurrence Counter - 37
+Aging Counter - 12
+Priority - 2
+Healing Counter - 1
+Debounce Counter - 4
+Severity - Low
+First Detected - 2026-02-28 13:00:00
+Last Detected - 2026-03-21 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Sensor drift or contamination
+Recommended Check - Run actuator test and rescan
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-21 13:00:00
+  Gear - 132
+  Oil Temp - 329
+  Turbine Speed - 557
+  Clutch Pressure - 692
+  Output Speed - 672
+  ECU Internal Temp - 90.8
+  ECU Supply Voltage - 14.12
+  Communication Error Counter - 14
+DTC - 0x008D - TCM Voltage fault
+Status - Pending
+Occurrence Counter - 44
+Aging Counter - 13
+Priority - 3
+Healing Counter - 2
+Debounce Counter - 17
+Severity - Critical
+First Detected - 2026-02-26 10:00:00
+Last Detected - 2026-03-20 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Software or calibration mismatch
+Recommended Check - Preserve trace and check network integrity
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-20 10:00:00
+  Gear - 205
+  Oil Temp - 402
+  Turbine Speed - 630
+  Clutch Pressure - 765
+  Output Speed - 745
+  ECU Internal Temp - 98.1
+  ECU Supply Voltage - 14.29
+  Communication Error Counter - 15
+ADAS :
+DTC - 0xD115 - ADAS Voltage fault
+Status - Pending
+Occurrence Counter - 42
+Aging Counter - 13
+Priority - 3
+Healing Counter - 2
+Debounce Counter - 11
+Severity - High
+First Detected - 2026-02-26 13:00:00
+Last Detected - 2026-03-20 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Software or calibration mismatch
+Recommended Check - Compare live value with reference
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-20 13:00:00
+  CPU Load - 329
+  Lane State - 464
+  Object Count - 599
+  Voltage - 517
+  Speed - 528
+  ECU Internal Temp - 98.1
+  ECU Supply Voltage - 14.29
+  Communication Error Counter - 15
+DTC - 0x8C53 - ADAS Sensor range fault
+Status - Intermittent
+Occurrence Counter - 49
+Aging Counter - 14
+Priority - 4
+Healing Counter - 3
+Debounce Counter - 24
+Severity - Medium
+First Detected - 2026-02-24 10:00:00
+Last Detected - 2026-03-19 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Supply or ground instability
+Recommended Check - Verify supply and ground under load
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-19 10:00:00
+  CPU Load - 402
+  Lane State - 537
+  Object Count - 672
+  Voltage - 590
+  Speed - 601
+  ECU Internal Temp - 105.4
+  ECU Supply Voltage - 14.46
+  Communication Error Counter - 16
+EPS :
+DTC - 0xF36D - EPS Sensor range fault
+Status - Intermittent
+Occurrence Counter - 47
+Aging Counter - 14
+Priority - 4
+Healing Counter - 3
+Debounce Counter - 18
+Severity - Low
+First Detected - 2026-02-24 13:00:00
+Last Detected - 2026-03-19 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Supply or ground instability
+Recommended Check - Preserve trace and check network integrity
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-19 13:00:00
+  Steering Angle - 588
+  Driver Torque - 630
+  Motor Current - 703
+  Supply Voltage - 807
+  Speed - 601
+  ECU Internal Temp - 105.4
+  ECU Supply Voltage - 14.46
+  Communication Error Counter - 16
+DTC - 0xC82D - EPS Signal plausibility fault
+Status - Stored
+Occurrence Counter - 4
+Aging Counter - 15
+Priority - 5
+Healing Counter - 4
+Debounce Counter - 31
+Severity - Critical
+First Detected - 2026-02-22 10:00:00
+Last Detected - 2026-03-18 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Network congestion or termination issue
+Recommended Check - Inspect connector and harness
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-18 10:00:00
+  Steering Angle - 661
+  Driver Torque - 703
+  Motor Current - 776
+  Supply Voltage - 880
+  Speed - 674
+  ECU Internal Temp - 22.7
+  ECU Supply Voltage - 14.63
+  Communication Error Counter - 17
+ABS :
+DTC - 0xEE19 - ABS Signal plausibility fault
+Status - Stored
+Occurrence Counter - 2
+Aging Counter - 15
+Priority - 5
+Healing Counter - 4
+Debounce Counter - 25
+Severity - High
+First Detected - 2026-02-22 13:00:00
+Last Detected - 2026-03-18 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Network congestion or termination issue
+Recommended Check - Verify supply and ground under load
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-18 13:00:00
+  Wheel FL - 475
+  Wheel FR - 548
+  Brake Pressure - 807
+  Yaw Rate - 694
+  Vehicle Speed - 922
+  ECU Internal Temp - 22.7
+  ECU Supply Voltage - 14.63
+  Communication Error Counter - 17
+DTC - 0x6ABD - ABS Timeout fault
+Status - Active
+Occurrence Counter - 9
+Aging Counter - 16
+Priority - 1
+Healing Counter - 5
+Debounce Counter - 38
+Severity - Medium
+First Detected - 2026-02-20 10:00:00
+Last Detected - 2026-03-17 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Connector or harness issue
+Recommended Check - Run actuator test and rescan
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-17 10:00:00
+  Wheel FL - 548
+  Wheel FR - 621
+  Brake Pressure - 880
+  Yaw Rate - 767
+  Vehicle Speed - 995
+  ECU Internal Temp - 30.0
+  ECU Supply Voltage - 11.4
+  Communication Error Counter - 18
+RADAR :
+DTC - 0x7449 - RADAR Timeout fault
+Status - Active
+Occurrence Counter - 7
+Aging Counter - 16
+Priority - 1
+Healing Counter - 5
+Debounce Counter - 32
+Severity - Low
+First Detected - 2026-02-20 13:00:00
+Last Detected - 2026-03-17 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Connector or harness issue
+Recommended Check - Inspect connector and harness
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-17 13:00:00
+  Target Distance - 765
+  Relative Speed - 807
+  Object Count - 818
+  Speed - 674
+  Temperature - 933
+  ECU Internal Temp - 30.0
+  ECU Supply Voltage - 11.4
+  Communication Error Counter - 18
+DTC - 0x7143 - RADAR Performance issue
+Status - Pending
+Occurrence Counter - 14
+Aging Counter - 17
+Priority - 2
+Healing Counter - 6
+Debounce Counter - 45
+Severity - Critical
+First Detected - 2026-02-18 10:00:00
+Last Detected - 2026-03-16 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Sensor drift or contamination
+Recommended Check - Compare live value with reference
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-16 10:00:00
+  Target Distance - 838
+  Relative Speed - 880
+  Object Count - 891
+  Speed - 747
+  Temperature - 6
+  ECU Internal Temp - 37.3
+  ECU Supply Voltage - 11.57
+  Communication Error Counter - 19
+RR_CORNER_RADAR :
+DTC - 0xDC01 - RR_CORNER_RADAR Performance issue
+Status - Pending
+Occurrence Counter - 12
+Aging Counter - 17
+Priority - 2
+Healing Counter - 6
+Debounce Counter - 39
+Severity - High
+First Detected - 2026-02-18 13:00:00
+Last Detected - 2026-03-16 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Sensor drift or contamination
+Recommended Check - Run actuator test and rescan
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-16 13:00:00
+  Target Distance - 838
+  Relative Speed - 880
+  Object Count - 891
+  Alignment Offset - 88
+  Temperature - 6
+  ECU Internal Temp - 37.3
+  ECU Supply Voltage - 11.57
+  Communication Error Counter - 19
+DTC - 0xBD5E - RR_CORNER_RADAR Calibration fault
+Status - Intermittent
+Occurrence Counter - 19
+Aging Counter - 18
+Priority - 3
+Healing Counter - 7
+Debounce Counter - 52
+Severity - Medium
+First Detected - 2026-02-16 10:00:00
+Last Detected - 2026-03-15 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Software or calibration mismatch
+Recommended Check - Preserve trace and check network integrity
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-15 10:00:00
+  Target Distance - 911
+  Relative Speed - 953
+  Object Count - 964
+  Alignment Offset - 161
+  Temperature - 79
+  ECU Internal Temp - 44.6
+  ECU Supply Voltage - 11.74
+  Communication Error Counter - 20
+BODY_DC :
+DTC - 0x962F - BODY_DC Calibration fault
+Status - Intermittent
+Occurrence Counter - 17
+Aging Counter - 18
+Priority - 3
+Healing Counter - 7
+Debounce Counter - 46
+Severity - Low
+First Detected - 2026-02-16 13:00:00
+Last Detected - 2026-03-15 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Software or calibration mismatch
+Recommended Check - Compare live value with reference
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-15 13:00:00
+  Supply Voltage - 880
+  CPU Load - 767
+  Door Requests - 995
+  Lighting Requests - 192
+  Network Errors - 172
+  ECU Internal Temp - 44.6
+  ECU Supply Voltage - 11.74
+  Communication Error Counter - 20
+DTC - 0xA30C - BODY_DC Internal control module fault
+Status - Stored
+Occurrence Counter - 24
+Aging Counter - 19
+Priority - 4
+Healing Counter - 8
+Debounce Counter - 59
+Severity - Critical
+First Detected - 2026-02-14 10:00:00
+Last Detected - 2026-03-14 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Supply or ground instability
+Recommended Check - Verify supply and ground under load
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-14 10:00:00
+  Supply Voltage - 953
+  CPU Load - 840
+  Door Requests - 68
+  Lighting Requests - 265
+  Network Errors - 245
+  ECU Internal Temp - 51.9
+  ECU Supply Voltage - 11.91
+  Communication Error Counter - 21
+LIGHT_CTRL :
+DTC - 0xE74C - LIGHT_CTRL Internal control module fault
+Status - Stored
+Occurrence Counter - 22
+Aging Counter - 19
+Priority - 4
+Healing Counter - 8
+Debounce Counter - 53
+Severity - High
+First Detected - 2026-02-14 13:00:00
+Last Detected - 2026-03-14 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Supply or ground instability
+Recommended Check - Preserve trace and check network integrity
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-14 13:00:00
+  Low Beam State - 953
+  High Beam State - 57
+  Ambient Light - 68
+  Lamp Current - 110
+  Voltage - 28
+  ECU Internal Temp - 51.9
+  ECU Supply Voltage - 11.91
+  Communication Error Counter - 21
+DTC - 0xC36A - LIGHT_CTRL Communication fault
+Status - Active
+Occurrence Counter - 29
+Aging Counter - 20
+Priority - 5
+Healing Counter - 9
+Debounce Counter - 66
+Severity - Medium
+First Detected - 2026-02-12 10:00:00
+Last Detected - 2026-03-13 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Network congestion or termination issue
+Recommended Check - Inspect connector and harness
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-13 10:00:00
+  Low Beam State - 26
+  High Beam State - 130
+  Ambient Light - 141
+  Lamp Current - 183
+  Voltage - 101
+  ECU Internal Temp - 59.2
+  ECU Supply Voltage - 12.08
+  Communication Error Counter - 22
+VCU :
+DTC - 0xDA7F - VCU Communication fault
+Status - Active
+Occurrence Counter - 27
+Aging Counter - 20
+Priority - 5
+Healing Counter - 9
+Debounce Counter - 60
+Severity - Low
+First Detected - 2026-02-12 13:00:00
+Last Detected - 2026-03-13 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Network congestion or termination issue
+Recommended Check - Verify supply and ground under load
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-13 13:00:00
+  Requested Torque - 88
+  Actual Torque - 68
+  Drive Mode - 48
+  Vehicle Speed - 214
+  HV State - 132
+  ECU Internal Temp - 59.2
+  ECU Supply Voltage - 12.08
+  Communication Error Counter - 22
+DTC - 0xA44C - VCU Voltage fault
+Status - Pending
+Occurrence Counter - 34
+Aging Counter - 0
+Priority - 1
+Healing Counter - 10
+Debounce Counter - 73
+Severity - Critical
+First Detected - 2026-03-19 10:00:00
+Last Detected - 2026-03-28 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Connector or harness issue
+Recommended Check - Run actuator test and rescan
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-28 10:00:00
+  Requested Torque - 161
+  Actual Torque - 141
+  Drive Mode - 121
+  Vehicle Speed - 287
+  HV State - 205
+  ECU Internal Temp - 66.5
+  ECU Supply Voltage - 12.25
+  Communication Error Counter - 23
+SEAT_CTRL :
+DTC - 0xA40D - SEAT_CTRL Voltage fault
+Status - Pending
+Occurrence Counter - 32
+Aging Counter - 0
+Priority - 1
+Healing Counter - 10
+Debounce Counter - 67
+Severity - High
+First Detected - 2026-03-19 13:00:00
+Last Detected - 2026-03-28 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Connector or harness issue
+Recommended Check - Inspect connector and harness
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-28 13:00:00
+  Seat Position - 68
+  Backrest Position - 265
+  Occupancy - 90
+  Motor Current - 287
+  Voltage - 174
+  ECU Internal Temp - 66.5
+  ECU Supply Voltage - 12.25
+  Communication Error Counter - 23
+DTC - 0x8591 - SEAT_CTRL Sensor range fault
+Status - Intermittent
+Occurrence Counter - 39
+Aging Counter - 1
+Priority - 2
+Healing Counter - 11
+Debounce Counter - 80
+Severity - Medium
+First Detected - 2026-03-17 10:00:00
+Last Detected - 2026-03-27 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Sensor drift or contamination
+Recommended Check - Compare live value with reference
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-27 10:00:00
+  Seat Position - 141
+  Backrest Position - 338
+  Occupancy - 163
+  Motor Current - 360
+  Voltage - 247
+  ECU Internal Temp - 73.8
+  ECU Supply Voltage - 12.42
+  Communication Error Counter - 24
+CHARGE_CTRL :
+DTC - 0x75BA - CHARGE_CTRL Sensor range fault
+Status - Intermittent
+Occurrence Counter - 37
+Aging Counter - 1
+Priority - 2
+Healing Counter - 11
+Debounce Counter - 74
+Severity - Low
+First Detected - 2026-03-17 13:00:00
+Last Detected - 2026-03-27 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Sensor drift or contamination
+Recommended Check - Run actuator test and rescan
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-27 13:00:00
+  CP Duty - 955
+  EVSE Limit - 121
+  Plug Temp - 163
+  Charge Power - 329
+  Lock State - 340
+  ECU Internal Temp - 73.8
+  ECU Supply Voltage - 12.42
+  Communication Error Counter - 24
+DTC - 0x8EBE - CHARGE_CTRL Signal plausibility fault
+Status - Stored
+Occurrence Counter - 44
+Aging Counter - 2
+Priority - 3
+Healing Counter - 12
+Debounce Counter - 87
+Severity - Critical
+First Detected - 2026-03-15 10:00:00
+Last Detected - 2026-03-26 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Software or calibration mismatch
+Recommended Check - Preserve trace and check network integrity
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-26 10:00:00
+  CP Duty - 28
+  EVSE Limit - 194
+  Plug Temp - 236
+  Charge Power - 402
+  Lock State - 413
+  ECU Internal Temp - 81.1
+  ECU Supply Voltage - 12.59
+  Communication Error Counter - 25
+BMS :
+DTC - 0x6D32 - BMS Signal plausibility fault
+Status - Stored
+Occurrence Counter - 42
+Aging Counter - 2
+Priority - 3
+Healing Counter - 12
+Debounce Counter - 81
+Severity - High
+First Detected - 2026-03-15 13:00:00
+Last Detected - 2026-03-26 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Software or calibration mismatch
+Recommended Check - Compare live value with reference
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-26 13:00:00
+  Pack Voltage - 183
+  Pack Current - 256
+  SOC - 50
+  SOH - 123
+  Cell Delta - 413
+  ECU Internal Temp - 81.1
+  ECU Supply Voltage - 12.59
+  Communication Error Counter - 25
+DTC - 0x1DC5 - BMS Timeout fault
+Status - Active
+Occurrence Counter - 49
+Aging Counter - 3
+Priority - 4
+Healing Counter - 13
+Debounce Counter - 94
+Severity - Medium
+First Detected - 2026-03-13 10:00:00
+Last Detected - 2026-03-25 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Supply or ground instability
+Recommended Check - Verify supply and ground under load
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-25 10:00:00
+  Pack Voltage - 256
+  Pack Current - 329
+  SOC - 123
+  SOH - 196
+  Cell Delta - 486
+  ECU Internal Temp - 88.4
+  ECU Supply Voltage - 12.76
+  Communication Error Counter - 26
+DMS :
+DTC - 0x6619 - DMS Timeout fault
+Status - Active
+Occurrence Counter - 47
+Aging Counter - 3
+Priority - 4
+Healing Counter - 13
+Debounce Counter - 88
+Severity - Low
+First Detected - 2026-03-13 13:00:00
+Last Detected - 2026-03-25 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Supply or ground instability
+Recommended Check - Preserve trace and check network integrity
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-25 13:00:00
+  Attention Score - 349
+  Eye Closure - 298
+  Gaze Direction - 464
+  Face Confidence - 568
+  Visibility - 486
+  ECU Internal Temp - 88.4
+  ECU Supply Voltage - 12.76
+  Communication Error Counter - 26
+DTC - 0x2009 - DMS Performance issue
+Status - Pending
+Occurrence Counter - 4
+Aging Counter - 4
+Priority - 5
+Healing Counter - 14
+Debounce Counter - 101
+Severity - Critical
+First Detected - 2026-03-11 10:00:00
+Last Detected - 2026-03-24 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Network congestion or termination issue
+Recommended Check - Inspect connector and harness
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-24 10:00:00
+  Attention Score - 422
+  Eye Closure - 371
+  Gaze Direction - 537
+  Face Confidence - 641
+  Visibility - 559
+  ECU Internal Temp - 95.7
+  ECU Supply Voltage - 12.93
+  Communication Error Counter - 27
+THERMAL_CTRL :
+DTC - 0x4CB1 - THERMAL_CTRL Performance issue
+Status - Pending
+Occurrence Counter - 2
+Aging Counter - 4
+Priority - 5
+Healing Counter - 14
+Debounce Counter - 95
+Severity - High
+First Detected - 2026-03-11 13:00:00
+Last Detected - 2026-03-24 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Network congestion or termination issue
+Recommended Check - Verify supply and ground under load
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-24 13:00:00
+  Battery Inlet Temp - 515
+  Battery Outlet Temp - 619
+  Pump Speed - 413
+  Valve Position - 610
+  Refrigerant Pressure - 869
+  ECU Internal Temp - 95.7
+  ECU Supply Voltage - 12.93
+  Communication Error Counter - 27
+DTC - 0xB799 - THERMAL_CTRL Calibration fault
+Status - Intermittent
+Occurrence Counter - 9
+Aging Counter - 5
+Priority - 1
+Healing Counter - 15
+Debounce Counter - 108
+Severity - Medium
+First Detected - 2026-03-09 10:00:00
+Last Detected - 2026-03-23 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Connector or harness issue
+Recommended Check - Run actuator test and rescan
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-23 10:00:00
+  Battery Inlet Temp - 588
+  Battery Outlet Temp - 692
+  Pump Speed - 486
+  Valve Position - 683
+  Refrigerant Pressure - 942
+  ECU Internal Temp - 103.0
+  ECU Supply Voltage - 13.1
+  Communication Error Counter - 28
+PARK_ASSIST :
+DTC - 0x8BCE - PARK_ASSIST Calibration fault
+Status - Intermittent
+Occurrence Counter - 7
+Aging Counter - 5
+Priority - 1
+Healing Counter - 15
+Debounce Counter - 102
+Severity - Low
+First Detected - 2026-03-09 13:00:00
+Last Detected - 2026-03-23 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Connector or harness issue
+Recommended Check - Inspect connector and harness
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-23 13:00:00
+  Distance Front - 464
+  Distance Rear - 506
+  Slot Confidence - 641
+  Vehicle Speed - 652
+  System State - 694
+  ECU Internal Temp - 103.0
+  ECU Supply Voltage - 13.1
+  Communication Error Counter - 28
+DTC - 0x5ACD - PARK_ASSIST Internal control module fault
+Status - Stored
+Occurrence Counter - 14
+Aging Counter - 6
+Priority - 2
+Healing Counter - 16
+Debounce Counter - 115
+Severity - Critical
+First Detected - 2026-03-07 10:00:00
+Last Detected - 2026-03-22 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Sensor drift or contamination
+Recommended Check - Compare live value with reference
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-22 10:00:00
+  Distance Front - 537
+  Distance Rear - 579
+  Slot Confidence - 714
+  Vehicle Speed - 725
+  System State - 767
+  ECU Internal Temp - 20.3
+  ECU Supply Voltage - 13.27
+  Communication Error Counter - 29
+KEYLESS :
+DTC - 0x6FD5 - KEYLESS Internal control module fault
+Status - Stored
+Occurrence Counter - 12
+Aging Counter - 6
+Priority - 2
+Healing Counter - 16
+Debounce Counter - 109
+Severity - High
+First Detected - 2026-03-07 13:00:00
+Last Detected - 2026-03-22 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Sensor drift or contamination
+Recommended Check - Run actuator test and rescan
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-22 13:00:00
+  Key RSSI - 351
+  Key Status - 486
+  Immobilizer State - 776
+  Antenna Status - 756
+  Voltage - 612
+  ECU Internal Temp - 20.3
+  ECU Supply Voltage - 13.27
+  Communication Error Counter - 29
+DTC - 0x6D6D - KEYLESS Communication fault
+Status - Active
+Occurrence Counter - 19
+Aging Counter - 7
+Priority - 3
+Healing Counter - 17
+Debounce Counter - 122
+Severity - Medium
+First Detected - 2026-03-05 10:00:00
+Last Detected - 2026-03-21 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Software or calibration mismatch
+Recommended Check - Preserve trace and check network integrity
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-21 10:00:00
+  Key RSSI - 424
+  Key Status - 559
+  Immobilizer State - 849
+  Antenna Status - 829
+  Voltage - 685
+  ECU Internal Temp - 27.6
+  ECU Supply Voltage - 13.44
+  Communication Error Counter - 30
+INV_FRONT :
+DTC - 0xD17D - INV_FRONT Communication fault
+Status - Active
+Occurrence Counter - 17
+Aging Counter - 7
+Priority - 3
+Healing Counter - 17
+Debounce Counter - 116
+Severity - Low
+First Detected - 2026-03-05 13:00:00
+Last Detected - 2026-03-21 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Software or calibration mismatch
+Recommended Check - Compare live value with reference
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-21 13:00:00
+  DC Link Voltage - 641
+  Motor Speed - 590
+  Motor Torque - 694
+  Phase Current - 798
+  Temperature - 809
+  ECU Internal Temp - 27.6
+  ECU Supply Voltage - 13.44
+  Communication Error Counter - 30
+DTC - 0xE703 - INV_FRONT Voltage fault
+Status - Pending
+Occurrence Counter - 24
+Aging Counter - 8
+Priority - 4
+Healing Counter - 18
+Debounce Counter - 129
+Severity - Critical
+First Detected - 2026-03-03 10:00:00
+Last Detected - 2026-03-20 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Supply or ground instability
+Recommended Check - Verify supply and ground under load
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-20 10:00:00
+  DC Link Voltage - 714
+  Motor Speed - 663
+  Motor Torque - 767
+  Phase Current - 871
+  Temperature - 882
+  ECU Internal Temp - 34.9
+  ECU Supply Voltage - 13.61
+  Communication Error Counter - 31
+TPMS :
+DTC - 0x61EE - TPMS Voltage fault
+Status - Pending
+Occurrence Counter - 22
+Aging Counter - 8
+Priority - 4
+Healing Counter - 18
+Debounce Counter - 123
+Severity - High
+First Detected - 2026-03-03 13:00:00
+Last Detected - 2026-03-20 13:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Supply or ground instability
+Recommended Check - Preserve trace and check network integrity
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-20 13:00:00
+  Pressure FL - 590
+  Pressure FR - 663
+  Pressure RL - 736
+  Pressure RR - 809
+  Temperature FL - 975
+  ECU Internal Temp - 34.9
+  ECU Supply Voltage - 13.61
+  Communication Error Counter - 31
+DTC - 0xFBB1 - TPMS Sensor range fault
+Status - Intermittent
+Occurrence Counter - 29
+Aging Counter - 9
+Priority - 5
+Healing Counter - 19
+Debounce Counter - 136
+Severity - Medium
+First Detected - 2026-03-01 10:00:00
+Last Detected - 2026-03-19 10:00:00
+Confirmation State - Confirmed
+Possible Cause - Network congestion or termination issue
+Recommended Check - Inspect connector and harness
+Source Language - es
+Source Possible Cause - Causa posible: La causa técnica debe confirmarse con los datos medidos.
+Source Recommended Check - Comprobación recomendada: Utilizar procedimientos de diagnóstico aprobados.
+Environment Data:
+  Timestamp - 2026-03-19 10:00:00
+  Pressure FL - 663
+  Pressure FR - 736
+  Pressure RL - 809
+  Pressure RR - 882
+  Temperature FL - 48
+  ECU Internal Temp - 42.2
+  ECU Supply Voltage - 13.78
+  Communication Error Counter - 32
+ADDITIONAL VEHICLE TEST INFORMATION
+Test Start - 2026-03-28 09:00:00
+Test End - 2026-03-28 13:00:00
+Test Type - Hot climate
+Test Environment - HIL bench
+Logger ID - LOGGER-89
+ECU Count - 25
+Total DTCs - 53
+Active DTCs - 13
+CAN Frames Captured - 11987673
+CAN FD Frames Captured - 10689591
+Ethernet Packets Captured - 6323359
+Data Completeness - 99.90 %
+Overall Result - FAIL
+DISCLAIMER - Synthetic data only.

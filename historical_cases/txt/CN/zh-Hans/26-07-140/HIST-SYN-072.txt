@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-072
+Source Report - Prod_Diagnostic_Extended_SYN_072.txt
+Source Language - zh-Hans
+Canonical Language - en
+Region - CN
+VIN Scope - Synthetic
+SW I-Step - 26-07-140
+Test Type - Software regression
+Test Environment - Charging laboratory
+Primary ECU - TCU
+Related ECUs - ADAS, BCM, SEAT_CTRL, THERMAL_CTRL
+DTC Codes - 0xA34A, 0x9B9E, 0x1387, 0x3751, 0xCF3A
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_072.txt contains 58 DTCs across 24 ECUs for SW I-Step 26-07-140. The leading candidates include TCU 0xA34A TCU Communication fault (Active, Critical); THERMAL_CTRL 0x9B9E THERMAL_CTRL Timeout fault (Active, Critical); ADAS 0x1387 ADAS Communication fault (Active, Critical); SEAT_CTRL 0x3751 SEAT_CTRL Communication fault (Active, Critical); BCM 0xCF3A BCM Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - 技术原因必须通过测量数据确认。 使用经批准的诊断流程。
+Root Cause Status - Candidate only
+Possible Root Cause - Software or calibration mismatch
+Recommended Checks - Compare live value with reference; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-074
+Source Report - Prod_Diagnostic_Extended_SYN_074.txt
+Source Language - en-US
+Canonical Language - en
+Region - NA
+VIN Scope - Synthetic
+SW I-Step - 26-07-140
+Test Type - Cold climate
+Test Environment - Workshop dynamometer
+Primary ECU - RR_CORNER_RADAR
+Related ECUs - ADAS, BCM, SEAT_CTRL, TCU
+DTC Codes - 0xFA2B, 0x3B2B, 0x2933, 0x4CDE, 0xE85D
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_074.txt contains 72 DTCs across 26 ECUs for SW I-Step 26-07-140. The leading candidates include RR_CORNER_RADAR 0xFA2B RR_CORNER_RADAR Communication fault (Active, Critical); TCU 0x3B2B TCU Timeout fault (Active, Critical); ADAS 0x2933 ADAS Timeout fault (Active, Critical); SEAT_CTRL 0x4CDE SEAT_CTRL Timeout fault (Active, Critical); BCM 0xE85D BCM Communication fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - The technical cause must be confirmed from measured evidence. Use approved diagnostic procedures.
+Root Cause Status - Candidate only
+Possible Root Cause - Supply or ground instability
+Recommended Checks - Inspect connector and harness; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

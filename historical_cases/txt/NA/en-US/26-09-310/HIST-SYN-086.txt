@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-086
+Source Report - Prod_Diagnostic_Extended_SYN_086.txt
+Source Language - en-US
+Canonical Language - en
+Region - NA
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Highway profile
+Test Environment - Workshop dynamometer
+Primary ECU - TCU
+Related ECUs - ADAS, BCM, FCAM, VCU
+DTC Codes - 0x04F0, 0xFCA5, 0xF8EE, 0xA41E, 0x60B6
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_086.txt contains 63 DTCs across 26 ECUs for SW I-Step 26-09-310. The leading candidates include TCU 0x04F0 TCU Communication fault (Active, Critical); ADAS 0xFCA5 ADAS Communication fault (Active, Critical); BCM 0xF8EE BCM Timeout fault (Active, Critical); FCAM 0xA41E FCAM Signal plausibility fault (Stored, Critical); VCU 0x60B6 VCU Performance issue (Pending, Critical). Engineering confirmation is required.
+Source-Language Note - The technical cause must be confirmed from measured evidence. Use approved diagnostic procedures.
+Root Cause Status - Candidate only
+Possible Root Cause - Supply or ground instability
+Recommended Checks - Inspect connector and harness; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

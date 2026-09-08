@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-033
+Source Report - Prod_Diagnostic_Extended_SYN_033.txt
+Source Language - hi
+Canonical Language - en
+Region - IN-HI
+VIN Scope - Synthetic
+SW I-Step - 25-06-957
+Test Type - Hot climate
+Test Environment - Climate chamber
+Primary ECU - EPS
+Related ECUs - CHARGE_CTRL, DMS, FCAM, TCM
+DTC Codes - 0x9E07, 0xA58D, 0x8DCA, 0x84C7, 0xA091
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_033.txt contains 64 DTCs across 25 ECUs for SW I-Step 25-06-957. The leading candidates include EPS 0x9E07 EPS Signal plausibility fault (Stored, Critical); DMS 0xA58D DMS Performance issue (Pending, Critical); TCM 0x8DCA TCM Voltage fault (Pending, Critical); CHARGE_CTRL 0x84C7 CHARGE_CTRL Signal plausibility fault (Stored, Critical); FCAM 0xA091 FCAM Internal control module fault (Stored, Critical). Engineering confirmation is required.
+Source-Language Note - तकनीकी कारण की पुष्टि मापन डेटा से की जानी चाहिए। स्वीकृत डायग्नोस्टिक प्रक्रिया का उपयोग करें।
+Root Cause Status - Candidate only
+Possible Root Cause - Supply or ground instability
+Recommended Checks - Verify supply and ground under load; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-095
+Source Report - Prod_Diagnostic_Extended_SYN_095.txt
+Source Language - ko
+Canonical Language - en
+Region - KR
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Urban profile
+Test Environment - HIL bench
+Primary ECU - SEAT_CTRL
+Related ECUs - BCM, RR_CORNER_RADAR, TCU, TPMS
+DTC Codes - 0x4D47, 0x5C86, 0xA797, 0x8662, 0xDA76
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_095.txt contains 64 DTCs across 27 ECUs for SW I-Step 26-09-310. The leading candidates include SEAT_CTRL 0x4D47 SEAT_CTRL Communication fault (Active, Critical); BCM 0x5C86 BCM Timeout fault (Active, Critical); TPMS 0xA797 TPMS Communication fault (Active, Critical); RR_CORNER_RADAR 0x8662 RR_CORNER_RADAR Timeout fault (Active, Critical); TCU 0xDA76 TCU Communication fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - 기술적 원인은 측정 데이터로 확인해야 합니다. 승인된 진단 절차를 사용하십시오.
+Root Cause Status - Candidate only
+Possible Root Cause - Software or calibration mismatch
+Recommended Checks - Preserve trace and check network integrity; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-058
+Source Report - Prod_Diagnostic_Extended_SYN_058.txt
+Source Language - ja
+Canonical Language - en
+Region - JP
+VIN Scope - Synthetic
+SW I-Step - 26-07-140
+Test Type - Cold climate
+Test Environment - Proving ground
+Primary ECU - TCU
+Related ECUs - DCDC, FCAM, OBC, VCU
+DTC Codes - 0x2E78, 0x92DA, 0xB672, 0x66D7, 0xC347
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_058.txt contains 53 DTCs across 26 ECUs for SW I-Step 26-07-140. The leading candidates include TCU 0x2E78 TCU Timeout fault (Active, Critical); FCAM 0x92DA FCAM Internal control module fault (Stored, Critical); VCU 0xB672 VCU Voltage fault (Pending, Critical); DCDC 0x66D7 DCDC Signal plausibility fault (Stored, Critical); OBC 0xC347 OBC Performance issue (Pending, Critical). Engineering confirmation is required.
+Source-Language Note - 技術的原因は測定データで確認する必要があります。 承認済みの診断手順を使用してください。
+Root Cause Status - Candidate only
+Possible Root Cause - Connector or harness issue
+Recommended Checks - Compare live value with reference; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

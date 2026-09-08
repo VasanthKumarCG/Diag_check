@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-097
+Source Report - Prod_Diagnostic_Extended_SYN_097.txt
+Source Language - en-IN
+Canonical Language - en
+Region - IN
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Hot climate
+Test Environment - Public road profile
+Primary ECU - TCU
+Related ECUs - BODY_DC, GW, INV_FRONT, OBC
+DTC Codes - 0x33CB, 0x9AAB, 0x3DCB, 0xB9C5, 0xB4E4
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_097.txt contains 78 DTCs across 25 ECUs for SW I-Step 26-09-310. The leading candidates include TCU 0x33CB TCU Timeout fault (Active, Critical); OBC 0x9AAB OBC Performance issue (Pending, Critical); BODY_DC 0x3DCB BODY_DC Internal control module fault (Stored, Critical); INV_FRONT 0xB9C5 INV_FRONT Voltage fault (Pending, Critical); GW 0xB4E4 GW Signal plausibility fault (Stored, Critical). Engineering confirmation is required.
+Source-Language Note - The technical cause must be confirmed from measured evidence. Use approved diagnostic procedures.
+Root Cause Status - Candidate only
+Possible Root Cause - Connector or harness issue
+Recommended Checks - Preserve trace and check network integrity; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

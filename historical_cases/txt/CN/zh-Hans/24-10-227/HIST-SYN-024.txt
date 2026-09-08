@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-024
+Source Report - Prod_Diagnostic_Extended_SYN_024.txt
+Source Language - zh-Hans
+Canonical Language - en
+Region - CN
+VIN Scope - Synthetic
+SW I-Step - 24-10-227
+Test Type - Software regression
+Test Environment - Charging laboratory
+Primary ECU - SEAT_CTRL
+Related ECUs - BCM, RR_CORNER_RADAR, TCU, THERMAL_CTRL
+DTC Codes - 0x5CAF, 0xD00D, 0x7BB4, 0x0676, 0x166B
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_024.txt contains 63 DTCs across 24 ECUs for SW I-Step 24-10-227. The leading candidates include SEAT_CTRL 0x5CAF SEAT_CTRL Communication fault (Active, Critical); BCM 0xD00D BCM Timeout fault (Active, Critical); RR_CORNER_RADAR 0x7BB4 RR_CORNER_RADAR Timeout fault (Active, Critical); TCU 0x0676 TCU Communication fault (Active, Critical); THERMAL_CTRL 0x166B THERMAL_CTRL Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - 技术原因必须通过测量数据确认。 使用经批准的诊断流程。
+Root Cause Status - Candidate only
+Possible Root Cause - Connector or harness issue
+Recommended Checks - Inspect connector and harness; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

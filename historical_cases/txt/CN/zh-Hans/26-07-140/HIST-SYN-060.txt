@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-060
+Source Report - Prod_Diagnostic_Extended_SYN_060.txt
+Source Language - zh-Hans
+Canonical Language - en
+Region - CN
+VIN Scope - Synthetic
+SW I-Step - 26-07-140
+Test Type - Endurance
+Test Environment - Charging laboratory
+Primary ECU - TCU
+Related ECUs - ADAS, BCM, SEAT_CTRL, THERMAL_CTRL
+DTC Codes - 0x529F, 0x96FC, 0xF4BC, 0xE75D, 0x8177
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_060.txt contains 67 DTCs across 24 ECUs for SW I-Step 26-07-140. The leading candidates include TCU 0x529F TCU Timeout fault (Active, Critical); THERMAL_CTRL 0x96FC THERMAL_CTRL Communication fault (Active, Critical); ADAS 0xF4BC ADAS Timeout fault (Active, Critical); SEAT_CTRL 0xE75D SEAT_CTRL Timeout fault (Active, Critical); BCM 0x8177 BCM Communication fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - 技术原因必须通过测量数据确认。 使用经批准的诊断流程。
+Root Cause Status - Candidate only
+Possible Root Cause - Connector or harness issue
+Recommended Checks - Inspect connector and harness; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

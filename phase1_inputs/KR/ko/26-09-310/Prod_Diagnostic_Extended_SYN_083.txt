@@ -1,0 +1,2215 @@
+VIN - SYN68392D9
+SW I-Step - 26-09-310
+SA's - F G H I J K L M
+SA's - N O P Q R S T U
+ECU - TCU
+Hardware Version - 113.611.777
+Bootloader Version - 3.49.407
+SW Version - 26.5.071
+Coding - 279.209.873
+Diagnostic Address - 0x683
+Calibration Version - CAL-657277
+Network - 1000BASE-T1
+Secure Boot - Verified
+OTA State - Install pending
+ECU - GW
+Hardware Version - 114.612.778
+Bootloader Version - 4.50.408
+SW Version - 24.6.108
+Coding - 280.210.874
+Diagnostic Address - 0x684
+Calibration Version - CAL-657374
+Network - LIN 19.2 kbit/s
+Secure Boot - Attention
+OTA State - Current
+ECU - ECM
+Hardware Version - 115.613.779
+Bootloader Version - 5.51.409
+SW Version - 25.7.145
+Coding - 281.211.875
+Diagnostic Address - 0x685
+Calibration Version - CAL-657471
+Network - CAN FD 2/5 Mbit/s
+Secure Boot - Verified
+OTA State - Update available
+ECU - OBC
+Hardware Version - 116.614.780
+Bootloader Version - 6.52.410
+SW Version - 26.8.182
+Coding - 282.212.876
+Diagnostic Address - 0x686
+Calibration Version - CAL-657568
+Network - CAN 500 kbit/s
+Secure Boot - Verified
+OTA State - Install pending
+ECU - BCM
+Hardware Version - 117.615.781
+Bootloader Version - 7.53.411
+SW Version - 24.9.219
+Coding - 283.213.877
+Diagnostic Address - 0x687
+Calibration Version - CAL-657665
+Network - 100BASE-T1
+Secure Boot - Attention
+OTA State - Current
+ECU - FCAM
+Hardware Version - 118.616.782
+Bootloader Version - 8.54.412
+SW Version - 25.10.256
+Coding - 284.214.878
+Diagnostic Address - 0x688
+Calibration Version - CAL-657762
+Network - 1000BASE-T1
+Secure Boot - Verified
+OTA State - Update available
+ECU - HVAC
+Hardware Version - 119.617.783
+Bootloader Version - 9.55.413
+SW Version - 26.11.293
+Coding - 285.215.879
+Diagnostic Address - 0x689
+Calibration Version - CAL-657859
+Network - LIN 19.2 kbit/s
+Secure Boot - Verified
+OTA State - Install pending
+ECU - TCM
+Hardware Version - 120.618.784
+Bootloader Version - 1.56.414
+SW Version - 24.12.330
+Coding - 286.216.880
+Diagnostic Address - 0x68A
+Calibration Version - CAL-657956
+Network - CAN FD 2/5 Mbit/s
+Secure Boot - Attention
+OTA State - Current
+ECU - ADAS
+Hardware Version - 121.619.785
+Bootloader Version - 2.57.415
+SW Version - 25.0.367
+Coding - 287.217.881
+Diagnostic Address - 0x68B
+Calibration Version - CAL-658053
+Network - CAN 500 kbit/s
+Secure Boot - Verified
+OTA State - Update available
+ECU - EPS
+Hardware Version - 122.620.786
+Bootloader Version - 3.58.416
+SW Version - 26.1.404
+Coding - 288.218.882
+Diagnostic Address - 0x68C
+Calibration Version - CAL-658150
+Network - 100BASE-T1
+Secure Boot - Verified
+OTA State - Install pending
+ECU - ABS
+Hardware Version - 123.621.787
+Bootloader Version - 4.59.417
+SW Version - 24.2.441
+Coding - 289.219.883
+Diagnostic Address - 0x68D
+Calibration Version - CAL-658247
+Network - 1000BASE-T1
+Secure Boot - Attention
+OTA State - Current
+ECU - RADAR
+Hardware Version - 124.622.788
+Bootloader Version - 5.60.418
+SW Version - 25.3.478
+Coding - 290.220.884
+Diagnostic Address - 0x68E
+Calibration Version - CAL-658344
+Network - LIN 19.2 kbit/s
+Secure Boot - Verified
+OTA State - Update available
+ECU - RR_CORNER_RADAR
+Hardware Version - 125.623.789
+Bootloader Version - 6.61.419
+SW Version - 26.4.515
+Coding - 291.221.885
+Diagnostic Address - 0x68F
+Calibration Version - CAL-658441
+Network - CAN FD 2/5 Mbit/s
+Secure Boot - Verified
+OTA State - Install pending
+ECU - BODY_DC
+Hardware Version - 126.624.790
+Bootloader Version - 7.62.420
+SW Version - 24.5.552
+Coding - 292.222.886
+Diagnostic Address - 0x690
+Calibration Version - CAL-658538
+Network - CAN 500 kbit/s
+Secure Boot - Attention
+OTA State - Current
+ECU - LIGHT_CTRL
+Hardware Version - 127.625.791
+Bootloader Version - 8.63.421
+SW Version - 25.6.589
+Coding - 293.223.887
+Diagnostic Address - 0x691
+Calibration Version - CAL-658635
+Network - 100BASE-T1
+Secure Boot - Verified
+OTA State - Update available
+ECU - VCU
+Hardware Version - 128.626.792
+Bootloader Version - 9.64.422
+SW Version - 26.7.626
+Coding - 294.224.888
+Diagnostic Address - 0x692
+Calibration Version - CAL-658732
+Network - 1000BASE-T1
+Secure Boot - Verified
+OTA State - Install pending
+ECU - SEAT_CTRL
+Hardware Version - 129.627.793
+Bootloader Version - 1.65.423
+SW Version - 24.8.663
+Coding - 295.225.889
+Diagnostic Address - 0x693
+Calibration Version - CAL-658829
+Network - LIN 19.2 kbit/s
+Secure Boot - Attention
+OTA State - Current
+ECU - CHARGE_CTRL
+Hardware Version - 130.628.794
+Bootloader Version - 2.66.424
+SW Version - 25.9.700
+Coding - 296.226.890
+Diagnostic Address - 0x694
+Calibration Version - CAL-658926
+Network - CAN FD 2/5 Mbit/s
+Secure Boot - Verified
+OTA State - Update available
+ECU - BMS
+Hardware Version - 131.629.795
+Bootloader Version - 3.67.425
+SW Version - 26.10.737
+Coding - 297.227.891
+Diagnostic Address - 0x695
+Calibration Version - CAL-659023
+Network - CAN 500 kbit/s
+Secure Boot - Verified
+OTA State - Install pending
+ECU - DMS
+Hardware Version - 132.630.796
+Bootloader Version - 4.68.426
+SW Version - 24.11.774
+Coding - 298.228.892
+Diagnostic Address - 0x696
+Calibration Version - CAL-659120
+Network - 100BASE-T1
+Secure Boot - Attention
+OTA State - Current
+ECU - THERMAL_CTRL
+Hardware Version - 133.631.797
+Bootloader Version - 5.69.427
+SW Version - 25.12.811
+Coding - 299.229.893
+Diagnostic Address - 0x697
+Calibration Version - CAL-659217
+Network - 1000BASE-T1
+Secure Boot - Verified
+OTA State - Update available
+ECU - PARK_ASSIST
+Hardware Version - 134.632.798
+Bootloader Version - 6.70.428
+SW Version - 26.0.848
+Coding - 300.230.894
+Diagnostic Address - 0x698
+Calibration Version - CAL-659314
+Network - LIN 19.2 kbit/s
+Secure Boot - Verified
+OTA State - Install pending
+ECU - KEYLESS
+Hardware Version - 135.633.799
+Bootloader Version - 7.71.429
+SW Version - 24.1.885
+Coding - 301.231.895
+Diagnostic Address - 0x699
+Calibration Version - CAL-659411
+Network - CAN FD 2/5 Mbit/s
+Secure Boot - Attention
+OTA State - Current
+ECU - INV_FRONT
+Hardware Version - 136.634.800
+Bootloader Version - 8.72.430
+SW Version - 25.2.922
+Coding - 302.232.896
+Diagnostic Address - 0x69A
+Calibration Version - CAL-659508
+Network - CAN 500 kbit/s
+Secure Boot - Verified
+OTA State - Update available
+ECU - TPMS
+Hardware Version - 137.635.801
+Bootloader Version - 9.73.431
+SW Version - 26.3.959
+Coding - 303.233.897
+Diagnostic Address - 0x69B
+Calibration Version - CAL-659605
+Network - 100BASE-T1
+Secure Boot - Verified
+OTA State - Install pending
+ECU - DCDC
+Hardware Version - 138.636.802
+Bootloader Version - 1.74.432
+SW Version - 24.4.996
+Coding - 304.234.898
+Diagnostic Address - 0x69C
+Calibration Version - CAL-659702
+Network - 1000BASE-T1
+Secure Boot - Attention
+OTA State - Current
+ECU - CYBER_GW
+Hardware Version - 139.637.803
+Bootloader Version - 2.75.433
+SW Version - 25.5.033
+Coding - 305.235.899
+Diagnostic Address - 0x69D
+Calibration Version - CAL-659799
+Network - LIN 19.2 kbit/s
+Secure Boot - Verified
+OTA State - Update available
+DTCs
+TCU :
+DTC - 0xD64E - TCU Signal plausibility fault
+Status - Stored
+Occurrence Counter - 48
+Aging Counter - 20
+Priority - 4
+Healing Counter - 18
+Debounce Counter - 145
+Severity - Low
+First Detected - 2026-02-21 19:00:00
+Last Detected - 2026-03-16 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Supply or ground instability
+Recommended Check - Preserve trace and check network integrity
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-16 19:00:00
+  RSSI - 183
+  GPS Status - 442
+  Network Type - 577
+  Speed - 433
+  Voltage - 568
+  ECU Internal Temp - 85.9
+  ECU Supply Voltage - 11.91
+  Communication Error Counter - 1
+DTC - 0x6717 - TCU Timeout fault
+Status - Active
+Occurrence Counter - 5
+Aging Counter - 0
+Priority - 5
+Healing Counter - 19
+Debounce Counter - 158
+Severity - Critical
+First Detected - 2026-03-12 16:00:00
+Last Detected - 2026-03-15 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Network congestion or termination issue
+Recommended Check - Inspect connector and harness
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-15 16:00:00
+  RSSI - 256
+  GPS Status - 515
+  Network Type - 650
+  Speed - 506
+  Voltage - 641
+  ECU Internal Temp - 93.2
+  ECU Supply Voltage - 12.08
+  Communication Error Counter - 2
+DTC - 0xB0CB - TCU Performance issue
+Status - Pending
+Occurrence Counter - 12
+Aging Counter - 1
+Priority - 1
+Healing Counter - 20
+Debounce Counter - 171
+Severity - High
+First Detected - 2026-03-10 13:00:00
+Last Detected - 2026-03-14 13:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Connector or harness issue
+Recommended Check - Compare live value with reference
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-14 13:00:00
+  RSSI - 329
+  GPS Status - 588
+  Network Type - 723
+  Speed - 579
+  Voltage - 714
+  ECU Internal Temp - 100.5
+  ECU Supply Voltage - 12.25
+  Communication Error Counter - 3
+GW :
+DTC - 0x8853 - GW Timeout fault
+Status - Active
+Occurrence Counter - 3
+Aging Counter - 0
+Priority - 5
+Healing Counter - 19
+Debounce Counter - 152
+Severity - High
+First Detected - 2026-03-12 19:00:00
+Last Detected - 2026-03-15 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Network congestion or termination issue
+Recommended Check - Verify supply and ground under load
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-15 19:00:00
+  CAN Load - 380
+  Eth Status - 515
+  Voltage - 495
+  Bus Errors - 661
+  Ignition - 672
+  ECU Internal Temp - 93.2
+  ECU Supply Voltage - 12.08
+  Communication Error Counter - 2
+DTC - 0xF5B1 - GW Performance issue
+Status - Pending
+Occurrence Counter - 10
+Aging Counter - 1
+Priority - 1
+Healing Counter - 20
+Debounce Counter - 165
+Severity - Medium
+First Detected - 2026-03-10 16:00:00
+Last Detected - 2026-03-14 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Connector or harness issue
+Recommended Check - Run actuator test and rescan
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-14 16:00:00
+  CAN Load - 453
+  Eth Status - 588
+  Voltage - 568
+  Bus Errors - 734
+  Ignition - 745
+  ECU Internal Temp - 100.5
+  ECU Supply Voltage - 12.25
+  Communication Error Counter - 3
+DTC - 0xF175 - GW Calibration fault
+Status - Intermittent
+Occurrence Counter - 17
+Aging Counter - 2
+Priority - 2
+Healing Counter - 0
+Debounce Counter - 178
+Severity - Low
+First Detected - 2026-03-08 13:00:00
+Last Detected - 2026-03-13 13:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Sensor drift or contamination
+Recommended Check - Preserve trace and check network integrity
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-13 13:00:00
+  CAN Load - 526
+  Eth Status - 661
+  Voltage - 641
+  Bus Errors - 807
+  Ignition - 818
+  ECU Internal Temp - 107.8
+  ECU Supply Voltage - 12.42
+  Communication Error Counter - 4
+ECM :
+DTC - 0x9540 - ECM Performance issue
+Status - Pending
+Occurrence Counter - 8
+Aging Counter - 1
+Priority - 1
+Healing Counter - 20
+Debounce Counter - 159
+Severity - Low
+First Detected - 2026-03-10 19:00:00
+Last Detected - 2026-03-14 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Connector or harness issue
+Recommended Check - Inspect connector and harness
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-14 19:00:00
+  RPM - 298
+  Coolant Temp - 650
+  Fuel Pressure - 754
+  Boost Pressure - 858
+  Engine Load - 838
+  ECU Internal Temp - 100.5
+  ECU Supply Voltage - 12.25
+  Communication Error Counter - 3
+DTC - 0x4921 - ECM Calibration fault
+Status - Intermittent
+Occurrence Counter - 15
+Aging Counter - 2
+Priority - 2
+Healing Counter - 0
+Debounce Counter - 172
+Severity - Critical
+First Detected - 2026-03-08 16:00:00
+Last Detected - 2026-03-13 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Sensor drift or contamination
+Recommended Check - Compare live value with reference
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-13 16:00:00
+  RPM - 371
+  Coolant Temp - 723
+  Fuel Pressure - 827
+  Boost Pressure - 931
+  Engine Load - 911
+  ECU Internal Temp - 107.8
+  ECU Supply Voltage - 12.42
+  Communication Error Counter - 4
+DTC - 0x7DBB - ECM Internal control module fault
+Status - Stored
+Occurrence Counter - 22
+Aging Counter - 3
+Priority - 3
+Healing Counter - 1
+Debounce Counter - 185
+Severity - High
+First Detected - 2026-03-06 13:00:00
+Last Detected - 2026-03-12 13:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Software or calibration mismatch
+Recommended Check - Verify supply and ground under load
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-12 13:00:00
+  RPM - 444
+  Coolant Temp - 796
+  Fuel Pressure - 900
+  Boost Pressure - 4
+  Engine Load - 984
+  ECU Internal Temp - 25.1
+  ECU Supply Voltage - 12.59
+  Communication Error Counter - 5
+OBC :
+DTC - 0x02C4 - OBC Calibration fault
+Status - Intermittent
+Occurrence Counter - 13
+Aging Counter - 2
+Priority - 2
+Healing Counter - 0
+Debounce Counter - 166
+Severity - High
+First Detected - 2026-03-08 19:00:00
+Last Detected - 2026-03-13 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Sensor drift or contamination
+Recommended Check - Run actuator test and rescan
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-13 19:00:00
+  AC Voltage - 588
+  Charge Current - 785
+  Battery Temp - 796
+  SOC - 590
+  Input Freq - 880
+  ECU Internal Temp - 107.8
+  ECU Supply Voltage - 12.42
+  Communication Error Counter - 4
+DTC - 0xED5F - OBC Internal control module fault
+Status - Stored
+Occurrence Counter - 20
+Aging Counter - 3
+Priority - 3
+Healing Counter - 1
+Debounce Counter - 179
+Severity - Medium
+First Detected - 2026-03-06 16:00:00
+Last Detected - 2026-03-12 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Software or calibration mismatch
+Recommended Check - Preserve trace and check network integrity
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-12 16:00:00
+  AC Voltage - 661
+  Charge Current - 858
+  Battery Temp - 869
+  SOC - 663
+  Input Freq - 953
+  ECU Internal Temp - 25.1
+  ECU Supply Voltage - 12.59
+  Communication Error Counter - 5
+DTC - 0x804D - OBC Communication fault
+Status - Active
+Occurrence Counter - 27
+Aging Counter - 4
+Priority - 4
+Healing Counter - 2
+Debounce Counter - 192
+Severity - Low
+First Detected - 2026-03-04 13:00:00
+Last Detected - 2026-03-11 13:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Supply or ground instability
+Recommended Check - Inspect connector and harness
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-11 13:00:00
+  AC Voltage - 734
+  Charge Current - 931
+  Battery Temp - 942
+  SOC - 736
+  Input Freq - 26
+  ECU Internal Temp - 32.4
+  ECU Supply Voltage - 12.76
+  Communication Error Counter - 6
+BCM :
+DTC - 0x6DDF - BCM Internal control module fault
+Status - Stored
+Occurrence Counter - 18
+Aging Counter - 3
+Priority - 3
+Healing Counter - 1
+Debounce Counter - 173
+Severity - Low
+First Detected - 2026-03-06 19:00:00
+Last Detected - 2026-03-12 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Software or calibration mismatch
+Recommended Check - Compare live value with reference
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-12 19:00:00
+  Battery Voltage - 816
+  Door Status - 765
+  Lock State - 807
+  Ignition - 818
+  Window Pos - 953
+  ECU Internal Temp - 25.1
+  ECU Supply Voltage - 12.59
+  Communication Error Counter - 5
+DTC - 0x1557 - BCM Communication fault
+Status - Active
+Occurrence Counter - 25
+Aging Counter - 4
+Priority - 4
+Healing Counter - 2
+Debounce Counter - 186
+Severity - Critical
+First Detected - 2026-03-04 16:00:00
+Last Detected - 2026-03-11 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Supply or ground instability
+Recommended Check - Verify supply and ground under load
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-11 16:00:00
+  Battery Voltage - 889
+  Door Status - 838
+  Lock State - 880
+  Ignition - 891
+  Window Pos - 26
+  ECU Internal Temp - 32.4
+  ECU Supply Voltage - 12.76
+  Communication Error Counter - 6
+DTC - 0x9316 - BCM Voltage fault
+Status - Pending
+Occurrence Counter - 32
+Aging Counter - 5
+Priority - 5
+Healing Counter - 3
+Debounce Counter - 199
+Severity - High
+First Detected - 2026-03-02 13:00:00
+Last Detected - 2026-03-10 13:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Network congestion or termination issue
+Recommended Check - Run actuator test and rescan
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-10 13:00:00
+  Battery Voltage - 962
+  Door Status - 911
+  Lock State - 953
+  Ignition - 964
+  Window Pos - 99
+  ECU Internal Temp - 39.7
+  ECU Supply Voltage - 12.93
+  Communication Error Counter - 7
+FCAM :
+DTC - 0x3BE2 - FCAM Communication fault
+Status - Active
+Occurrence Counter - 23
+Aging Counter - 4
+Priority - 4
+Healing Counter - 2
+Debounce Counter - 180
+Severity - High
+First Detected - 2026-03-04 19:00:00
+Last Detected - 2026-03-11 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Supply or ground instability
+Recommended Check - Preserve trace and check network integrity
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-11 19:00:00
+  Lane Confidence - 889
+  Visibility - 807
+  Image Quality - 973
+  Speed - 798
+  Light Level - 57
+  ECU Internal Temp - 32.4
+  ECU Supply Voltage - 12.76
+  Communication Error Counter - 6
+DTC - 0x2A15 - FCAM Voltage fault
+Status - Pending
+Occurrence Counter - 30
+Aging Counter - 5
+Priority - 5
+Healing Counter - 3
+Debounce Counter - 193
+Severity - Medium
+First Detected - 2026-03-02 16:00:00
+Last Detected - 2026-03-10 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Network congestion or termination issue
+Recommended Check - Inspect connector and harness
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-10 16:00:00
+  Lane Confidence - 962
+  Visibility - 880
+  Image Quality - 46
+  Speed - 871
+  Light Level - 130
+  ECU Internal Temp - 39.7
+  ECU Supply Voltage - 12.93
+  Communication Error Counter - 7
+DTC - 0xB895 - FCAM Sensor range fault
+Status - Intermittent
+Occurrence Counter - 37
+Aging Counter - 6
+Priority - 1
+Healing Counter - 4
+Debounce Counter - 206
+Severity - Low
+First Detected - 2026-02-28 13:00:00
+Last Detected - 2026-03-09 13:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Connector or harness issue
+Recommended Check - Compare live value with reference
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-09 13:00:00
+  Lane Confidence - 35
+  Visibility - 953
+  Image Quality - 119
+  Speed - 944
+  Light Level - 203
+  ECU Internal Temp - 47.0
+  ECU Supply Voltage - 13.1
+  Communication Error Counter - 8
+HVAC :
+DTC - 0x7CEB - HVAC Voltage fault
+Status - Pending
+Occurrence Counter - 28
+Aging Counter - 5
+Priority - 5
+Healing Counter - 3
+Debounce Counter - 187
+Severity - Low
+First Detected - 2026-03-02 19:00:00
+Last Detected - 2026-03-10 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Network congestion or termination issue
+Recommended Check - Verify supply and ground under load
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-10 19:00:00
+  Cabin Temp - 807
+  Blower Speed - 942
+  Evap Temp - 922
+  Ambient Temp - 88
+  AC Pressure - 130
+  ECU Internal Temp - 39.7
+  ECU Supply Voltage - 12.93
+  Communication Error Counter - 7
+DTC - 0xD645 - HVAC Sensor range fault
+Status - Intermittent
+Occurrence Counter - 35
+Aging Counter - 6
+Priority - 1
+Healing Counter - 4
+Debounce Counter - 200
+Severity - Critical
+First Detected - 2026-02-28 16:00:00
+Last Detected - 2026-03-09 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Connector or harness issue
+Recommended Check - Run actuator test and rescan
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-09 16:00:00
+  Cabin Temp - 880
+  Blower Speed - 15
+  Evap Temp - 995
+  Ambient Temp - 161
+  AC Pressure - 203
+  ECU Internal Temp - 47.0
+  ECU Supply Voltage - 13.1
+  Communication Error Counter - 8
+DTC - 0xC33F - HVAC Signal plausibility fault
+Status - Stored
+Occurrence Counter - 42
+Aging Counter - 7
+Priority - 2
+Healing Counter - 5
+Debounce Counter - 213
+Severity - High
+First Detected - 2026-02-26 13:00:00
+Last Detected - 2026-03-08 13:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Sensor drift or contamination
+Recommended Check - Preserve trace and check network integrity
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-08 13:00:00
+  Cabin Temp - 953
+  Blower Speed - 88
+  Evap Temp - 68
+  Ambient Temp - 234
+  AC Pressure - 276
+  ECU Internal Temp - 54.3
+  ECU Supply Voltage - 13.27
+  Communication Error Counter - 9
+TCM :
+DTC - 0xA246 - TCM Sensor range fault
+Status - Intermittent
+Occurrence Counter - 33
+Aging Counter - 6
+Priority - 1
+Healing Counter - 4
+Debounce Counter - 194
+Severity - High
+First Detected - 2026-02-28 19:00:00
+Last Detected - 2026-03-09 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Connector or harness issue
+Recommended Check - Inspect connector and harness
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-09 19:00:00
+  Gear - 694
+  Oil Temp - 891
+  Turbine Speed - 119
+  Clutch Pressure - 254
+  Output Speed - 234
+  ECU Internal Temp - 47.0
+  ECU Supply Voltage - 13.1
+  Communication Error Counter - 8
+DTC - 0xA243 - TCM Signal plausibility fault
+Status - Stored
+Occurrence Counter - 40
+Aging Counter - 7
+Priority - 2
+Healing Counter - 5
+Debounce Counter - 207
+Severity - Medium
+First Detected - 2026-02-26 16:00:00
+Last Detected - 2026-03-08 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Sensor drift or contamination
+Recommended Check - Compare live value with reference
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-08 16:00:00
+  Gear - 767
+  Oil Temp - 964
+  Turbine Speed - 192
+  Clutch Pressure - 327
+  Output Speed - 307
+  ECU Internal Temp - 54.3
+  ECU Supply Voltage - 13.27
+  Communication Error Counter - 9
+DTC - 0x95A1 - TCM Timeout fault
+Status - Active
+Occurrence Counter - 47
+Aging Counter - 8
+Priority - 3
+Healing Counter - 6
+Debounce Counter - 220
+Severity - Low
+First Detected - 2026-02-24 13:00:00
+Last Detected - 2026-03-07 13:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Software or calibration mismatch
+Recommended Check - Verify supply and ground under load
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-07 13:00:00
+  Gear - 840
+  Oil Temp - 37
+  Turbine Speed - 265
+  Clutch Pressure - 400
+  Output Speed - 380
+  ECU Internal Temp - 61.6
+  ECU Supply Voltage - 13.44
+  Communication Error Counter - 10
+ADAS :
+DTC - 0xF81B - ADAS Signal plausibility fault
+Status - Stored
+Occurrence Counter - 38
+Aging Counter - 7
+Priority - 2
+Healing Counter - 5
+Debounce Counter - 201
+Severity - Low
+First Detected - 2026-02-26 19:00:00
+Last Detected - 2026-03-08 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Sensor drift or contamination
+Recommended Check - Run actuator test and rescan
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-08 19:00:00
+  CPU Load - 891
+  Lane State - 26
+  Object Count - 161
+  Voltage - 79
+  Speed - 90
+  ECU Internal Temp - 54.3
+  ECU Supply Voltage - 13.27
+  Communication Error Counter - 9
+DTC - 0x4D21 - ADAS Timeout fault
+Status - Active
+Occurrence Counter - 45
+Aging Counter - 8
+Priority - 3
+Healing Counter - 6
+Debounce Counter - 214
+Severity - Critical
+First Detected - 2026-02-24 16:00:00
+Last Detected - 2026-03-07 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Software or calibration mismatch
+Recommended Check - Preserve trace and check network integrity
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-07 16:00:00
+  CPU Load - 964
+  Lane State - 99
+  Object Count - 234
+  Voltage - 152
+  Speed - 163
+  ECU Internal Temp - 61.6
+  ECU Supply Voltage - 13.44
+  Communication Error Counter - 10
+DTC - 0x8769 - ADAS Performance issue
+Status - Pending
+Occurrence Counter - 2
+Aging Counter - 9
+Priority - 4
+Healing Counter - 7
+Debounce Counter - 227
+Severity - High
+First Detected - 2026-02-22 13:00:00
+Last Detected - 2026-03-06 13:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Supply or ground instability
+Recommended Check - Inspect connector and harness
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-06 13:00:00
+  CPU Load - 37
+  Lane State - 172
+  Object Count - 307
+  Voltage - 225
+  Speed - 236
+  ECU Internal Temp - 68.9
+  ECU Supply Voltage - 13.61
+  Communication Error Counter - 11
+EPS :
+DTC - 0x034A - EPS Timeout fault
+Status - Active
+Occurrence Counter - 43
+Aging Counter - 8
+Priority - 3
+Healing Counter - 6
+Debounce Counter - 208
+Severity - High
+First Detected - 2026-02-24 19:00:00
+Last Detected - 2026-03-07 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Software or calibration mismatch
+Recommended Check - Compare live value with reference
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-07 19:00:00
+  Steering Angle - 150
+  Driver Torque - 192
+  Motor Current - 265
+  Supply Voltage - 369
+  Speed - 163
+  ECU Internal Temp - 61.6
+  ECU Supply Voltage - 13.44
+  Communication Error Counter - 10
+DTC - 0x2FA8 - EPS Performance issue
+Status - Pending
+Occurrence Counter - 50
+Aging Counter - 9
+Priority - 4
+Healing Counter - 7
+Debounce Counter - 221
+Severity - Medium
+First Detected - 2026-02-22 16:00:00
+Last Detected - 2026-03-06 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Supply or ground instability
+Recommended Check - Verify supply and ground under load
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-06 16:00:00
+  Steering Angle - 223
+  Driver Torque - 265
+  Motor Current - 338
+  Supply Voltage - 442
+  Speed - 236
+  ECU Internal Temp - 68.9
+  ECU Supply Voltage - 13.61
+  Communication Error Counter - 11
+DTC - 0x1237 - EPS Calibration fault
+Status - Intermittent
+Occurrence Counter - 7
+Aging Counter - 10
+Priority - 5
+Healing Counter - 8
+Debounce Counter - 234
+Severity - Low
+First Detected - 2026-02-20 13:00:00
+Last Detected - 2026-03-05 13:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Network congestion or termination issue
+Recommended Check - Run actuator test and rescan
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-05 13:00:00
+  Steering Angle - 296
+  Driver Torque - 338
+  Motor Current - 411
+  Supply Voltage - 515
+  Speed - 309
+  ECU Internal Temp - 76.2
+  ECU Supply Voltage - 13.78
+  Communication Error Counter - 12
+ABS :
+DTC - 0x6ADF - ABS Performance issue
+Status - Pending
+Occurrence Counter - 48
+Aging Counter - 9
+Priority - 4
+Healing Counter - 7
+Debounce Counter - 215
+Severity - Low
+First Detected - 2026-02-22 19:00:00
+Last Detected - 2026-03-06 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Supply or ground instability
+Recommended Check - Preserve trace and check network integrity
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-06 19:00:00
+  Wheel FL - 37
+  Wheel FR - 110
+  Brake Pressure - 369
+  Yaw Rate - 256
+  Vehicle Speed - 484
+  ECU Internal Temp - 68.9
+  ECU Supply Voltage - 13.61
+  Communication Error Counter - 11
+DTC - 0x05AF - ABS Calibration fault
+Status - Intermittent
+Occurrence Counter - 5
+Aging Counter - 10
+Priority - 5
+Healing Counter - 8
+Debounce Counter - 228
+Severity - Critical
+First Detected - 2026-02-20 16:00:00
+Last Detected - 2026-03-05 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Network congestion or termination issue
+Recommended Check - Inspect connector and harness
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-05 16:00:00
+  Wheel FL - 110
+  Wheel FR - 183
+  Brake Pressure - 442
+  Yaw Rate - 329
+  Vehicle Speed - 557
+  ECU Internal Temp - 76.2
+  ECU Supply Voltage - 13.78
+  Communication Error Counter - 12
+DTC - 0x0E80 - ABS Internal control module fault
+Status - Stored
+Occurrence Counter - 12
+Aging Counter - 11
+Priority - 1
+Healing Counter - 9
+Debounce Counter - 241
+Severity - High
+First Detected - 2026-02-18 13:00:00
+Last Detected - 2026-03-04 13:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Connector or harness issue
+Recommended Check - Compare live value with reference
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-04 13:00:00
+  Wheel FL - 183
+  Wheel FR - 256
+  Brake Pressure - 515
+  Yaw Rate - 402
+  Vehicle Speed - 630
+  ECU Internal Temp - 83.5
+  ECU Supply Voltage - 13.95
+  Communication Error Counter - 13
+RADAR :
+DTC - 0x1CE1 - RADAR Calibration fault
+Status - Intermittent
+Occurrence Counter - 3
+Aging Counter - 10
+Priority - 5
+Healing Counter - 8
+Debounce Counter - 222
+Severity - High
+First Detected - 2026-02-20 19:00:00
+Last Detected - 2026-03-05 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Network congestion or termination issue
+Recommended Check - Verify supply and ground under load
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-05 19:00:00
+  Target Distance - 327
+  Relative Speed - 369
+  Object Count - 380
+  Speed - 236
+  Temperature - 495
+  ECU Internal Temp - 76.2
+  ECU Supply Voltage - 13.78
+  Communication Error Counter - 12
+DTC - 0xE6C4 - RADAR Internal control module fault
+Status - Stored
+Occurrence Counter - 10
+Aging Counter - 11
+Priority - 1
+Healing Counter - 9
+Debounce Counter - 235
+Severity - Medium
+First Detected - 2026-02-18 16:00:00
+Last Detected - 2026-03-04 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Connector or harness issue
+Recommended Check - Run actuator test and rescan
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-04 16:00:00
+  Target Distance - 400
+  Relative Speed - 442
+  Object Count - 453
+  Speed - 309
+  Temperature - 568
+  ECU Internal Temp - 83.5
+  ECU Supply Voltage - 13.95
+  Communication Error Counter - 13
+DTC - 0x8766 - RADAR Communication fault
+Status - Active
+Occurrence Counter - 17
+Aging Counter - 12
+Priority - 2
+Healing Counter - 10
+Debounce Counter - 248
+Severity - Low
+First Detected - 2026-02-16 13:00:00
+Last Detected - 2026-03-03 13:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Sensor drift or contamination
+Recommended Check - Preserve trace and check network integrity
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-03 13:00:00
+  Target Distance - 473
+  Relative Speed - 515
+  Object Count - 526
+  Speed - 382
+  Temperature - 641
+  ECU Internal Temp - 90.8
+  ECU Supply Voltage - 14.12
+  Communication Error Counter - 14
+RR_CORNER_RADAR :
+DTC - 0x2799 - RR_CORNER_RADAR Internal control module fault
+Status - Stored
+Occurrence Counter - 8
+Aging Counter - 11
+Priority - 1
+Healing Counter - 9
+Debounce Counter - 229
+Severity - Low
+First Detected - 2026-02-18 19:00:00
+Last Detected - 2026-03-04 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Connector or harness issue
+Recommended Check - Inspect connector and harness
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-04 19:00:00
+  Target Distance - 400
+  Relative Speed - 442
+  Object Count - 453
+  Alignment Offset - 650
+  Temperature - 568
+  ECU Internal Temp - 83.5
+  ECU Supply Voltage - 13.95
+  Communication Error Counter - 13
+DTC - 0x4371 - RR_CORNER_RADAR Communication fault
+Status - Active
+Occurrence Counter - 15
+Aging Counter - 12
+Priority - 2
+Healing Counter - 10
+Debounce Counter - 242
+Severity - Critical
+First Detected - 2026-02-16 16:00:00
+Last Detected - 2026-03-03 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Sensor drift or contamination
+Recommended Check - Compare live value with reference
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-03 16:00:00
+  Target Distance - 473
+  Relative Speed - 515
+  Object Count - 526
+  Alignment Offset - 723
+  Temperature - 641
+  ECU Internal Temp - 90.8
+  ECU Supply Voltage - 14.12
+  Communication Error Counter - 14
+DTC - 0xF8C0 - RR_CORNER_RADAR Voltage fault
+Status - Pending
+Occurrence Counter - 22
+Aging Counter - 13
+Priority - 3
+Healing Counter - 11
+Debounce Counter - 255
+Severity - High
+First Detected - 2026-02-14 13:00:00
+Last Detected - 2026-03-02 13:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Software or calibration mismatch
+Recommended Check - Verify supply and ground under load
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-02 13:00:00
+  Target Distance - 546
+  Relative Speed - 588
+  Object Count - 599
+  Alignment Offset - 796
+  Temperature - 714
+  ECU Internal Temp - 98.1
+  ECU Supply Voltage - 14.29
+  Communication Error Counter - 15
+BODY_DC :
+DTC - 0x0E84 - BODY_DC Communication fault
+Status - Active
+Occurrence Counter - 13
+Aging Counter - 12
+Priority - 2
+Healing Counter - 10
+Debounce Counter - 236
+Severity - High
+First Detected - 2026-02-16 19:00:00
+Last Detected - 2026-03-03 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Sensor drift or contamination
+Recommended Check - Run actuator test and rescan
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-03 19:00:00
+  Supply Voltage - 442
+  CPU Load - 329
+  Door Requests - 557
+  Lighting Requests - 754
+  Network Errors - 734
+  ECU Internal Temp - 90.8
+  ECU Supply Voltage - 14.12
+  Communication Error Counter - 14
+DTC - 0x7379 - BODY_DC Voltage fault
+Status - Pending
+Occurrence Counter - 20
+Aging Counter - 13
+Priority - 3
+Healing Counter - 11
+Debounce Counter - 249
+Severity - Medium
+First Detected - 2026-02-14 16:00:00
+Last Detected - 2026-03-02 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Software or calibration mismatch
+Recommended Check - Preserve trace and check network integrity
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-02 16:00:00
+  Supply Voltage - 515
+  CPU Load - 402
+  Door Requests - 630
+  Lighting Requests - 827
+  Network Errors - 807
+  ECU Internal Temp - 98.1
+  ECU Supply Voltage - 14.29
+  Communication Error Counter - 15
+DTC - 0x73CA - BODY_DC Sensor range fault
+Status - Intermittent
+Occurrence Counter - 27
+Aging Counter - 14
+Priority - 4
+Healing Counter - 12
+Debounce Counter - 6
+Severity - Low
+First Detected - 2026-02-12 13:00:00
+Last Detected - 2026-03-01 13:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Supply or ground instability
+Recommended Check - Inspect connector and harness
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-01 13:00:00
+  Supply Voltage - 588
+  CPU Load - 475
+  Door Requests - 703
+  Lighting Requests - 900
+  Network Errors - 880
+  ECU Internal Temp - 105.4
+  ECU Supply Voltage - 14.46
+  Communication Error Counter - 16
+LIGHT_CTRL :
+DTC - 0x4DE9 - LIGHT_CTRL Voltage fault
+Status - Pending
+Occurrence Counter - 18
+Aging Counter - 13
+Priority - 3
+Healing Counter - 11
+Debounce Counter - 243
+Severity - Low
+First Detected - 2026-02-14 19:00:00
+Last Detected - 2026-03-02 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Software or calibration mismatch
+Recommended Check - Compare live value with reference
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-02 19:00:00
+  Low Beam State - 515
+  High Beam State - 619
+  Ambient Light - 630
+  Lamp Current - 672
+  Voltage - 590
+  ECU Internal Temp - 98.1
+  ECU Supply Voltage - 14.29
+  Communication Error Counter - 15
+DTC - 0xDBBA - LIGHT_CTRL Sensor range fault
+Status - Intermittent
+Occurrence Counter - 25
+Aging Counter - 14
+Priority - 4
+Healing Counter - 12
+Debounce Counter - 0
+Severity - Critical
+First Detected - 2026-02-12 16:00:00
+Last Detected - 2026-03-01 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Supply or ground instability
+Recommended Check - Verify supply and ground under load
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-01 16:00:00
+  Low Beam State - 588
+  High Beam State - 692
+  Ambient Light - 703
+  Lamp Current - 745
+  Voltage - 663
+  ECU Internal Temp - 105.4
+  ECU Supply Voltage - 14.46
+  Communication Error Counter - 16
+DTC - 0x82D5 - LIGHT_CTRL Signal plausibility fault
+Status - Stored
+Occurrence Counter - 32
+Aging Counter - 15
+Priority - 5
+Healing Counter - 13
+Debounce Counter - 13
+Severity - High
+First Detected - 2026-02-26 13:00:00
+Last Detected - 2026-03-16 13:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Network congestion or termination issue
+Recommended Check - Run actuator test and rescan
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-16 13:00:00
+  Low Beam State - 661
+  High Beam State - 765
+  Ambient Light - 776
+  Lamp Current - 818
+  Voltage - 736
+  ECU Internal Temp - 22.7
+  ECU Supply Voltage - 14.63
+  Communication Error Counter - 17
+VCU :
+DTC - 0xF024 - VCU Sensor range fault
+Status - Intermittent
+Occurrence Counter - 23
+Aging Counter - 14
+Priority - 4
+Healing Counter - 12
+Debounce Counter - 250
+Severity - High
+First Detected - 2026-02-12 19:00:00
+Last Detected - 2026-03-01 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Supply or ground instability
+Recommended Check - Preserve trace and check network integrity
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-01 19:00:00
+  Requested Torque - 650
+  Actual Torque - 630
+  Drive Mode - 610
+  Vehicle Speed - 776
+  HV State - 694
+  ECU Internal Temp - 105.4
+  ECU Supply Voltage - 14.46
+  Communication Error Counter - 16
+DTC - 0x0935 - VCU Signal plausibility fault
+Status - Stored
+Occurrence Counter - 30
+Aging Counter - 15
+Priority - 5
+Healing Counter - 13
+Debounce Counter - 7
+Severity - Medium
+First Detected - 2026-02-26 16:00:00
+Last Detected - 2026-03-16 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Network congestion or termination issue
+Recommended Check - Inspect connector and harness
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-16 16:00:00
+  Requested Torque - 723
+  Actual Torque - 703
+  Drive Mode - 683
+  Vehicle Speed - 849
+  HV State - 767
+  ECU Internal Temp - 22.7
+  ECU Supply Voltage - 14.63
+  Communication Error Counter - 17
+DTC - 0xA0D6 - VCU Timeout fault
+Status - Active
+Occurrence Counter - 37
+Aging Counter - 16
+Priority - 1
+Healing Counter - 14
+Debounce Counter - 20
+Severity - Low
+First Detected - 2026-02-24 13:00:00
+Last Detected - 2026-03-15 13:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Connector or harness issue
+Recommended Check - Compare live value with reference
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-15 13:00:00
+  Requested Torque - 796
+  Actual Torque - 776
+  Drive Mode - 756
+  Vehicle Speed - 922
+  HV State - 840
+  ECU Internal Temp - 30.0
+  ECU Supply Voltage - 11.4
+  Communication Error Counter - 18
+SEAT_CTRL :
+DTC - 0xE208 - SEAT_CTRL Signal plausibility fault
+Status - Stored
+Occurrence Counter - 28
+Aging Counter - 15
+Priority - 5
+Healing Counter - 13
+Debounce Counter - 1
+Severity - Low
+First Detected - 2026-02-26 19:00:00
+Last Detected - 2026-03-16 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Network congestion or termination issue
+Recommended Check - Verify supply and ground under load
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-16 19:00:00
+  Seat Position - 630
+  Backrest Position - 827
+  Occupancy - 652
+  Motor Current - 849
+  Voltage - 736
+  ECU Internal Temp - 22.7
+  ECU Supply Voltage - 14.63
+  Communication Error Counter - 17
+DTC - 0x6E6F - SEAT_CTRL Timeout fault
+Status - Active
+Occurrence Counter - 35
+Aging Counter - 16
+Priority - 1
+Healing Counter - 14
+Debounce Counter - 14
+Severity - Critical
+First Detected - 2026-02-24 16:00:00
+Last Detected - 2026-03-15 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Connector or harness issue
+Recommended Check - Run actuator test and rescan
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-15 16:00:00
+  Seat Position - 703
+  Backrest Position - 900
+  Occupancy - 725
+  Motor Current - 922
+  Voltage - 809
+  ECU Internal Temp - 30.0
+  ECU Supply Voltage - 11.4
+  Communication Error Counter - 18
+DTC - 0x9BC8 - SEAT_CTRL Performance issue
+Status - Pending
+Occurrence Counter - 42
+Aging Counter - 17
+Priority - 2
+Healing Counter - 15
+Debounce Counter - 27
+Severity - High
+First Detected - 2026-02-22 13:00:00
+Last Detected - 2026-03-14 13:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Sensor drift or contamination
+Recommended Check - Preserve trace and check network integrity
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-14 13:00:00
+  Seat Position - 776
+  Backrest Position - 973
+  Occupancy - 798
+  Motor Current - 995
+  Voltage - 882
+  ECU Internal Temp - 37.3
+  ECU Supply Voltage - 11.57
+  Communication Error Counter - 19
+CHARGE_CTRL :
+DTC - 0xE96B - CHARGE_CTRL Timeout fault
+Status - Active
+Occurrence Counter - 33
+Aging Counter - 16
+Priority - 1
+Healing Counter - 14
+Debounce Counter - 8
+Severity - High
+First Detected - 2026-02-24 19:00:00
+Last Detected - 2026-03-15 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Connector or harness issue
+Recommended Check - Inspect connector and harness
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-15 19:00:00
+  CP Duty - 517
+  EVSE Limit - 683
+  Plug Temp - 725
+  Charge Power - 891
+  Lock State - 902
+  ECU Internal Temp - 30.0
+  ECU Supply Voltage - 11.4
+  Communication Error Counter - 18
+DTC - 0x1541 - CHARGE_CTRL Performance issue
+Status - Pending
+Occurrence Counter - 40
+Aging Counter - 17
+Priority - 2
+Healing Counter - 15
+Debounce Counter - 21
+Severity - Medium
+First Detected - 2026-02-22 16:00:00
+Last Detected - 2026-03-14 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Sensor drift or contamination
+Recommended Check - Compare live value with reference
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-14 16:00:00
+  CP Duty - 590
+  EVSE Limit - 756
+  Plug Temp - 798
+  Charge Power - 964
+  Lock State - 975
+  ECU Internal Temp - 37.3
+  ECU Supply Voltage - 11.57
+  Communication Error Counter - 19
+DTC - 0x02B5 - CHARGE_CTRL Calibration fault
+Status - Intermittent
+Occurrence Counter - 47
+Aging Counter - 18
+Priority - 3
+Healing Counter - 16
+Debounce Counter - 34
+Severity - Low
+First Detected - 2026-02-20 13:00:00
+Last Detected - 2026-03-13 13:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Software or calibration mismatch
+Recommended Check - Verify supply and ground under load
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-13 13:00:00
+  CP Duty - 663
+  EVSE Limit - 829
+  Plug Temp - 871
+  Charge Power - 37
+  Lock State - 48
+  ECU Internal Temp - 44.6
+  ECU Supply Voltage - 11.74
+  Communication Error Counter - 20
+BMS :
+DTC - 0x77C2 - BMS Performance issue
+Status - Pending
+Occurrence Counter - 38
+Aging Counter - 17
+Priority - 2
+Healing Counter - 15
+Debounce Counter - 15
+Severity - Low
+First Detected - 2026-02-22 19:00:00
+Last Detected - 2026-03-14 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Sensor drift or contamination
+Recommended Check - Run actuator test and rescan
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-14 19:00:00
+  Pack Voltage - 745
+  Pack Current - 818
+  SOC - 612
+  SOH - 685
+  Cell Delta - 975
+  ECU Internal Temp - 37.3
+  ECU Supply Voltage - 11.57
+  Communication Error Counter - 19
+DTC - 0xB762 - BMS Calibration fault
+Status - Intermittent
+Occurrence Counter - 45
+Aging Counter - 18
+Priority - 3
+Healing Counter - 16
+Debounce Counter - 28
+Severity - Critical
+First Detected - 2026-02-20 16:00:00
+Last Detected - 2026-03-13 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Software or calibration mismatch
+Recommended Check - Preserve trace and check network integrity
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-13 16:00:00
+  Pack Voltage - 818
+  Pack Current - 891
+  SOC - 685
+  SOH - 758
+  Cell Delta - 48
+  ECU Internal Temp - 44.6
+  ECU Supply Voltage - 11.74
+  Communication Error Counter - 20
+DTC - 0xFD9D - BMS Internal control module fault
+Status - Stored
+Occurrence Counter - 2
+Aging Counter - 19
+Priority - 4
+Healing Counter - 17
+Debounce Counter - 41
+Severity - High
+First Detected - 2026-02-18 13:00:00
+Last Detected - 2026-03-12 13:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Supply or ground instability
+Recommended Check - Inspect connector and harness
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-12 13:00:00
+  Pack Voltage - 891
+  Pack Current - 964
+  SOC - 758
+  SOH - 831
+  Cell Delta - 121
+  ECU Internal Temp - 51.9
+  ECU Supply Voltage - 11.91
+  Communication Error Counter - 21
+DMS :
+DTC - 0x3517 - DMS Calibration fault
+Status - Intermittent
+Occurrence Counter - 43
+Aging Counter - 18
+Priority - 3
+Healing Counter - 16
+Debounce Counter - 22
+Severity - High
+First Detected - 2026-02-20 19:00:00
+Last Detected - 2026-03-13 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Software or calibration mismatch
+Recommended Check - Compare live value with reference
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-13 19:00:00
+  Attention Score - 911
+  Eye Closure - 860
+  Gaze Direction - 26
+  Face Confidence - 130
+  Visibility - 48
+  ECU Internal Temp - 44.6
+  ECU Supply Voltage - 11.74
+  Communication Error Counter - 20
+DTC - 0xE6C0 - DMS Internal control module fault
+Status - Stored
+Occurrence Counter - 50
+Aging Counter - 19
+Priority - 4
+Healing Counter - 17
+Debounce Counter - 35
+Severity - Medium
+First Detected - 2026-02-18 16:00:00
+Last Detected - 2026-03-12 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Supply or ground instability
+Recommended Check - Verify supply and ground under load
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-12 16:00:00
+  Attention Score - 984
+  Eye Closure - 933
+  Gaze Direction - 99
+  Face Confidence - 203
+  Visibility - 121
+  ECU Internal Temp - 51.9
+  ECU Supply Voltage - 11.91
+  Communication Error Counter - 21
+THERMAL_CTRL :
+DTC - 0xB7C2 - THERMAL_CTRL Internal control module fault
+Status - Stored
+Occurrence Counter - 48
+Aging Counter - 19
+Priority - 4
+Healing Counter - 17
+Debounce Counter - 29
+Severity - Low
+First Detected - 2026-02-18 19:00:00
+Last Detected - 2026-03-12 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Supply or ground instability
+Recommended Check - Preserve trace and check network integrity
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-12 19:00:00
+  Battery Inlet Temp - 77
+  Battery Outlet Temp - 181
+  Pump Speed - 975
+  Valve Position - 172
+  Refrigerant Pressure - 431
+  ECU Internal Temp - 51.9
+  ECU Supply Voltage - 11.91
+  Communication Error Counter - 21
+DTC - 0x67C3 - THERMAL_CTRL Communication fault
+Status - Active
+Occurrence Counter - 5
+Aging Counter - 20
+Priority - 5
+Healing Counter - 18
+Debounce Counter - 42
+Severity - Critical
+First Detected - 2026-02-16 16:00:00
+Last Detected - 2026-03-11 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Network congestion or termination issue
+Recommended Check - Inspect connector and harness
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-11 16:00:00
+  Battery Inlet Temp - 150
+  Battery Outlet Temp - 254
+  Pump Speed - 48
+  Valve Position - 245
+  Refrigerant Pressure - 504
+  ECU Internal Temp - 59.2
+  ECU Supply Voltage - 12.08
+  Communication Error Counter - 22
+PARK_ASSIST :
+DTC - 0x61BE - PARK_ASSIST Communication fault
+Status - Active
+Occurrence Counter - 3
+Aging Counter - 20
+Priority - 5
+Healing Counter - 18
+Debounce Counter - 36
+Severity - High
+First Detected - 2026-02-16 19:00:00
+Last Detected - 2026-03-11 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Network congestion or termination issue
+Recommended Check - Verify supply and ground under load
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-11 19:00:00
+  Distance Front - 26
+  Distance Rear - 68
+  Slot Confidence - 203
+  Vehicle Speed - 214
+  System State - 256
+  ECU Internal Temp - 59.2
+  ECU Supply Voltage - 12.08
+  Communication Error Counter - 22
+DTC - 0x0286 - PARK_ASSIST Voltage fault
+Status - Pending
+Occurrence Counter - 10
+Aging Counter - 0
+Priority - 1
+Healing Counter - 19
+Debounce Counter - 49
+Severity - Medium
+First Detected - 2026-03-07 16:00:00
+Last Detected - 2026-03-10 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Connector or harness issue
+Recommended Check - Run actuator test and rescan
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-10 16:00:00
+  Distance Front - 99
+  Distance Rear - 141
+  Slot Confidence - 276
+  Vehicle Speed - 287
+  System State - 329
+  ECU Internal Temp - 66.5
+  ECU Supply Voltage - 12.25
+  Communication Error Counter - 23
+KEYLESS :
+DTC - 0x956F - KEYLESS Voltage fault
+Status - Pending
+Occurrence Counter - 8
+Aging Counter - 0
+Priority - 1
+Healing Counter - 19
+Debounce Counter - 43
+Severity - Low
+First Detected - 2026-03-07 19:00:00
+Last Detected - 2026-03-10 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Connector or harness issue
+Recommended Check - Inspect connector and harness
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-10 19:00:00
+  Key RSSI - 913
+  Key Status - 48
+  Immobilizer State - 338
+  Antenna Status - 318
+  Voltage - 174
+  ECU Internal Temp - 66.5
+  ECU Supply Voltage - 12.25
+  Communication Error Counter - 23
+DTC - 0x55EC - KEYLESS Sensor range fault
+Status - Intermittent
+Occurrence Counter - 15
+Aging Counter - 1
+Priority - 2
+Healing Counter - 20
+Debounce Counter - 56
+Severity - Critical
+First Detected - 2026-03-05 16:00:00
+Last Detected - 2026-03-09 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Sensor drift or contamination
+Recommended Check - Compare live value with reference
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-09 16:00:00
+  Key RSSI - 986
+  Key Status - 121
+  Immobilizer State - 411
+  Antenna Status - 391
+  Voltage - 247
+  ECU Internal Temp - 73.8
+  ECU Supply Voltage - 12.42
+  Communication Error Counter - 24
+INV_FRONT :
+DTC - 0xADB4 - INV_FRONT Sensor range fault
+Status - Intermittent
+Occurrence Counter - 13
+Aging Counter - 1
+Priority - 2
+Healing Counter - 20
+Debounce Counter - 50
+Severity - High
+First Detected - 2026-03-05 19:00:00
+Last Detected - 2026-03-09 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Sensor drift or contamination
+Recommended Check - Run actuator test and rescan
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-09 19:00:00
+  DC Link Voltage - 203
+  Motor Speed - 152
+  Motor Torque - 256
+  Phase Current - 360
+  Temperature - 371
+  ECU Internal Temp - 73.8
+  ECU Supply Voltage - 12.42
+  Communication Error Counter - 24
+DTC - 0x2B05 - INV_FRONT Signal plausibility fault
+Status - Stored
+Occurrence Counter - 20
+Aging Counter - 2
+Priority - 3
+Healing Counter - 0
+Debounce Counter - 63
+Severity - Medium
+First Detected - 2026-03-03 16:00:00
+Last Detected - 2026-03-08 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Software or calibration mismatch
+Recommended Check - Preserve trace and check network integrity
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-08 16:00:00
+  DC Link Voltage - 276
+  Motor Speed - 225
+  Motor Torque - 329
+  Phase Current - 433
+  Temperature - 444
+  ECU Internal Temp - 81.1
+  ECU Supply Voltage - 12.59
+  Communication Error Counter - 25
+TPMS :
+DTC - 0x0BBF - TPMS Signal plausibility fault
+Status - Stored
+Occurrence Counter - 18
+Aging Counter - 2
+Priority - 3
+Healing Counter - 0
+Debounce Counter - 57
+Severity - Low
+First Detected - 2026-03-03 19:00:00
+Last Detected - 2026-03-08 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Software or calibration mismatch
+Recommended Check - Compare live value with reference
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-08 19:00:00
+  Pressure FL - 152
+  Pressure FR - 225
+  Pressure RL - 298
+  Pressure RR - 371
+  Temperature FL - 537
+  ECU Internal Temp - 81.1
+  ECU Supply Voltage - 12.59
+  Communication Error Counter - 25
+DTC - 0xB0F6 - TPMS Timeout fault
+Status - Active
+Occurrence Counter - 25
+Aging Counter - 3
+Priority - 4
+Healing Counter - 1
+Debounce Counter - 70
+Severity - Critical
+First Detected - 2026-03-01 16:00:00
+Last Detected - 2026-03-07 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Supply or ground instability
+Recommended Check - Verify supply and ground under load
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-07 16:00:00
+  Pressure FL - 225
+  Pressure FR - 298
+  Pressure RL - 371
+  Pressure RR - 444
+  Temperature FL - 610
+  ECU Internal Temp - 88.4
+  ECU Supply Voltage - 12.76
+  Communication Error Counter - 26
+DCDC :
+DTC - 0x300C - DCDC Timeout fault
+Status - Active
+Occurrence Counter - 23
+Aging Counter - 3
+Priority - 4
+Healing Counter - 1
+Debounce Counter - 64
+Severity - High
+First Detected - 2026-03-01 19:00:00
+Last Detected - 2026-03-07 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Supply or ground instability
+Recommended Check - Preserve trace and check network integrity
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-07 19:00:00
+  Input Voltage - 287
+  Output Voltage - 391
+  Output Current - 464
+  Temperature - 444
+  Enable State - 548
+  ECU Internal Temp - 88.4
+  ECU Supply Voltage - 12.76
+  Communication Error Counter - 26
+DTC - 0x72A2 - DCDC Performance issue
+Status - Pending
+Occurrence Counter - 30
+Aging Counter - 4
+Priority - 5
+Healing Counter - 2
+Debounce Counter - 77
+Severity - Medium
+First Detected - 2026-02-27 16:00:00
+Last Detected - 2026-03-06 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Network congestion or termination issue
+Recommended Check - Inspect connector and harness
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-06 16:00:00
+  Input Voltage - 360
+  Output Voltage - 464
+  Output Current - 537
+  Temperature - 517
+  Enable State - 621
+  ECU Internal Temp - 95.7
+  ECU Supply Voltage - 12.93
+  Communication Error Counter - 27
+CYBER_GW :
+DTC - 0xA8C8 - CYBER_GW Performance issue
+Status - Pending
+Occurrence Counter - 28
+Aging Counter - 4
+Priority - 5
+Healing Counter - 2
+Debounce Counter - 71
+Severity - Low
+First Detected - 2026-02-27 19:00:00
+Last Detected - 2026-03-06 19:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Network congestion or termination issue
+Recommended Check - Verify supply and ground under load
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-06 19:00:00
+  Auth Failures - 360
+  Freshness Errors - 526
+  Certificate Days - 599
+  Intrusion Events - 672
+  Firewall Drops - 683
+  ECU Internal Temp - 95.7
+  ECU Supply Voltage - 12.93
+  Communication Error Counter - 27
+DTC - 0x5BB2 - CYBER_GW Calibration fault
+Status - Intermittent
+Occurrence Counter - 35
+Aging Counter - 5
+Priority - 1
+Healing Counter - 3
+Debounce Counter - 84
+Severity - Critical
+First Detected - 2026-02-25 16:00:00
+Last Detected - 2026-03-05 16:00:00
+Confirmation State - Confirmed
+Possible Cause - Connector or harness issue
+Recommended Check - Run actuator test and rescan
+Source Language - ko
+Source Possible Cause - 가능한 원인: 기술적 원인은 측정 데이터로 확인해야 합니다.
+Source Recommended Check - 권장 점검: 승인된 진단 절차를 사용하십시오.
+Environment Data:
+  Timestamp - 2026-03-05 16:00:00
+  Auth Failures - 433
+  Freshness Errors - 599
+  Certificate Days - 672
+  Intrusion Events - 745
+  Firewall Drops - 756
+  ECU Internal Temp - 103.0
+  ECU Supply Voltage - 13.1
+  Communication Error Counter - 28
+ADDITIONAL VEHICLE TEST INFORMATION
+Test Start - 2026-03-16 13:00:00
+Test End - 2026-03-16 19:00:00
+Test Type - Network robustness
+Test Environment - HIL bench
+Logger ID - LOGGER-83
+ECU Count - 27
+Total DTCs - 73
+Active DTCs - 18
+CAN Frames Captured - 11246931
+CAN FD Frames Captured - 10022877
+Ethernet Packets Captured - 5930773
+Data Completeness - 99.30 %
+Overall Result - FAIL
+DISCLAIMER - Synthetic data only.

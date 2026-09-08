@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-064
+Source Report - Prod_Diagnostic_Extended_SYN_064.txt
+Source Language - fr
+Canonical Language - en
+Region - EU-FR
+VIN Scope - Synthetic
+SW I-Step - 26-07-140
+Test Type - Software regression
+Test Environment - Proving ground
+Primary ECU - BCM
+Related ECUs - ADAS, RR_CORNER_RADAR, TCU, THERMAL_CTRL
+DTC Codes - 0x62FF, 0x1AD1, 0xD987, 0x9DB8, 0x2CDF
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_064.txt contains 64 DTCs across 24 ECUs for SW I-Step 26-07-140. The leading candidates include BCM 0x62FF BCM Timeout fault (Active, Critical); RR_CORNER_RADAR 0x1AD1 RR_CORNER_RADAR Timeout fault (Active, Critical); TCU 0xD987 TCU Communication fault (Active, Critical); THERMAL_CTRL 0x9DB8 THERMAL_CTRL Timeout fault (Active, Critical); ADAS 0x2CDF ADAS Communication fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - La cause technique doit être confirmée à partir des mesures. Utiliser les procédures de diagnostic approuvées.
+Root Cause Status - Candidate only
+Possible Root Cause - Supply or ground instability
+Recommended Checks - Preserve trace and check network integrity; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

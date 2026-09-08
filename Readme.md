@@ -997,3 +997,62 @@ notepad .env
 
 .\scripts\verify_database.bat
 
+# Automotive Diagnostic Intelligence POC - Unified Phase 1 and Phase 2
+
+This bundle consolidates the Phase 1 diagnostic parser/database/Power BI foundation with the Phase 2 multilingual historical knowledge and pgvector/Ollama foundation.
+
+## Fastest smoke test
+
+```powershell
+.\scripts\run_complete_poc.bat -SkipDatabase -SkipPhase2 -SkipPowerBI
+```
+
+## Full local run
+
+Configure `.env`, install pgvector and the approved Ollama models, then run:
+
+```powershell
+.\scripts\run_complete_poc.bat -SkipPowerBI
+```
+
+After completion, open the existing PBIX and refresh it manually. All bundled diagnostic and historical cases are synthetic.
+# Diagnostic Intelligence Phase 1-Aligned Multilingual Dataset
+# Diagnostic Intelligence Level 2 Extension
+
+This merge-ready extension starts from the completed Level 1 PostgreSQL and Power BI POC and adds:
+
+- pgvector knowledge schema
+- approved-source metadata and provenance
+- release, ECU relationship and owner reference data
+- historical knowledge ingestion
+- Ollama embedding and Qwen JSON analysis client
+- hybrid filtered vector retrieval
+- deterministic cross-ECU correlation candidates
+- release-regression view
+- retrieval and AI audit tables
+- engineer-feedback storage
+- dummy knowledge, releases, ECU graph and owners
+
+## Quick start
+
+1. Copy `.env.level2.example` to `.env` and configure local values.
+2. Install pgvector on the PostgreSQL server.
+3. Pull the selected embedding and chat models in Ollama.
+4. Run `scripts\setup_level2.bat`.
+5. Replace dummy reference data before UAT.
+6. Run `scripts\ingest_dummy_knowledge.bat` for a smoke test.
+7. Obtain a valid `report_id` from `raw.diagnostic_report`.
+8. Run `scripts\run_correlation.bat REPORT_ID`.
+9. Run `scripts\run_diagnostic_copilot.bat REPORT_ID`.
+
+The dummy embedding mode is available only for unit/integration plumbing tests and must not be used to evaluate semantic retrieval quality.
+
+
+This package mirrors the shared `Prod_Diagnostic_Extended` input format and adds controlled multilingual evidence fields without changing canonical diagnostic labels. It contains 100 synthetic reports and 100 linked historical cases.
+
+Run:
+
+```powershell
+.\scripts\run_all_checks.bat
+.\scripts\build_knowledge_jsonl.bat
+```

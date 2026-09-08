@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-002
+Source Report - Prod_Diagnostic_Extended_SYN_002.txt
+Source Language - en-US
+Canonical Language - en
+Region - NA
+VIN Scope - Synthetic
+SW I-Step - 24-10-227
+Test Type - Cold climate
+Test Environment - Workshop dynamometer
+Primary ECU - TCU
+Related ECUs - ADAS, BCM, FCAM, VCU
+DTC Codes - 0x0DCF, 0x8A6F, 0x4000, 0x28D8, 0x721A
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_002.txt contains 64 DTCs across 26 ECUs for SW I-Step 24-10-227. The leading candidates include TCU 0x0DCF TCU Timeout fault (Active, Critical); ADAS 0x8A6F ADAS Timeout fault (Active, Critical); BCM 0x4000 BCM Communication fault (Active, Critical); FCAM 0x28D8 FCAM Internal control module fault (Stored, Critical); VCU 0x721A VCU Voltage fault (Pending, Critical). Engineering confirmation is required.
+Source-Language Note - The technical cause must be confirmed from measured evidence. Use approved diagnostic procedures.
+Root Cause Status - Candidate only
+Possible Root Cause - Network congestion or termination issue
+Recommended Checks - Run actuator test and rescan; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

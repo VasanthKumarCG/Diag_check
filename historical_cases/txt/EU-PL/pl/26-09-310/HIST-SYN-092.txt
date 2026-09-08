@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-092
+Source Report - Prod_Diagnostic_Extended_SYN_092.txt
+Source Language - pl
+Canonical Language - en
+Region - EU-PL
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Endurance
+Test Environment - Workshop dynamometer
+Primary ECU - BCM
+Related ECUs - ADAS, RR_CORNER_RADAR, TCU, THERMAL_CTRL
+DTC Codes - 0x7B83, 0x4FAD, 0xACF5, 0x97F2, 0x043C
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_092.txt contains 74 DTCs across 24 ECUs for SW I-Step 26-09-310. The leading candidates include BCM 0x7B83 BCM Communication fault (Active, Critical); RR_CORNER_RADAR 0x4FAD RR_CORNER_RADAR Communication fault (Active, Critical); TCU 0xACF5 TCU Timeout fault (Active, Critical); THERMAL_CTRL 0x97F2 THERMAL_CTRL Communication fault (Active, Critical); ADAS 0x043C ADAS Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - Przyczyna techniczna wymaga potwierdzenia na podstawie pomiarów. Użyć zatwierdzonych procedur diagnostycznych.
+Root Cause Status - Candidate only
+Possible Root Cause - Sensor drift or contamination
+Recommended Checks - Run actuator test and rescan; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

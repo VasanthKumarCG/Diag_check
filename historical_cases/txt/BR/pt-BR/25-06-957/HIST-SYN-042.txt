@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-042
+Source Report - Prod_Diagnostic_Extended_SYN_042.txt
+Source Language - pt-BR
+Canonical Language - en
+Region - BR
+VIN Scope - Synthetic
+SW I-Step - 25-06-957
+Test Type - Cold climate
+Test Environment - Charging laboratory
+Primary ECU - TCU
+Related ECUs - ADAS, BCM, OBC, RR_CORNER_RADAR
+DTC Codes - 0x1CFD, 0xB8CC, 0x2645, 0xEC89, 0x2037
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_042.txt contains 65 DTCs across 26 ECUs for SW I-Step 25-06-957. The leading candidates include TCU 0x1CFD TCU Timeout fault (Active, Critical); ADAS 0xB8CC ADAS Timeout fault (Active, Critical); BCM 0x2645 BCM Communication fault (Active, Critical); RR_CORNER_RADAR 0xEC89 RR_CORNER_RADAR Communication fault (Active, Critical); OBC 0x2037 OBC Performance issue (Pending, Critical). Engineering confirmation is required.
+Source-Language Note - A causa técnica deve ser confirmada com os dados medidos. Usar procedimentos de diagnóstico aprovados.
+Root Cause Status - Candidate only
+Possible Root Cause - Network congestion or termination issue
+Recommended Checks - Run actuator test and rescan; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

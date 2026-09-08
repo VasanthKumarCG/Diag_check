@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-067
+Source Report - Prod_Diagnostic_Extended_SYN_067.txt
+Source Language - it
+Canonical Language - en
+Region - EU-IT
+VIN Scope - Synthetic
+SW I-Step - 26-07-140
+Test Type - Network robustness
+Test Environment - Public road profile
+Primary ECU - SEAT_CTRL
+Related ECUs - BCM, RR_CORNER_RADAR, TCU, TPMS
+DTC Codes - 0x3AF0, 0x9EA0, 0xF88E, 0x1986, 0x98DC
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_067.txt contains 54 DTCs across 27 ECUs for SW I-Step 26-07-140. The leading candidates include SEAT_CTRL 0x3AF0 SEAT_CTRL Timeout fault (Active, Critical); BCM 0x9EA0 BCM Communication fault (Active, Critical); TPMS 0xF88E TPMS Timeout fault (Active, Critical); RR_CORNER_RADAR 0x1986 RR_CORNER_RADAR Communication fault (Active, Critical); TCU 0x98DC TCU Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - La causa tecnica deve essere confermata con i dati misurati. Utilizzare procedure diagnostiche approvate.
+Root Cause Status - Candidate only
+Possible Root Cause - Network congestion or termination issue
+Recommended Checks - Inspect connector and harness; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

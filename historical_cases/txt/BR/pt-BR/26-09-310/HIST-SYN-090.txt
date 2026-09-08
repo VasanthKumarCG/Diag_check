@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-090
+Source Report - Prod_Diagnostic_Extended_SYN_090.txt
+Source Language - pt-BR
+Canonical Language - en
+Region - BR
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Cold climate
+Test Environment - Charging laboratory
+Primary ECU - BCM
+Related ECUs - CHARGE_CTRL, FCAM, TCM, TCU
+DTC Codes - 0x820B, 0x5CA4, 0xEE64, 0x5849, 0xFF78
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_090.txt contains 60 DTCs across 26 ECUs for SW I-Step 26-09-310. The leading candidates include BCM 0x820B BCM Communication fault (Active, Critical); TCU 0x5CA4 TCU Timeout fault (Active, Critical); TCM 0xEE64 TCM Voltage fault (Pending, Critical); CHARGE_CTRL 0x5849 CHARGE_CTRL Signal plausibility fault (Stored, Critical); FCAM 0xFF78 FCAM Internal control module fault (Stored, Critical). Engineering confirmation is required.
+Source-Language Note - A causa técnica deve ser confirmada com os dados medidos. Usar procedimentos de diagnóstico aprovados.
+Root Cause Status - Candidate only
+Possible Root Cause - Sensor drift or contamination
+Recommended Checks - Preserve trace and check network integrity; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

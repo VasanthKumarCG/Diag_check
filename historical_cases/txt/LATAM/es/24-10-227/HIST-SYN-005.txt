@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-005
+Source Report - Prod_Diagnostic_Extended_SYN_005.txt
+Source Language - es
+Canonical Language - en
+Region - LATAM
+VIN Scope - Synthetic
+SW I-Step - 24-10-227
+Test Type - Charging validation
+Test Environment - HIL bench
+Primary ECU - EPS
+Related ECUs - CHARGE_CTRL, DMS, FCAM, TCM
+DTC Codes - 0xB76E, 0x5849, 0x4741, 0x86E0, 0x3F33
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_005.txt contains 54 DTCs across 25 ECUs for SW I-Step 24-10-227. The leading candidates include EPS 0xB76E EPS Internal control module fault (Stored, Critical); DMS 0x5849 DMS Voltage fault (Pending, Critical); TCM 0x4741 TCM Performance issue (Pending, Critical); CHARGE_CTRL 0x86E0 CHARGE_CTRL Internal control module fault (Stored, Critical); FCAM 0x3F33 FCAM Signal plausibility fault (Stored, Critical). Engineering confirmation is required.
+Source-Language Note - La causa técnica debe confirmarse con los datos medidos. Utilizar procedimientos de diagnóstico aprobados.
+Root Cause Status - Candidate only
+Possible Root Cause - Connector or harness issue
+Recommended Checks - Run actuator test and rescan; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

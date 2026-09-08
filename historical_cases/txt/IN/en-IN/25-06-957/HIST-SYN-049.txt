@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-049
+Source Report - Prod_Diagnostic_Extended_SYN_049.txt
+Source Language - en-IN
+Canonical Language - en
+Region - IN
+VIN Scope - Synthetic
+SW I-Step - 25-06-957
+Test Type - Hot climate
+Test Environment - Public road profile
+Primary ECU - EPS
+Related ECUs - CHARGE_CTRL, DMS, FCAM, TCM
+DTC Codes - 0x493B, 0xCF40, 0xF098, 0x7B48, 0x85D7
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_049.txt contains 52 DTCs across 25 ECUs for SW I-Step 25-06-957. The leading candidates include EPS 0x493B EPS Signal plausibility fault (Stored, Critical); DMS 0xCF40 DMS Performance issue (Pending, Critical); TCM 0xF098 TCM Voltage fault (Pending, Critical); CHARGE_CTRL 0x7B48 CHARGE_CTRL Signal plausibility fault (Stored, Critical); FCAM 0x85D7 FCAM Internal control module fault (Stored, Critical). Engineering confirmation is required.
+Source-Language Note - The technical cause must be confirmed from measured evidence. Use approved diagnostic procedures.
+Root Cause Status - Candidate only
+Possible Root Cause - Network congestion or termination issue
+Recommended Checks - Inspect connector and harness; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

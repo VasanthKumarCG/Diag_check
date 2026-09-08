@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-076
+Source Report - Prod_Diagnostic_Extended_SYN_076.txt
+Source Language - fr
+Canonical Language - en
+Region - EU-FR
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Endurance
+Test Environment - Proving ground
+Primary ECU - RR_CORNER_RADAR
+Related ECUs - ADAS, SEAT_CTRL, TCU, THERMAL_CTRL
+DTC Codes - 0xF8DE, 0x165C, 0x4430, 0xB98A, 0xE08C
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_076.txt contains 55 DTCs across 24 ECUs for SW I-Step 26-09-310. The leading candidates include RR_CORNER_RADAR 0xF8DE RR_CORNER_RADAR Communication fault (Active, Critical); TCU 0x165C TCU Timeout fault (Active, Critical); THERMAL_CTRL 0x4430 THERMAL_CTRL Communication fault (Active, Critical); ADAS 0xB98A ADAS Timeout fault (Active, Critical); SEAT_CTRL 0xE08C SEAT_CTRL Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - La cause technique doit être confirmée à partir des mesures. Utiliser les procédures de diagnostic approuvées.
+Root Cause Status - Candidate only
+Possible Root Cause - Supply or ground instability
+Recommended Checks - Preserve trace and check network integrity; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

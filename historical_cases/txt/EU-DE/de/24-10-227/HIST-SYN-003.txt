@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-003
+Source Report - Prod_Diagnostic_Extended_SYN_003.txt
+Source Language - de
+Canonical Language - en
+Region - EU-DE
+VIN Scope - Synthetic
+SW I-Step - 24-10-227
+Test Type - Network robustness
+Test Environment - Climate chamber
+Primary ECU - RR_CORNER_RADAR
+Related ECUs - ADAS, SEAT_CTRL, TCU, THERMAL_CTRL
+DTC Codes - 0xADE1, 0x9A5C, 0x6A2F, 0xB6B2, 0x92B8
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_003.txt contains 71 DTCs across 27 ECUs for SW I-Step 24-10-227. The leading candidates include RR_CORNER_RADAR 0xADE1 RR_CORNER_RADAR Communication fault (Active, Critical); TCU 0x9A5C TCU Timeout fault (Active, Critical); THERMAL_CTRL 0x6A2F THERMAL_CTRL Communication fault (Active, Critical); ADAS 0xB6B2 ADAS Timeout fault (Active, Critical); SEAT_CTRL 0x92B8 SEAT_CTRL Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - Die technische Ursache muss anhand der Messdaten bestätigt werden. Freigegebene Diagnoseverfahren verwenden.
+Root Cause Status - Candidate only
+Possible Root Cause - Sensor drift or contamination
+Recommended Checks - Compare live value with reference; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

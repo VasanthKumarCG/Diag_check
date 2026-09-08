@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-036
+Source Report - Prod_Diagnostic_Extended_SYN_036.txt
+Source Language - zh-Hans
+Canonical Language - en
+Region - CN
+VIN Scope - Synthetic
+SW I-Step - 25-06-957
+Test Type - Endurance
+Test Environment - Charging laboratory
+Primary ECU - BCM
+Related ECUs - ADAS, RR_CORNER_RADAR, TCU, THERMAL_CTRL
+DTC Codes - 0x04B1, 0x821F, 0x6477, 0x1FC7, 0x70C6
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_036.txt contains 54 DTCs across 24 ECUs for SW I-Step 25-06-957. The leading candidates include BCM 0x04B1 BCM Communication fault (Active, Critical); RR_CORNER_RADAR 0x821F RR_CORNER_RADAR Communication fault (Active, Critical); TCU 0x6477 TCU Timeout fault (Active, Critical); THERMAL_CTRL 0x1FC7 THERMAL_CTRL Communication fault (Active, Critical); ADAS 0x70C6 ADAS Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - 技术原因必须通过测量数据确认。 使用经批准的诊断流程。
+Root Cause Status - Candidate only
+Possible Root Cause - Connector or harness issue
+Recommended Checks - Inspect connector and harness; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-015
+Source Report - Prod_Diagnostic_Extended_SYN_015.txt
+Source Language - de
+Canonical Language - en
+Region - EU-DE
+VIN Scope - Synthetic
+SW I-Step - 24-10-227
+Test Type - Urban profile
+Test Environment - Climate chamber
+Primary ECU - TCU
+Related ECUs - ADAS, BCM, SEAT_CTRL, THERMAL_CTRL
+DTC Codes - 0x0EC1, 0xA1FA, 0x570D, 0xA680, 0xA6C2
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_015.txt contains 62 DTCs across 27 ECUs for SW I-Step 24-10-227. The leading candidates include TCU 0x0EC1 TCU Communication fault (Active, Critical); THERMAL_CTRL 0xA1FA THERMAL_CTRL Timeout fault (Active, Critical); ADAS 0x570D ADAS Communication fault (Active, Critical); SEAT_CTRL 0xA680 SEAT_CTRL Communication fault (Active, Critical); BCM 0xA6C2 BCM Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - Die technische Ursache muss anhand der Messdaten bestätigt werden. Freigegebene Diagnoseverfahren verwenden.
+Root Cause Status - Candidate only
+Possible Root Cause - Sensor drift or contamination
+Recommended Checks - Compare live value with reference; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-041
+Source Report - Prod_Diagnostic_Extended_SYN_041.txt
+Source Language - es
+Canonical Language - en
+Region - LATAM
+VIN Scope - Synthetic
+SW I-Step - 25-06-957
+Test Type - Hot climate
+Test Environment - HIL bench
+Primary ECU - OBC
+Related ECUs - BODY_DC, GW, INV_FRONT, RADAR
+DTC Codes - 0x3BE7, 0x9A29, 0x44B7, 0xF31B, 0xAFC4
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_041.txt contains 58 DTCs across 25 ECUs for SW I-Step 25-06-957. The leading candidates include OBC 0x3BE7 OBC Performance issue (Pending, Critical); BODY_DC 0x9A29 BODY_DC Internal control module fault (Stored, Critical); INV_FRONT 0x44B7 INV_FRONT Voltage fault (Pending, Critical); GW 0xF31B GW Signal plausibility fault (Stored, Critical); RADAR 0xAFC4 RADAR Performance issue (Pending, Critical). Engineering confirmation is required.
+Source-Language Note - La causa técnica debe confirmarse con los datos medidos. Utilizar procedimientos de diagnóstico aprobados.
+Root Cause Status - Candidate only
+Possible Root Cause - Connector or harness issue
+Recommended Checks - Run actuator test and rescan; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

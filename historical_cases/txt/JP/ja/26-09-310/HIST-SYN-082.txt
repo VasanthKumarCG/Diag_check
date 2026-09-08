@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-082
+Source Report - Prod_Diagnostic_Extended_SYN_082.txt
+Source Language - ja
+Canonical Language - en
+Region - JP
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Cold climate
+Test Environment - Proving ground
+Primary ECU - ADAS
+Related ECUs - BCM, GW, RR_CORNER_RADAR, TCU
+DTC Codes - 0x2B47, 0xCC9A, 0x600E, 0x85F5, 0xCB21
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_082.txt contains 66 DTCs across 26 ECUs for SW I-Step 26-09-310. The leading candidates include ADAS 0x2B47 ADAS Timeout fault (Active, Critical); BCM 0xCC9A BCM Communication fault (Active, Critical); RR_CORNER_RADAR 0x600E RR_CORNER_RADAR Communication fault (Active, Critical); TCU 0x85F5 TCU Timeout fault (Active, Critical); GW 0xCB21 GW Signal plausibility fault (Stored, Critical). Engineering confirmation is required.
+Source-Language Note - 技術的原因は測定データで確認する必要があります。 承認済みの診断手順を使用してください。
+Root Cause Status - Candidate only
+Possible Root Cause - Software or calibration mismatch
+Recommended Checks - Verify supply and ground under load; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

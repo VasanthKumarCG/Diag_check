@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-065
+Source Report - Prod_Diagnostic_Extended_SYN_065.txt
+Source Language - es
+Canonical Language - en
+Region - LATAM
+VIN Scope - Synthetic
+SW I-Step - 26-07-140
+Test Type - Hot climate
+Test Environment - HIL bench
+Primary ECU - GW
+Related ECUs - DMS, EPS, PARK_ASSIST, RADAR
+DTC Codes - 0x8218, 0xDEDC, 0xCA99, 0x7683, 0x8271
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_065.txt contains 71 DTCs across 25 ECUs for SW I-Step 26-07-140. The leading candidates include GW 0x8218 GW Signal plausibility fault (Stored, Critical); RADAR 0xDEDC RADAR Performance issue (Pending, Critical); PARK_ASSIST 0xCA99 PARK_ASSIST Internal control module fault (Stored, Critical); EPS 0x7683 EPS Signal plausibility fault (Stored, Critical); DMS 0x8271 DMS Performance issue (Pending, Critical). Engineering confirmation is required.
+Source-Language Note - La causa técnica debe confirmarse con los datos medidos. Utilizar procedimientos de diagnóstico aprobados.
+Root Cause Status - Candidate only
+Possible Root Cause - Software or calibration mismatch
+Recommended Checks - Preserve trace and check network integrity; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

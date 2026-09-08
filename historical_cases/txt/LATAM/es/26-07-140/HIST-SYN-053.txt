@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-053
+Source Report - Prod_Diagnostic_Extended_SYN_053.txt
+Source Language - es
+Canonical Language - en
+Region - LATAM
+VIN Scope - Synthetic
+SW I-Step - 26-07-140
+Test Type - Charging validation
+Test Environment - HIL bench
+Primary ECU - TCU
+Related ECUs - BCM, BODY_DC, INV_FRONT, OBC
+DTC Codes - 0xC532, 0x75B9, 0x21A1, 0xC305, 0xB57B
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_053.txt contains 80 DTCs across 25 ECUs for SW I-Step 26-07-140. The leading candidates include TCU 0xC532 TCU Communication fault (Active, Critical); BCM 0x75B9 BCM Timeout fault (Active, Critical); OBC 0x21A1 OBC Voltage fault (Pending, Critical); BODY_DC 0xC305 BODY_DC Signal plausibility fault (Stored, Critical); INV_FRONT 0xB57B INV_FRONT Performance issue (Pending, Critical). Engineering confirmation is required.
+Source-Language Note - La causa técnica debe confirmarse con los datos medidos. Utilizar procedimientos de diagnóstico aprobados.
+Root Cause Status - Candidate only
+Possible Root Cause - Sensor drift or contamination
+Recommended Checks - Verify supply and ground under load; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

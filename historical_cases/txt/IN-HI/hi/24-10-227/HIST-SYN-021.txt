@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-021
+Source Report - Prod_Diagnostic_Extended_SYN_021.txt
+Source Language - hi
+Canonical Language - en
+Region - IN-HI
+VIN Scope - Synthetic
+SW I-Step - 24-10-227
+Test Type - Charging validation
+Test Environment - Climate chamber
+Primary ECU - EPS
+Related ECUs - CHARGE_CTRL, DMS, FCAM, TCM
+DTC Codes - 0x61CB, 0xECD7, 0xDA6E, 0xC344, 0xE5C3
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_021.txt contains 73 DTCs across 25 ECUs for SW I-Step 24-10-227. The leading candidates include EPS 0x61CB EPS Internal control module fault (Stored, Critical); DMS 0xECD7 DMS Voltage fault (Pending, Critical); TCM 0xDA6E TCM Performance issue (Pending, Critical); CHARGE_CTRL 0xC344 CHARGE_CTRL Internal control module fault (Stored, Critical); FCAM 0xE5C3 FCAM Signal plausibility fault (Stored, Critical). Engineering confirmation is required.
+Source-Language Note - तकनीकी कारण की पुष्टि मापन डेटा से की जानी चाहिए। स्वीकृत डायग्नोस्टिक प्रक्रिया का उपयोग करें।
+Root Cause Status - Candidate only
+Possible Root Cause - Sensor drift or contamination
+Recommended Checks - Compare live value with reference; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

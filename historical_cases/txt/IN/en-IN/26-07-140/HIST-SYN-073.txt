@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-073
+Source Report - Prod_Diagnostic_Extended_SYN_073.txt
+Source Language - en-IN
+Canonical Language - en
+Region - IN
+VIN Scope - Synthetic
+SW I-Step - 26-07-140
+Test Type - Hot climate
+Test Environment - Public road profile
+Primary ECU - TCM
+Related ECUs - CHARGE_CTRL, FCAM, OBC, VCU
+DTC Codes - 0xF40A, 0x84DE, 0xFADD, 0x7F6C, 0xD589
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_073.txt contains 65 DTCs across 25 ECUs for SW I-Step 26-07-140. The leading candidates include TCM 0xF40A TCM Voltage fault (Pending, Critical); CHARGE_CTRL 0x84DE CHARGE_CTRL Signal plausibility fault (Stored, Critical); FCAM 0xFADD FCAM Internal control module fault (Stored, Critical); VCU 0x7F6C VCU Voltage fault (Pending, Critical); OBC 0xD589 OBC Performance issue (Pending, Critical). Engineering confirmation is required.
+Source-Language Note - The technical cause must be confirmed from measured evidence. Use approved diagnostic procedures.
+Root Cause Status - Candidate only
+Possible Root Cause - Sensor drift or contamination
+Recommended Checks - Compare live value with reference; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

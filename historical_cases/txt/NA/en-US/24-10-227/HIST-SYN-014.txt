@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-014
+Source Report - Prod_Diagnostic_Extended_SYN_014.txt
+Source Language - en-US
+Canonical Language - en
+Region - NA
+VIN Scope - Synthetic
+SW I-Step - 24-10-227
+Test Type - Highway profile
+Test Environment - Workshop dynamometer
+Primary ECU - TCU
+Related ECUs - BODY_DC, GW, INV_FRONT, OBC
+DTC Codes - 0xEA15, 0x3667, 0xA1BB, 0x060E, 0xAF98
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_014.txt contains 55 DTCs across 26 ECUs for SW I-Step 24-10-227. The leading candidates include TCU 0xEA15 TCU Communication fault (Active, Critical); OBC 0x3667 OBC Voltage fault (Pending, Critical); BODY_DC 0xA1BB BODY_DC Signal plausibility fault (Stored, Critical); INV_FRONT 0x060E INV_FRONT Performance issue (Pending, Critical); GW 0xAF98 GW Internal control module fault (Stored, Critical). Engineering confirmation is required.
+Source-Language Note - The technical cause must be confirmed from measured evidence. Use approved diagnostic procedures.
+Root Cause Status - Candidate only
+Possible Root Cause - Sensor drift or contamination
+Recommended Checks - Preserve trace and check network integrity; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

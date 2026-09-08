@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-037
+Source Report - Prod_Diagnostic_Extended_SYN_037.txt
+Source Language - en-IN
+Canonical Language - en
+Region - IN
+VIN Scope - Synthetic
+SW I-Step - 25-06-957
+Test Type - Charging validation
+Test Environment - Public road profile
+Primary ECU - GW
+Related ECUs - DMS, EPS, PARK_ASSIST, RADAR
+DTC Codes - 0x18FD, 0x12B0, 0x8F11, 0x0965, 0xBB70
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_037.txt contains 61 DTCs across 25 ECUs for SW I-Step 25-06-957. The leading candidates include GW 0x18FD GW Internal control module fault (Stored, Critical); RADAR 0x12B0 RADAR Voltage fault (Pending, Critical); PARK_ASSIST 0x8F11 PARK_ASSIST Signal plausibility fault (Stored, Critical); EPS 0x0965 EPS Internal control module fault (Stored, Critical); DMS 0xBB70 DMS Voltage fault (Pending, Critical). Engineering confirmation is required.
+Source-Language Note - The technical cause must be confirmed from measured evidence. Use approved diagnostic procedures.
+Root Cause Status - Candidate only
+Possible Root Cause - Network congestion or termination issue
+Recommended Checks - Inspect connector and harness; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

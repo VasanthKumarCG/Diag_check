@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-071
+Source Report - Prod_Diagnostic_Extended_SYN_071.txt
+Source Language - ko
+Canonical Language - en
+Region - KR
+VIN Scope - Synthetic
+SW I-Step - 26-07-140
+Test Type - Urban profile
+Test Environment - HIL bench
+Primary ECU - TCU
+Related ECUs - ADAS, BCM, SEAT_CTRL, THERMAL_CTRL
+DTC Codes - 0x55F6, 0xBEBA, 0x41D5, 0x64B4, 0xC356
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_071.txt contains 51 DTCs across 27 ECUs for SW I-Step 26-07-140. The leading candidates include TCU 0x55F6 TCU Communication fault (Active, Critical); THERMAL_CTRL 0xBEBA THERMAL_CTRL Timeout fault (Active, Critical); ADAS 0x41D5 ADAS Communication fault (Active, Critical); SEAT_CTRL 0x64B4 SEAT_CTRL Communication fault (Active, Critical); BCM 0xC356 BCM Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - 기술적 원인은 측정 데이터로 확인해야 합니다. 승인된 진단 절차를 사용하십시오.
+Root Cause Status - Candidate only
+Possible Root Cause - Software or calibration mismatch
+Recommended Checks - Preserve trace and check network integrity; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

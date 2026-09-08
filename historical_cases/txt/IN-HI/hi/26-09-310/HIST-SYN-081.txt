@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-081
+Source Report - Prod_Diagnostic_Extended_SYN_081.txt
+Source Language - hi
+Canonical Language - en
+Region - IN-HI
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Hot climate
+Test Environment - Climate chamber
+Primary ECU - GW
+Related ECUs - DMS, EPS, PARK_ASSIST, RADAR
+DTC Codes - 0x8897, 0x7E4A, 0xBCC5, 0xA177, 0x3A5A
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_081.txt contains 59 DTCs across 25 ECUs for SW I-Step 26-09-310. The leading candidates include GW 0x8897 GW Signal plausibility fault (Stored, Critical); RADAR 0x7E4A RADAR Performance issue (Pending, Critical); PARK_ASSIST 0xBCC5 PARK_ASSIST Internal control module fault (Stored, Critical); EPS 0xA177 EPS Signal plausibility fault (Stored, Critical); DMS 0x3A5A DMS Performance issue (Pending, Critical). Engineering confirmation is required.
+Source-Language Note - तकनीकी कारण की पुष्टि मापन डेटा से की जानी चाहिए। स्वीकृत डायग्नोस्टिक प्रक्रिया का उपयोग करें।
+Root Cause Status - Candidate only
+Possible Root Cause - Supply or ground instability
+Recommended Checks - Verify supply and ground under load; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

@@ -1,0 +1,4 @@
+sw_release,release_sequence,release_date,vehicle_model,sw_variant,release_type,baseline_release,notes
+24-10-227,1,2024-10-22,Demo-SUV,BASE,Production,true,Dummy baseline; replace with approved release master
+25-06-957,2,2025-06-18,Demo-SUV,BASE,Production,false,Dummy successor release
+26-07-140,3,2026-07-09,Demo-SUV,PLUS,Development,false,Dummy development release

@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-044
+Source Report - Prod_Diagnostic_Extended_SYN_044.txt
+Source Language - pl
+Canonical Language - en
+Region - EU-PL
+VIN Scope - Synthetic
+SW I-Step - 25-06-957
+Test Type - Endurance
+Test Environment - Workshop dynamometer
+Primary ECU - TCU
+Related ECUs - ADAS, BCM, SEAT_CTRL, THERMAL_CTRL
+DTC Codes - 0x05CB, 0x6235, 0x3A62, 0x9C7A, 0xAB10
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_044.txt contains 79 DTCs across 24 ECUs for SW I-Step 25-06-957. The leading candidates include TCU 0x05CB TCU Timeout fault (Active, Critical); THERMAL_CTRL 0x6235 THERMAL_CTRL Communication fault (Active, Critical); ADAS 0x3A62 ADAS Timeout fault (Active, Critical); SEAT_CTRL 0x9C7A SEAT_CTRL Timeout fault (Active, Critical); BCM 0xAB10 BCM Communication fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - Przyczyna techniczna wymaga potwierdzenia na podstawie pomiarów. Użyć zatwierdzonych procedur diagnostycznych.
+Root Cause Status - Candidate only
+Possible Root Cause - Network congestion or termination issue
+Recommended Checks - Verify supply and ground under load; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

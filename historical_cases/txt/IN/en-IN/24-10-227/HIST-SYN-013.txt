@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-013
+Source Report - Prod_Diagnostic_Extended_SYN_013.txt
+Source Language - en-IN
+Canonical Language - en
+Region - IN
+VIN Scope - Synthetic
+SW I-Step - 24-10-227
+Test Type - Charging validation
+Test Environment - Public road profile
+Primary ECU - TCU
+Related ECUs - ECM, FCAM, OBC, VCU
+DTC Codes - 0xA165, 0xC553, 0x9795, 0xE2B2, 0xAB5F
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_013.txt contains 79 DTCs across 25 ECUs for SW I-Step 24-10-227. The leading candidates include TCU 0xA165 TCU Communication fault (Active, Critical); FCAM 0xC553 FCAM Signal plausibility fault (Stored, Critical); VCU 0x9795 VCU Performance issue (Pending, Critical); ECM 0xE2B2 ECM Sensor range fault (Intermittent, Critical); OBC 0xAB5F OBC Voltage fault (Pending, Critical). Engineering confirmation is required.
+Source-Language Note - The technical cause must be confirmed from measured evidence. Use approved diagnostic procedures.
+Root Cause Status - Candidate only
+Possible Root Cause - Sensor drift or contamination
+Recommended Checks - Verify supply and ground under load; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

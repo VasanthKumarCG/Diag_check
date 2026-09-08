@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-008
+Source Report - Prod_Diagnostic_Extended_SYN_008.txt
+Source Language - pl
+Canonical Language - en
+Region - EU-PL
+VIN Scope - Synthetic
+SW I-Step - 24-10-227
+Test Type - Software regression
+Test Environment - Workshop dynamometer
+Primary ECU - BCM
+Related ECUs - ADAS, RR_CORNER_RADAR, TCU, THERMAL_CTRL
+DTC Codes - 0x3A0F, 0x42DF, 0x8066, 0x0F3E, 0x3D0F
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_008.txt contains 75 DTCs across 24 ECUs for SW I-Step 24-10-227. The leading candidates include BCM 0x3A0F BCM Timeout fault (Active, Critical); RR_CORNER_RADAR 0x42DF RR_CORNER_RADAR Timeout fault (Active, Critical); TCU 0x8066 TCU Communication fault (Active, Critical); THERMAL_CTRL 0x0F3E THERMAL_CTRL Timeout fault (Active, Critical); ADAS 0x3D0F ADAS Communication fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - Przyczyna techniczna wymaga potwierdzenia na podstawie pomiarów. Użyć zatwierdzonych procedur diagnostycznych.
+Root Cause Status - Candidate only
+Possible Root Cause - Software or calibration mismatch
+Recommended Checks - Compare live value with reference; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

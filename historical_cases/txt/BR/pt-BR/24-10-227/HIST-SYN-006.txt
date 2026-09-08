@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-006
+Source Report - Prod_Diagnostic_Extended_SYN_006.txt
+Source Language - pt-BR
+Canonical Language - en
+Region - BR
+VIN Scope - Synthetic
+SW I-Step - 24-10-227
+Test Type - Highway profile
+Test Environment - Charging laboratory
+Primary ECU - BCM
+Related ECUs - ADAS, DMS, EPS, TCU
+DTC Codes - 0xBA6A, 0x3201, 0x1B77, 0xF9ED, 0xB5C3
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_006.txt contains 61 DTCs across 26 ECUs for SW I-Step 24-10-227. The leading candidates include BCM 0xBA6A BCM Timeout fault (Active, Critical); TCU 0x3201 TCU Communication fault (Active, Critical); ADAS 0x1B77 ADAS Communication fault (Active, Critical); EPS 0xF9ED EPS Internal control module fault (Stored, Critical); DMS 0xB5C3 DMS Voltage fault (Pending, Critical). Engineering confirmation is required.
+Source-Language Note - A causa técnica deve ser confirmada com os dados medidos. Usar procedimentos de diagnóstico aprovados.
+Root Cause Status - Candidate only
+Possible Root Cause - Software or calibration mismatch
+Recommended Checks - Verify supply and ground under load; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

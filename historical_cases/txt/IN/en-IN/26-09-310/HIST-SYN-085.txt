@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-085
+Source Report - Prod_Diagnostic_Extended_SYN_085.txt
+Source Language - en-IN
+Canonical Language - en
+Region - IN
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Charging validation
+Test Environment - Public road profile
+Primary ECU - FCAM
+Related ECUs - BODY_DC, INV_FRONT, OBC, VCU
+DTC Codes - 0x711C, 0x510F, 0x621A, 0x46E6, 0xD88F
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_085.txt contains 56 DTCs across 25 ECUs for SW I-Step 26-09-310. The leading candidates include FCAM 0x711C FCAM Signal plausibility fault (Stored, Critical); VCU 0x510F VCU Performance issue (Pending, Critical); OBC 0x621A OBC Voltage fault (Pending, Critical); BODY_DC 0x46E6 BODY_DC Signal plausibility fault (Stored, Critical); INV_FRONT 0xD88F INV_FRONT Performance issue (Pending, Critical). Engineering confirmation is required.
+Source-Language Note - The technical cause must be confirmed from measured evidence. Use approved diagnostic procedures.
+Root Cause Status - Candidate only
+Possible Root Cause - Sensor drift or contamination
+Recommended Checks - Compare live value with reference; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

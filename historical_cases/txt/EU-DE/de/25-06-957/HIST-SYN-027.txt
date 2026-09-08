@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-027
+Source Report - Prod_Diagnostic_Extended_SYN_027.txt
+Source Language - de
+Canonical Language - en
+Region - EU-DE
+VIN Scope - Synthetic
+SW I-Step - 25-06-957
+Test Type - Network robustness
+Test Environment - Climate chamber
+Primary ECU - ADAS
+Related ECUs - BCM, RR_CORNER_RADAR, SEAT_CTRL, TPMS
+DTC Codes - 0x510F, 0x73D4, 0x931C, 0x05C1, 0xD30F
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_027.txt contains 53 DTCs across 27 ECUs for SW I-Step 25-06-957. The leading candidates include ADAS 0x510F ADAS Timeout fault (Active, Critical); SEAT_CTRL 0x73D4 SEAT_CTRL Timeout fault (Active, Critical); BCM 0x931C BCM Communication fault (Active, Critical); TPMS 0x05C1 TPMS Timeout fault (Active, Critical); RR_CORNER_RADAR 0xD30F RR_CORNER_RADAR Communication fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - Die technische Ursache muss anhand der Messdaten bestätigt werden. Freigegebene Diagnoseverfahren verwenden.
+Root Cause Status - Candidate only
+Possible Root Cause - Sensor drift or contamination
+Recommended Checks - Compare live value with reference; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

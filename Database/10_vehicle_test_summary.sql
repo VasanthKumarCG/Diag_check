@@ -1,0 +1,8 @@
+-- Persist the ADDITIONAL VEHICLE TEST INFORMATION section.
+CREATE TABLE IF NOT EXISTS stage.vehicle_test_summary (
+ stage_test_summary_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY, process_run_id BIGINT NOT NULL REFERENCES admin.process_execution_log(process_run_id), file_id BIGINT NOT NULL REFERENCES admin.file_inventory(file_id), test_start TIMESTAMPTZ, test_end TIMESTAMPTZ, test_type VARCHAR(200), test_environment VARCHAR(300), logger_id VARCHAR(100), reported_ecu_count INTEGER, reported_total_dtcs INTEGER, reported_active_dtcs INTEGER, can_frames_captured BIGINT, can_fd_frames_captured BIGINT, ethernet_packets_captured BIGINT, data_completeness NUMERIC(6,3), overall_result VARCHAR(30), disclaimer TEXT, source_payload JSONB NOT NULL DEFAULT '{}'::jsonb
+);
+CREATE TABLE IF NOT EXISTS raw.vehicle_test_summary (
+ test_summary_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY, report_id BIGINT NOT NULL UNIQUE REFERENCES raw.diagnostic_report(report_id) ON DELETE CASCADE, test_start TIMESTAMPTZ, test_end TIMESTAMPTZ, test_type VARCHAR(200), test_environment VARCHAR(300), logger_id VARCHAR(100), reported_ecu_count INTEGER, reported_total_dtcs INTEGER, reported_active_dtcs INTEGER, can_frames_captured BIGINT, can_fd_frames_captured BIGINT, ethernet_packets_captured BIGINT, data_completeness NUMERIC(6,3) CHECK(data_completeness BETWEEN 0 AND 100), overall_result VARCHAR(30), disclaimer TEXT, created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+CREATE OR REPLACE VIEW reporting.vw_test_summary AS SELECT r.report_id,r.file_id,r.file_name,r.vin,r.sw_i_step,t.* FROM raw.diagnostic_report r JOIN raw.vehicle_test_summary t ON t.report_id=r.report_id;

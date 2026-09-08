@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-023
+Source Report - Prod_Diagnostic_Extended_SYN_023.txt
+Source Language - ko
+Canonical Language - en
+Region - KR
+VIN Scope - Synthetic
+SW I-Step - 24-10-227
+Test Type - Urban profile
+Test Environment - HIL bench
+Primary ECU - SEAT_CTRL
+Related ECUs - BCM, RR_CORNER_RADAR, TCU, TPMS
+DTC Codes - 0x1858, 0xE681, 0xC4B5, 0xA7D3, 0xE79F
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_023.txt contains 56 DTCs across 27 ECUs for SW I-Step 24-10-227. The leading candidates include SEAT_CTRL 0x1858 SEAT_CTRL Communication fault (Active, Critical); BCM 0xE681 BCM Timeout fault (Active, Critical); TPMS 0xC4B5 TPMS Communication fault (Active, Critical); RR_CORNER_RADAR 0xA7D3 RR_CORNER_RADAR Timeout fault (Active, Critical); TCU 0xE79F TCU Communication fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - 기술적 원인은 측정 데이터로 확인해야 합니다. 승인된 진단 절차를 사용하십시오.
+Root Cause Status - Candidate only
+Possible Root Cause - Connector or harness issue
+Recommended Checks - Run actuator test and rescan; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

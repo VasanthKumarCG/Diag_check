@@ -1,0 +1,1918 @@
+VIN - SYN871B0B7
+SW I-Step - 25-06-957
+SA's - U V W X Y Z A B
+SA's - C D E F G H I J
+ECU - TCU
+Hardware Version - 606.882.974
+Bootloader Version - 2.38.334
+SW Version - 25.7.702
+Coding - 698.258.626
+Diagnostic Address - 0x40E
+Calibration Version - CAL-364274
+Network - CAN 500 kbit/s
+Secure Boot - Verified
+OTA State - Update available
+ECU - GW
+Hardware Version - 607.883.975
+Bootloader Version - 3.39.335
+SW Version - 26.8.739
+Coding - 699.259.627
+Diagnostic Address - 0x40F
+Calibration Version - CAL-364371
+Network - 100BASE-T1
+Secure Boot - Verified
+OTA State - Install pending
+ECU - ECM
+Hardware Version - 608.884.976
+Bootloader Version - 4.40.336
+SW Version - 24.9.776
+Coding - 700.260.628
+Diagnostic Address - 0x410
+Calibration Version - CAL-364468
+Network - 1000BASE-T1
+Secure Boot - Attention
+OTA State - Current
+ECU - OBC
+Hardware Version - 609.885.977
+Bootloader Version - 5.41.337
+SW Version - 25.10.813
+Coding - 701.261.629
+Diagnostic Address - 0x411
+Calibration Version - CAL-364565
+Network - LIN 19.2 kbit/s
+Secure Boot - Verified
+OTA State - Update available
+ECU - BCM
+Hardware Version - 610.886.978
+Bootloader Version - 6.42.338
+SW Version - 26.11.850
+Coding - 702.262.630
+Diagnostic Address - 0x412
+Calibration Version - CAL-364662
+Network - CAN FD 2/5 Mbit/s
+Secure Boot - Verified
+OTA State - Install pending
+ECU - FCAM
+Hardware Version - 611.887.979
+Bootloader Version - 7.43.339
+SW Version - 24.12.887
+Coding - 703.263.631
+Diagnostic Address - 0x413
+Calibration Version - CAL-364759
+Network - CAN 500 kbit/s
+Secure Boot - Attention
+OTA State - Current
+ECU - HVAC
+Hardware Version - 612.888.980
+Bootloader Version - 8.44.340
+SW Version - 25.0.924
+Coding - 704.264.632
+Diagnostic Address - 0x414
+Calibration Version - CAL-364856
+Network - 100BASE-T1
+Secure Boot - Verified
+OTA State - Update available
+ECU - TCM
+Hardware Version - 613.889.981
+Bootloader Version - 9.45.341
+SW Version - 26.1.961
+Coding - 705.265.633
+Diagnostic Address - 0x415
+Calibration Version - CAL-364953
+Network - 1000BASE-T1
+Secure Boot - Verified
+OTA State - Install pending
+ECU - ADAS
+Hardware Version - 614.890.982
+Bootloader Version - 1.46.342
+SW Version - 24.2.998
+Coding - 706.266.634
+Diagnostic Address - 0x416
+Calibration Version - CAL-365050
+Network - LIN 19.2 kbit/s
+Secure Boot - Attention
+OTA State - Current
+ECU - EPS
+Hardware Version - 615.891.983
+Bootloader Version - 2.47.343
+SW Version - 25.3.035
+Coding - 707.267.635
+Diagnostic Address - 0x417
+Calibration Version - CAL-365147
+Network - CAN FD 2/5 Mbit/s
+Secure Boot - Verified
+OTA State - Update available
+ECU - ABS
+Hardware Version - 616.892.984
+Bootloader Version - 3.48.344
+SW Version - 26.4.072
+Coding - 708.268.636
+Diagnostic Address - 0x418
+Calibration Version - CAL-365244
+Network - CAN 500 kbit/s
+Secure Boot - Verified
+OTA State - Install pending
+ECU - RADAR
+Hardware Version - 617.893.985
+Bootloader Version - 4.49.345
+SW Version - 24.5.109
+Coding - 709.269.637
+Diagnostic Address - 0x419
+Calibration Version - CAL-365341
+Network - 100BASE-T1
+Secure Boot - Attention
+OTA State - Current
+ECU - RR_CORNER_RADAR
+Hardware Version - 618.894.986
+Bootloader Version - 5.50.346
+SW Version - 25.6.146
+Coding - 710.270.638
+Diagnostic Address - 0x41A
+Calibration Version - CAL-365438
+Network - 1000BASE-T1
+Secure Boot - Verified
+OTA State - Update available
+ECU - BODY_DC
+Hardware Version - 619.895.987
+Bootloader Version - 6.51.347
+SW Version - 26.7.183
+Coding - 711.271.639
+Diagnostic Address - 0x41B
+Calibration Version - CAL-365535
+Network - LIN 19.2 kbit/s
+Secure Boot - Verified
+OTA State - Install pending
+ECU - LIGHT_CTRL
+Hardware Version - 620.896.988
+Bootloader Version - 7.52.348
+SW Version - 24.8.220
+Coding - 712.272.640
+Diagnostic Address - 0x41C
+Calibration Version - CAL-365632
+Network - CAN FD 2/5 Mbit/s
+Secure Boot - Attention
+OTA State - Current
+ECU - VCU
+Hardware Version - 621.897.989
+Bootloader Version - 8.53.349
+SW Version - 25.9.257
+Coding - 713.273.641
+Diagnostic Address - 0x41D
+Calibration Version - CAL-365729
+Network - CAN 500 kbit/s
+Secure Boot - Verified
+OTA State - Update available
+ECU - SEAT_CTRL
+Hardware Version - 622.898.990
+Bootloader Version - 9.54.350
+SW Version - 26.10.294
+Coding - 714.274.642
+Diagnostic Address - 0x41E
+Calibration Version - CAL-365826
+Network - 100BASE-T1
+Secure Boot - Verified
+OTA State - Install pending
+ECU - CHARGE_CTRL
+Hardware Version - 623.899.991
+Bootloader Version - 1.55.351
+SW Version - 24.11.331
+Coding - 715.275.643
+Diagnostic Address - 0x41F
+Calibration Version - CAL-365923
+Network - 1000BASE-T1
+Secure Boot - Attention
+OTA State - Current
+ECU - BMS
+Hardware Version - 624.900.992
+Bootloader Version - 2.56.352
+SW Version - 25.12.368
+Coding - 716.276.644
+Diagnostic Address - 0x420
+Calibration Version - CAL-366020
+Network - LIN 19.2 kbit/s
+Secure Boot - Verified
+OTA State - Update available
+ECU - DMS
+Hardware Version - 625.901.993
+Bootloader Version - 3.57.353
+SW Version - 26.0.405
+Coding - 717.277.645
+Diagnostic Address - 0x421
+Calibration Version - CAL-366117
+Network - CAN FD 2/5 Mbit/s
+Secure Boot - Verified
+OTA State - Install pending
+ECU - THERMAL_CTRL
+Hardware Version - 626.902.994
+Bootloader Version - 4.58.354
+SW Version - 24.1.442
+Coding - 718.278.646
+Diagnostic Address - 0x422
+Calibration Version - CAL-366214
+Network - CAN 500 kbit/s
+Secure Boot - Attention
+OTA State - Current
+ECU - PARK_ASSIST
+Hardware Version - 627.903.995
+Bootloader Version - 5.59.355
+SW Version - 25.2.479
+Coding - 719.279.647
+Diagnostic Address - 0x423
+Calibration Version - CAL-366311
+Network - 100BASE-T1
+Secure Boot - Verified
+OTA State - Update available
+ECU - KEYLESS
+Hardware Version - 628.904.996
+Bootloader Version - 6.60.356
+SW Version - 26.3.516
+Coding - 720.280.648
+Diagnostic Address - 0x424
+Calibration Version - CAL-366408
+Network - 1000BASE-T1
+Secure Boot - Verified
+OTA State - Install pending
+ECU - INV_FRONT
+Hardware Version - 629.905.997
+Bootloader Version - 7.61.357
+SW Version - 24.4.553
+Coding - 721.281.649
+Diagnostic Address - 0x425
+Calibration Version - CAL-366505
+Network - LIN 19.2 kbit/s
+Secure Boot - Attention
+OTA State - Current
+ECU - TPMS
+Hardware Version - 630.906.998
+Bootloader Version - 8.62.358
+SW Version - 25.5.590
+Coding - 722.282.650
+Diagnostic Address - 0x426
+Calibration Version - CAL-366602
+Network - CAN FD 2/5 Mbit/s
+Secure Boot - Verified
+OTA State - Update available
+ECU - DCDC
+Hardware Version - 631.907.999
+Bootloader Version - 9.63.359
+SW Version - 26.6.627
+Coding - 723.283.651
+Diagnostic Address - 0x427
+Calibration Version - CAL-366699
+Network - CAN 500 kbit/s
+Secure Boot - Verified
+OTA State - Install pending
+DTCs
+TCU :
+DTC - 0xC5B8 - TCU Calibration fault
+Status - Intermittent
+Occurrence Counter - 15
+Aging Counter - 4
+Priority - 2
+Healing Counter - 12
+Debounce Counter - 250
+Severity - Medium
+First Detected - 2025-12-22 18:00:00
+Last Detected - 2026-01-01 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Sensor drift or contamination
+Recommended Check - Run actuator test and rescan
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2026-01-01 18:00:00
+  RSSI - 482
+  GPS Status - 741
+  Network Type - 876
+  Speed - 732
+  Voltage - 867
+  ECU Internal Temp - 85.8
+  ECU Supply Voltage - 12.42
+  Communication Error Counter - 5
+DTC - 0x83D0 - TCU Internal control module fault
+Status - Stored
+Occurrence Counter - 22
+Aging Counter - 5
+Priority - 3
+Healing Counter - 13
+Debounce Counter - 7
+Severity - Low
+First Detected - 2025-12-20 15:00:00
+Last Detected - 2025-12-31 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Software or calibration mismatch
+Recommended Check - Preserve trace and check network integrity
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-31 15:00:00
+  RSSI - 555
+  GPS Status - 814
+  Network Type - 949
+  Speed - 805
+  Voltage - 940
+  ECU Internal Temp - 93.1
+  ECU Supply Voltage - 12.59
+  Communication Error Counter - 6
+DTC - 0x8099 - TCU Communication fault
+Status - Active
+Occurrence Counter - 29
+Aging Counter - 6
+Priority - 4
+Healing Counter - 14
+Debounce Counter - 20
+Severity - Critical
+First Detected - 2025-12-18 12:00:00
+Last Detected - 2025-12-30 12:00:00
+Confirmation State - Confirmed
+Possible Cause - Supply or ground instability
+Recommended Check - Inspect connector and harness
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-30 12:00:00
+  RSSI - 628
+  GPS Status - 887
+  Network Type - 22
+  Speed - 878
+  Voltage - 13
+  ECU Internal Temp - 100.4
+  ECU Supply Voltage - 12.76
+  Communication Error Counter - 7
+GW :
+DTC - 0xDC71 - GW Internal control module fault
+Status - Stored
+Occurrence Counter - 20
+Aging Counter - 5
+Priority - 3
+Healing Counter - 13
+Debounce Counter - 1
+Severity - Critical
+First Detected - 2025-12-20 18:00:00
+Last Detected - 2025-12-31 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Software or calibration mismatch
+Recommended Check - Compare live value with reference
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-31 18:00:00
+  CAN Load - 679
+  Eth Status - 814
+  Voltage - 794
+  Bus Errors - 960
+  Ignition - 971
+  ECU Internal Temp - 93.1
+  ECU Supply Voltage - 12.59
+  Communication Error Counter - 6
+DTC - 0x6670 - GW Communication fault
+Status - Active
+Occurrence Counter - 27
+Aging Counter - 6
+Priority - 4
+Healing Counter - 14
+Debounce Counter - 14
+Severity - High
+First Detected - 2025-12-18 15:00:00
+Last Detected - 2025-12-30 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Supply or ground instability
+Recommended Check - Verify supply and ground under load
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-30 15:00:00
+  CAN Load - 752
+  Eth Status - 887
+  Voltage - 867
+  Bus Errors - 33
+  Ignition - 44
+  ECU Internal Temp - 100.4
+  ECU Supply Voltage - 12.76
+  Communication Error Counter - 7
+DTC - 0x06C7 - GW Voltage fault
+Status - Pending
+Occurrence Counter - 34
+Aging Counter - 7
+Priority - 5
+Healing Counter - 15
+Debounce Counter - 27
+Severity - Medium
+First Detected - 2025-12-16 12:00:00
+Last Detected - 2025-12-29 12:00:00
+Confirmation State - Confirmed
+Possible Cause - Network congestion or termination issue
+Recommended Check - Run actuator test and rescan
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-29 12:00:00
+  CAN Load - 825
+  Eth Status - 960
+  Voltage - 940
+  Bus Errors - 106
+  Ignition - 117
+  ECU Internal Temp - 107.7
+  ECU Supply Voltage - 12.93
+  Communication Error Counter - 8
+ECM :
+DTC - 0x5495 - ECM Communication fault
+Status - Active
+Occurrence Counter - 25
+Aging Counter - 6
+Priority - 4
+Healing Counter - 14
+Debounce Counter - 8
+Severity - Medium
+First Detected - 2025-12-18 18:00:00
+Last Detected - 2025-12-30 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Supply or ground instability
+Recommended Check - Preserve trace and check network integrity
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-30 18:00:00
+  RPM - 597
+  Coolant Temp - 949
+  Fuel Pressure - 53
+  Boost Pressure - 157
+  Engine Load - 137
+  ECU Internal Temp - 100.4
+  ECU Supply Voltage - 12.76
+  Communication Error Counter - 7
+DTC - 0xCC60 - ECM Voltage fault
+Status - Pending
+Occurrence Counter - 32
+Aging Counter - 7
+Priority - 5
+Healing Counter - 15
+Debounce Counter - 21
+Severity - Low
+First Detected - 2025-12-16 15:00:00
+Last Detected - 2025-12-29 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Network congestion or termination issue
+Recommended Check - Inspect connector and harness
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-29 15:00:00
+  RPM - 670
+  Coolant Temp - 22
+  Fuel Pressure - 126
+  Boost Pressure - 230
+  Engine Load - 210
+  ECU Internal Temp - 107.7
+  ECU Supply Voltage - 12.93
+  Communication Error Counter - 8
+DTC - 0xB70E - ECM Sensor range fault
+Status - Intermittent
+Occurrence Counter - 39
+Aging Counter - 8
+Priority - 1
+Healing Counter - 16
+Debounce Counter - 34
+Severity - Critical
+First Detected - 2025-12-14 12:00:00
+Last Detected - 2025-12-28 12:00:00
+Confirmation State - Confirmed
+Possible Cause - Connector or harness issue
+Recommended Check - Compare live value with reference
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-28 12:00:00
+  RPM - 743
+  Coolant Temp - 95
+  Fuel Pressure - 199
+  Boost Pressure - 303
+  Engine Load - 283
+  ECU Internal Temp - 25.0
+  ECU Supply Voltage - 13.1
+  Communication Error Counter - 9
+OBC :
+DTC - 0x7E7D - OBC Voltage fault
+Status - Pending
+Occurrence Counter - 30
+Aging Counter - 7
+Priority - 5
+Healing Counter - 15
+Debounce Counter - 15
+Severity - Critical
+First Detected - 2025-12-16 18:00:00
+Last Detected - 2025-12-29 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Network congestion or termination issue
+Recommended Check - Verify supply and ground under load
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-29 18:00:00
+  AC Voltage - 887
+  Charge Current - 84
+  Battery Temp - 95
+  SOC - 889
+  Input Freq - 179
+  ECU Internal Temp - 107.7
+  ECU Supply Voltage - 12.93
+  Communication Error Counter - 8
+DTC - 0x32E9 - OBC Sensor range fault
+Status - Intermittent
+Occurrence Counter - 37
+Aging Counter - 8
+Priority - 1
+Healing Counter - 16
+Debounce Counter - 28
+Severity - High
+First Detected - 2025-12-14 15:00:00
+Last Detected - 2025-12-28 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Connector or harness issue
+Recommended Check - Run actuator test and rescan
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-28 15:00:00
+  AC Voltage - 960
+  Charge Current - 157
+  Battery Temp - 168
+  SOC - 962
+  Input Freq - 252
+  ECU Internal Temp - 25.0
+  ECU Supply Voltage - 13.1
+  Communication Error Counter - 9
+DTC - 0x885F - OBC Signal plausibility fault
+Status - Stored
+Occurrence Counter - 44
+Aging Counter - 9
+Priority - 2
+Healing Counter - 17
+Debounce Counter - 41
+Severity - Medium
+First Detected - 2025-12-12 12:00:00
+Last Detected - 2025-12-27 12:00:00
+Confirmation State - Confirmed
+Possible Cause - Sensor drift or contamination
+Recommended Check - Preserve trace and check network integrity
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-27 12:00:00
+  AC Voltage - 33
+  Charge Current - 230
+  Battery Temp - 241
+  SOC - 35
+  Input Freq - 325
+  ECU Internal Temp - 32.3
+  ECU Supply Voltage - 13.27
+  Communication Error Counter - 10
+BCM :
+DTC - 0xE02D - BCM Sensor range fault
+Status - Intermittent
+Occurrence Counter - 35
+Aging Counter - 8
+Priority - 1
+Healing Counter - 16
+Debounce Counter - 22
+Severity - Medium
+First Detected - 2025-12-14 18:00:00
+Last Detected - 2025-12-28 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Connector or harness issue
+Recommended Check - Inspect connector and harness
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-28 18:00:00
+  Battery Voltage - 115
+  Door Status - 64
+  Lock State - 106
+  Ignition - 117
+  Window Pos - 252
+  ECU Internal Temp - 25.0
+  ECU Supply Voltage - 13.1
+  Communication Error Counter - 9
+DTC - 0xA2DD - BCM Signal plausibility fault
+Status - Stored
+Occurrence Counter - 42
+Aging Counter - 9
+Priority - 2
+Healing Counter - 17
+Debounce Counter - 35
+Severity - Low
+First Detected - 2025-12-12 15:00:00
+Last Detected - 2025-12-27 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Sensor drift or contamination
+Recommended Check - Compare live value with reference
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-27 15:00:00
+  Battery Voltage - 188
+  Door Status - 137
+  Lock State - 179
+  Ignition - 190
+  Window Pos - 325
+  ECU Internal Temp - 32.3
+  ECU Supply Voltage - 13.27
+  Communication Error Counter - 10
+DTC - 0xBE2B - BCM Timeout fault
+Status - Active
+Occurrence Counter - 49
+Aging Counter - 10
+Priority - 3
+Healing Counter - 18
+Debounce Counter - 48
+Severity - Critical
+First Detected - 2025-12-10 12:00:00
+Last Detected - 2025-12-26 12:00:00
+Confirmation State - Confirmed
+Possible Cause - Software or calibration mismatch
+Recommended Check - Verify supply and ground under load
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-26 12:00:00
+  Battery Voltage - 261
+  Door Status - 210
+  Lock State - 252
+  Ignition - 263
+  Window Pos - 398
+  ECU Internal Temp - 39.6
+  ECU Supply Voltage - 13.44
+  Communication Error Counter - 11
+FCAM :
+DTC - 0x757C - FCAM Signal plausibility fault
+Status - Stored
+Occurrence Counter - 40
+Aging Counter - 9
+Priority - 2
+Healing Counter - 17
+Debounce Counter - 29
+Severity - Critical
+First Detected - 2025-12-12 18:00:00
+Last Detected - 2025-12-27 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Sensor drift or contamination
+Recommended Check - Run actuator test and rescan
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-27 18:00:00
+  Lane Confidence - 188
+  Visibility - 106
+  Image Quality - 272
+  Speed - 97
+  Light Level - 356
+  ECU Internal Temp - 32.3
+  ECU Supply Voltage - 13.27
+  Communication Error Counter - 10
+DTC - 0x2AE3 - FCAM Timeout fault
+Status - Active
+Occurrence Counter - 47
+Aging Counter - 10
+Priority - 3
+Healing Counter - 18
+Debounce Counter - 42
+Severity - High
+First Detected - 2025-12-10 15:00:00
+Last Detected - 2025-12-26 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Software or calibration mismatch
+Recommended Check - Preserve trace and check network integrity
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-26 15:00:00
+  Lane Confidence - 261
+  Visibility - 179
+  Image Quality - 345
+  Speed - 170
+  Light Level - 429
+  ECU Internal Temp - 39.6
+  ECU Supply Voltage - 13.44
+  Communication Error Counter - 11
+DTC - 0x504C - FCAM Performance issue
+Status - Pending
+Occurrence Counter - 4
+Aging Counter - 11
+Priority - 4
+Healing Counter - 19
+Debounce Counter - 55
+Severity - Medium
+First Detected - 2025-12-08 12:00:00
+Last Detected - 2025-12-25 12:00:00
+Confirmation State - Confirmed
+Possible Cause - Supply or ground instability
+Recommended Check - Inspect connector and harness
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-25 12:00:00
+  Lane Confidence - 334
+  Visibility - 252
+  Image Quality - 418
+  Speed - 243
+  Light Level - 502
+  ECU Internal Temp - 46.9
+  ECU Supply Voltage - 13.61
+  Communication Error Counter - 12
+HVAC :
+DTC - 0x0661 - HVAC Timeout fault
+Status - Active
+Occurrence Counter - 45
+Aging Counter - 10
+Priority - 3
+Healing Counter - 18
+Debounce Counter - 36
+Severity - Medium
+First Detected - 2025-12-10 18:00:00
+Last Detected - 2025-12-26 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Software or calibration mismatch
+Recommended Check - Compare live value with reference
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-26 18:00:00
+  Cabin Temp - 106
+  Blower Speed - 241
+  Evap Temp - 221
+  Ambient Temp - 387
+  AC Pressure - 429
+  ECU Internal Temp - 39.6
+  ECU Supply Voltage - 13.44
+  Communication Error Counter - 11
+DTC - 0x2936 - HVAC Performance issue
+Status - Pending
+Occurrence Counter - 2
+Aging Counter - 11
+Priority - 4
+Healing Counter - 19
+Debounce Counter - 49
+Severity - Low
+First Detected - 2025-12-08 15:00:00
+Last Detected - 2025-12-25 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Supply or ground instability
+Recommended Check - Verify supply and ground under load
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-25 15:00:00
+  Cabin Temp - 179
+  Blower Speed - 314
+  Evap Temp - 294
+  Ambient Temp - 460
+  AC Pressure - 502
+  ECU Internal Temp - 46.9
+  ECU Supply Voltage - 13.61
+  Communication Error Counter - 12
+DTC - 0x188D - HVAC Calibration fault
+Status - Intermittent
+Occurrence Counter - 9
+Aging Counter - 12
+Priority - 5
+Healing Counter - 20
+Debounce Counter - 62
+Severity - Critical
+First Detected - 2025-12-06 12:00:00
+Last Detected - 2025-12-24 12:00:00
+Confirmation State - Confirmed
+Possible Cause - Network congestion or termination issue
+Recommended Check - Run actuator test and rescan
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-24 12:00:00
+  Cabin Temp - 252
+  Blower Speed - 387
+  Evap Temp - 367
+  Ambient Temp - 533
+  AC Pressure - 575
+  ECU Internal Temp - 54.2
+  ECU Supply Voltage - 13.78
+  Communication Error Counter - 13
+TCM :
+DTC - 0xCBDC - TCM Performance issue
+Status - Pending
+Occurrence Counter - 50
+Aging Counter - 11
+Priority - 4
+Healing Counter - 19
+Debounce Counter - 43
+Severity - Critical
+First Detected - 2025-12-08 18:00:00
+Last Detected - 2025-12-25 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Supply or ground instability
+Recommended Check - Preserve trace and check network integrity
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-25 18:00:00
+  Gear - 993
+  Oil Temp - 190
+  Turbine Speed - 418
+  Clutch Pressure - 553
+  Output Speed - 533
+  ECU Internal Temp - 46.9
+  ECU Supply Voltage - 13.61
+  Communication Error Counter - 12
+DTC - 0xFBF9 - TCM Calibration fault
+Status - Intermittent
+Occurrence Counter - 7
+Aging Counter - 12
+Priority - 5
+Healing Counter - 20
+Debounce Counter - 56
+Severity - High
+First Detected - 2025-12-06 15:00:00
+Last Detected - 2025-12-24 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Network congestion or termination issue
+Recommended Check - Inspect connector and harness
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-24 15:00:00
+  Gear - 66
+  Oil Temp - 263
+  Turbine Speed - 491
+  Clutch Pressure - 626
+  Output Speed - 606
+  ECU Internal Temp - 54.2
+  ECU Supply Voltage - 13.78
+  Communication Error Counter - 13
+DTC - 0x1023 - TCM Internal control module fault
+Status - Stored
+Occurrence Counter - 14
+Aging Counter - 13
+Priority - 1
+Healing Counter - 0
+Debounce Counter - 69
+Severity - Medium
+First Detected - 2025-12-04 12:00:00
+Last Detected - 2025-12-23 12:00:00
+Confirmation State - Confirmed
+Possible Cause - Connector or harness issue
+Recommended Check - Compare live value with reference
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-23 12:00:00
+  Gear - 139
+  Oil Temp - 336
+  Turbine Speed - 564
+  Clutch Pressure - 699
+  Output Speed - 679
+  ECU Internal Temp - 61.5
+  ECU Supply Voltage - 13.95
+  Communication Error Counter - 14
+ADAS :
+DTC - 0xDF67 - ADAS Calibration fault
+Status - Intermittent
+Occurrence Counter - 5
+Aging Counter - 12
+Priority - 5
+Healing Counter - 20
+Debounce Counter - 50
+Severity - Medium
+First Detected - 2025-12-06 18:00:00
+Last Detected - 2025-12-24 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Network congestion or termination issue
+Recommended Check - Verify supply and ground under load
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-24 18:00:00
+  CPU Load - 190
+  Lane State - 325
+  Object Count - 460
+  Voltage - 378
+  Speed - 389
+  ECU Internal Temp - 54.2
+  ECU Supply Voltage - 13.78
+  Communication Error Counter - 13
+DTC - 0xDB07 - ADAS Internal control module fault
+Status - Stored
+Occurrence Counter - 12
+Aging Counter - 13
+Priority - 1
+Healing Counter - 0
+Debounce Counter - 63
+Severity - Low
+First Detected - 2025-12-04 15:00:00
+Last Detected - 2025-12-23 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Connector or harness issue
+Recommended Check - Run actuator test and rescan
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-23 15:00:00
+  CPU Load - 263
+  Lane State - 398
+  Object Count - 533
+  Voltage - 451
+  Speed - 462
+  ECU Internal Temp - 61.5
+  ECU Supply Voltage - 13.95
+  Communication Error Counter - 14
+DTC - 0x208C - ADAS Communication fault
+Status - Active
+Occurrence Counter - 19
+Aging Counter - 14
+Priority - 2
+Healing Counter - 1
+Debounce Counter - 76
+Severity - Critical
+First Detected - 2025-12-02 12:00:00
+Last Detected - 2025-12-22 12:00:00
+Confirmation State - Confirmed
+Possible Cause - Sensor drift or contamination
+Recommended Check - Preserve trace and check network integrity
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-22 12:00:00
+  CPU Load - 336
+  Lane State - 471
+  Object Count - 606
+  Voltage - 524
+  Speed - 535
+  ECU Internal Temp - 68.8
+  ECU Supply Voltage - 14.12
+  Communication Error Counter - 15
+EPS :
+DTC - 0x031E - EPS Internal control module fault
+Status - Stored
+Occurrence Counter - 10
+Aging Counter - 13
+Priority - 1
+Healing Counter - 0
+Debounce Counter - 57
+Severity - Critical
+First Detected - 2025-12-04 18:00:00
+Last Detected - 2025-12-23 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Connector or harness issue
+Recommended Check - Inspect connector and harness
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-23 18:00:00
+  Steering Angle - 449
+  Driver Torque - 491
+  Motor Current - 564
+  Supply Voltage - 668
+  Speed - 462
+  ECU Internal Temp - 61.5
+  ECU Supply Voltage - 13.95
+  Communication Error Counter - 14
+DTC - 0x77C5 - EPS Communication fault
+Status - Active
+Occurrence Counter - 17
+Aging Counter - 14
+Priority - 2
+Healing Counter - 1
+Debounce Counter - 70
+Severity - High
+First Detected - 2025-12-02 15:00:00
+Last Detected - 2025-12-22 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Sensor drift or contamination
+Recommended Check - Compare live value with reference
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-22 15:00:00
+  Steering Angle - 522
+  Driver Torque - 564
+  Motor Current - 637
+  Supply Voltage - 741
+  Speed - 535
+  ECU Internal Temp - 68.8
+  ECU Supply Voltage - 14.12
+  Communication Error Counter - 15
+DTC - 0x0DA4 - EPS Voltage fault
+Status - Pending
+Occurrence Counter - 24
+Aging Counter - 15
+Priority - 3
+Healing Counter - 2
+Debounce Counter - 83
+Severity - Medium
+First Detected - 2025-11-30 12:00:00
+Last Detected - 2025-12-21 12:00:00
+Confirmation State - Confirmed
+Possible Cause - Software or calibration mismatch
+Recommended Check - Verify supply and ground under load
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-21 12:00:00
+  Steering Angle - 595
+  Driver Torque - 637
+  Motor Current - 710
+  Supply Voltage - 814
+  Speed - 608
+  ECU Internal Temp - 76.1
+  ECU Supply Voltage - 14.29
+  Communication Error Counter - 16
+ABS :
+DTC - 0xB895 - ABS Communication fault
+Status - Active
+Occurrence Counter - 15
+Aging Counter - 14
+Priority - 2
+Healing Counter - 1
+Debounce Counter - 64
+Severity - Medium
+First Detected - 2025-12-02 18:00:00
+Last Detected - 2025-12-22 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Sensor drift or contamination
+Recommended Check - Run actuator test and rescan
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-22 18:00:00
+  Wheel FL - 336
+  Wheel FR - 409
+  Brake Pressure - 668
+  Yaw Rate - 555
+  Vehicle Speed - 783
+  ECU Internal Temp - 68.8
+  ECU Supply Voltage - 14.12
+  Communication Error Counter - 15
+DTC - 0x85CE - ABS Voltage fault
+Status - Pending
+Occurrence Counter - 22
+Aging Counter - 15
+Priority - 3
+Healing Counter - 2
+Debounce Counter - 77
+Severity - Low
+First Detected - 2025-11-30 15:00:00
+Last Detected - 2025-12-21 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Software or calibration mismatch
+Recommended Check - Preserve trace and check network integrity
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-21 15:00:00
+  Wheel FL - 409
+  Wheel FR - 482
+  Brake Pressure - 741
+  Yaw Rate - 628
+  Vehicle Speed - 856
+  ECU Internal Temp - 76.1
+  ECU Supply Voltage - 14.29
+  Communication Error Counter - 16
+RADAR :
+DTC - 0x6D65 - RADAR Voltage fault
+Status - Pending
+Occurrence Counter - 20
+Aging Counter - 15
+Priority - 3
+Healing Counter - 2
+Debounce Counter - 71
+Severity - Critical
+First Detected - 2025-11-30 18:00:00
+Last Detected - 2025-12-21 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Software or calibration mismatch
+Recommended Check - Compare live value with reference
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-21 18:00:00
+  Target Distance - 626
+  Relative Speed - 668
+  Object Count - 679
+  Speed - 535
+  Temperature - 794
+  ECU Internal Temp - 76.1
+  ECU Supply Voltage - 14.29
+  Communication Error Counter - 16
+DTC - 0xE20E - RADAR Sensor range fault
+Status - Intermittent
+Occurrence Counter - 27
+Aging Counter - 16
+Priority - 4
+Healing Counter - 3
+Debounce Counter - 84
+Severity - High
+First Detected - 2025-11-28 15:00:00
+Last Detected - 2025-12-20 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Supply or ground instability
+Recommended Check - Verify supply and ground under load
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-20 15:00:00
+  Target Distance - 699
+  Relative Speed - 741
+  Object Count - 752
+  Speed - 608
+  Temperature - 867
+  ECU Internal Temp - 83.4
+  ECU Supply Voltage - 14.46
+  Communication Error Counter - 17
+RR_CORNER_RADAR :
+DTC - 0x2D64 - RR_CORNER_RADAR Sensor range fault
+Status - Intermittent
+Occurrence Counter - 25
+Aging Counter - 16
+Priority - 4
+Healing Counter - 3
+Debounce Counter - 78
+Severity - Medium
+First Detected - 2025-11-28 18:00:00
+Last Detected - 2025-12-20 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Supply or ground instability
+Recommended Check - Preserve trace and check network integrity
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-20 18:00:00
+  Target Distance - 699
+  Relative Speed - 741
+  Object Count - 752
+  Alignment Offset - 949
+  Temperature - 867
+  ECU Internal Temp - 83.4
+  ECU Supply Voltage - 14.46
+  Communication Error Counter - 17
+DTC - 0x3415 - RR_CORNER_RADAR Signal plausibility fault
+Status - Stored
+Occurrence Counter - 32
+Aging Counter - 17
+Priority - 5
+Healing Counter - 4
+Debounce Counter - 91
+Severity - Low
+First Detected - 2025-11-26 15:00:00
+Last Detected - 2025-12-19 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Network congestion or termination issue
+Recommended Check - Inspect connector and harness
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-19 15:00:00
+  Target Distance - 772
+  Relative Speed - 814
+  Object Count - 825
+  Alignment Offset - 22
+  Temperature - 940
+  ECU Internal Temp - 90.7
+  ECU Supply Voltage - 14.63
+  Communication Error Counter - 18
+BODY_DC :
+DTC - 0x3304 - BODY_DC Signal plausibility fault
+Status - Stored
+Occurrence Counter - 30
+Aging Counter - 17
+Priority - 5
+Healing Counter - 4
+Debounce Counter - 85
+Severity - Critical
+First Detected - 2025-11-26 18:00:00
+Last Detected - 2025-12-19 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Network congestion or termination issue
+Recommended Check - Verify supply and ground under load
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-19 18:00:00
+  Supply Voltage - 741
+  CPU Load - 628
+  Door Requests - 856
+  Lighting Requests - 53
+  Network Errors - 33
+  ECU Internal Temp - 90.7
+  ECU Supply Voltage - 14.63
+  Communication Error Counter - 18
+DTC - 0x8C07 - BODY_DC Timeout fault
+Status - Active
+Occurrence Counter - 37
+Aging Counter - 18
+Priority - 1
+Healing Counter - 5
+Debounce Counter - 98
+Severity - High
+First Detected - 2025-11-24 15:00:00
+Last Detected - 2025-12-18 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Connector or harness issue
+Recommended Check - Run actuator test and rescan
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-18 15:00:00
+  Supply Voltage - 814
+  CPU Load - 701
+  Door Requests - 929
+  Lighting Requests - 126
+  Network Errors - 106
+  ECU Internal Temp - 98.0
+  ECU Supply Voltage - 11.4
+  Communication Error Counter - 19
+LIGHT_CTRL :
+DTC - 0xAFCC - LIGHT_CTRL Timeout fault
+Status - Active
+Occurrence Counter - 35
+Aging Counter - 18
+Priority - 1
+Healing Counter - 5
+Debounce Counter - 92
+Severity - Medium
+First Detected - 2025-11-24 18:00:00
+Last Detected - 2025-12-18 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Connector or harness issue
+Recommended Check - Inspect connector and harness
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-18 18:00:00
+  Low Beam State - 814
+  High Beam State - 918
+  Ambient Light - 929
+  Lamp Current - 971
+  Voltage - 889
+  ECU Internal Temp - 98.0
+  ECU Supply Voltage - 11.4
+  Communication Error Counter - 19
+DTC - 0x0622 - LIGHT_CTRL Performance issue
+Status - Pending
+Occurrence Counter - 42
+Aging Counter - 19
+Priority - 2
+Healing Counter - 6
+Debounce Counter - 105
+Severity - Low
+First Detected - 2025-11-22 15:00:00
+Last Detected - 2025-12-17 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Sensor drift or contamination
+Recommended Check - Compare live value with reference
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-17 15:00:00
+  Low Beam State - 887
+  High Beam State - 991
+  Ambient Light - 2
+  Lamp Current - 44
+  Voltage - 962
+  ECU Internal Temp - 105.3
+  ECU Supply Voltage - 11.57
+  Communication Error Counter - 20
+VCU :
+DTC - 0x40E2 - VCU Performance issue
+Status - Pending
+Occurrence Counter - 40
+Aging Counter - 19
+Priority - 2
+Healing Counter - 6
+Debounce Counter - 99
+Severity - Critical
+First Detected - 2025-11-22 18:00:00
+Last Detected - 2025-12-17 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Sensor drift or contamination
+Recommended Check - Run actuator test and rescan
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-17 18:00:00
+  Requested Torque - 949
+  Actual Torque - 929
+  Drive Mode - 909
+  Vehicle Speed - 75
+  HV State - 993
+  ECU Internal Temp - 105.3
+  ECU Supply Voltage - 11.57
+  Communication Error Counter - 20
+DTC - 0x90A5 - VCU Calibration fault
+Status - Intermittent
+Occurrence Counter - 47
+Aging Counter - 20
+Priority - 3
+Healing Counter - 7
+Debounce Counter - 112
+Severity - High
+First Detected - 2025-12-06 15:00:00
+Last Detected - 2026-01-01 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Software or calibration mismatch
+Recommended Check - Preserve trace and check network integrity
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2026-01-01 15:00:00
+  Requested Torque - 22
+  Actual Torque - 2
+  Drive Mode - 982
+  Vehicle Speed - 148
+  HV State - 66
+  ECU Internal Temp - 22.6
+  ECU Supply Voltage - 11.74
+  Communication Error Counter - 21
+SEAT_CTRL :
+DTC - 0xB2D5 - SEAT_CTRL Calibration fault
+Status - Intermittent
+Occurrence Counter - 45
+Aging Counter - 20
+Priority - 3
+Healing Counter - 7
+Debounce Counter - 106
+Severity - Medium
+First Detected - 2025-12-06 18:00:00
+Last Detected - 2026-01-01 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Software or calibration mismatch
+Recommended Check - Compare live value with reference
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2026-01-01 18:00:00
+  Seat Position - 929
+  Backrest Position - 126
+  Occupancy - 951
+  Motor Current - 148
+  Voltage - 35
+  ECU Internal Temp - 22.6
+  ECU Supply Voltage - 11.74
+  Communication Error Counter - 21
+DTC - 0x5387 - SEAT_CTRL Internal control module fault
+Status - Stored
+Occurrence Counter - 2
+Aging Counter - 0
+Priority - 4
+Healing Counter - 8
+Debounce Counter - 119
+Severity - Low
+First Detected - 2025-12-25 15:00:00
+Last Detected - 2025-12-31 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Supply or ground instability
+Recommended Check - Verify supply and ground under load
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-31 15:00:00
+  Seat Position - 2
+  Backrest Position - 199
+  Occupancy - 24
+  Motor Current - 221
+  Voltage - 108
+  ECU Internal Temp - 29.9
+  ECU Supply Voltage - 11.91
+  Communication Error Counter - 22
+CHARGE_CTRL :
+DTC - 0xD0CD - CHARGE_CTRL Internal control module fault
+Status - Stored
+Occurrence Counter - 50
+Aging Counter - 0
+Priority - 4
+Healing Counter - 8
+Debounce Counter - 113
+Severity - Critical
+First Detected - 2025-12-25 18:00:00
+Last Detected - 2025-12-31 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Supply or ground instability
+Recommended Check - Preserve trace and check network integrity
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-31 18:00:00
+  CP Duty - 816
+  EVSE Limit - 982
+  Plug Temp - 24
+  Charge Power - 190
+  Lock State - 201
+  ECU Internal Temp - 29.9
+  ECU Supply Voltage - 11.91
+  Communication Error Counter - 22
+DTC - 0x9FB8 - CHARGE_CTRL Communication fault
+Status - Active
+Occurrence Counter - 7
+Aging Counter - 1
+Priority - 5
+Healing Counter - 9
+Debounce Counter - 126
+Severity - High
+First Detected - 2025-12-23 15:00:00
+Last Detected - 2025-12-30 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Network congestion or termination issue
+Recommended Check - Inspect connector and harness
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-30 15:00:00
+  CP Duty - 889
+  EVSE Limit - 55
+  Plug Temp - 97
+  Charge Power - 263
+  Lock State - 274
+  ECU Internal Temp - 37.2
+  ECU Supply Voltage - 12.08
+  Communication Error Counter - 23
+BMS :
+DTC - 0xE1AD - BMS Communication fault
+Status - Active
+Occurrence Counter - 5
+Aging Counter - 1
+Priority - 5
+Healing Counter - 9
+Debounce Counter - 120
+Severity - Medium
+First Detected - 2025-12-23 18:00:00
+Last Detected - 2025-12-30 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Network congestion or termination issue
+Recommended Check - Verify supply and ground under load
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-30 18:00:00
+  Pack Voltage - 44
+  Pack Current - 117
+  SOC - 911
+  SOH - 984
+  Cell Delta - 274
+  ECU Internal Temp - 37.2
+  ECU Supply Voltage - 12.08
+  Communication Error Counter - 23
+DTC - 0xF95C - BMS Voltage fault
+Status - Pending
+Occurrence Counter - 12
+Aging Counter - 2
+Priority - 1
+Healing Counter - 10
+Debounce Counter - 133
+Severity - Low
+First Detected - 2025-12-21 15:00:00
+Last Detected - 2025-12-29 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Connector or harness issue
+Recommended Check - Run actuator test and rescan
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-29 15:00:00
+  Pack Voltage - 117
+  Pack Current - 190
+  SOC - 984
+  SOH - 57
+  Cell Delta - 347
+  ECU Internal Temp - 44.5
+  ECU Supply Voltage - 12.25
+  Communication Error Counter - 24
+DMS :
+DTC - 0xC6AC - DMS Voltage fault
+Status - Pending
+Occurrence Counter - 10
+Aging Counter - 2
+Priority - 1
+Healing Counter - 10
+Debounce Counter - 127
+Severity - Critical
+First Detected - 2025-12-21 18:00:00
+Last Detected - 2025-12-29 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Connector or harness issue
+Recommended Check - Inspect connector and harness
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-29 18:00:00
+  Attention Score - 210
+  Eye Closure - 159
+  Gaze Direction - 325
+  Face Confidence - 429
+  Visibility - 347
+  ECU Internal Temp - 44.5
+  ECU Supply Voltage - 12.25
+  Communication Error Counter - 24
+DTC - 0x45A0 - DMS Sensor range fault
+Status - Intermittent
+Occurrence Counter - 17
+Aging Counter - 3
+Priority - 2
+Healing Counter - 11
+Debounce Counter - 140
+Severity - High
+First Detected - 2025-12-19 15:00:00
+Last Detected - 2025-12-28 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Sensor drift or contamination
+Recommended Check - Compare live value with reference
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-28 15:00:00
+  Attention Score - 283
+  Eye Closure - 232
+  Gaze Direction - 398
+  Face Confidence - 502
+  Visibility - 420
+  ECU Internal Temp - 51.8
+  ECU Supply Voltage - 12.42
+  Communication Error Counter - 25
+THERMAL_CTRL :
+DTC - 0x7CB5 - THERMAL_CTRL Sensor range fault
+Status - Intermittent
+Occurrence Counter - 15
+Aging Counter - 3
+Priority - 2
+Healing Counter - 11
+Debounce Counter - 134
+Severity - Medium
+First Detected - 2025-12-19 18:00:00
+Last Detected - 2025-12-28 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Sensor drift or contamination
+Recommended Check - Run actuator test and rescan
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-28 18:00:00
+  Battery Inlet Temp - 376
+  Battery Outlet Temp - 480
+  Pump Speed - 274
+  Valve Position - 471
+  Refrigerant Pressure - 730
+  ECU Internal Temp - 51.8
+  ECU Supply Voltage - 12.42
+  Communication Error Counter - 25
+DTC - 0x1374 - THERMAL_CTRL Signal plausibility fault
+Status - Stored
+Occurrence Counter - 22
+Aging Counter - 4
+Priority - 3
+Healing Counter - 12
+Debounce Counter - 147
+Severity - Low
+First Detected - 2025-12-17 15:00:00
+Last Detected - 2025-12-27 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Software or calibration mismatch
+Recommended Check - Preserve trace and check network integrity
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-27 15:00:00
+  Battery Inlet Temp - 449
+  Battery Outlet Temp - 553
+  Pump Speed - 347
+  Valve Position - 544
+  Refrigerant Pressure - 803
+  ECU Internal Temp - 59.1
+  ECU Supply Voltage - 12.59
+  Communication Error Counter - 26
+PARK_ASSIST :
+DTC - 0xEBCD - PARK_ASSIST Signal plausibility fault
+Status - Stored
+Occurrence Counter - 20
+Aging Counter - 4
+Priority - 3
+Healing Counter - 12
+Debounce Counter - 141
+Severity - Critical
+First Detected - 2025-12-17 18:00:00
+Last Detected - 2025-12-27 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Software or calibration mismatch
+Recommended Check - Compare live value with reference
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-27 18:00:00
+  Distance Front - 325
+  Distance Rear - 367
+  Slot Confidence - 502
+  Vehicle Speed - 513
+  System State - 555
+  ECU Internal Temp - 59.1
+  ECU Supply Voltage - 12.59
+  Communication Error Counter - 26
+DTC - 0x08BD - PARK_ASSIST Timeout fault
+Status - Active
+Occurrence Counter - 27
+Aging Counter - 5
+Priority - 4
+Healing Counter - 13
+Debounce Counter - 154
+Severity - High
+First Detected - 2025-12-15 15:00:00
+Last Detected - 2025-12-26 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Supply or ground instability
+Recommended Check - Verify supply and ground under load
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-26 15:00:00
+  Distance Front - 398
+  Distance Rear - 440
+  Slot Confidence - 575
+  Vehicle Speed - 586
+  System State - 628
+  ECU Internal Temp - 66.4
+  ECU Supply Voltage - 12.76
+  Communication Error Counter - 27
+KEYLESS :
+DTC - 0xB954 - KEYLESS Timeout fault
+Status - Active
+Occurrence Counter - 25
+Aging Counter - 5
+Priority - 4
+Healing Counter - 13
+Debounce Counter - 148
+Severity - Medium
+First Detected - 2025-12-15 18:00:00
+Last Detected - 2025-12-26 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Supply or ground instability
+Recommended Check - Preserve trace and check network integrity
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-26 18:00:00
+  Key RSSI - 212
+  Key Status - 347
+  Immobilizer State - 637
+  Antenna Status - 617
+  Voltage - 473
+  ECU Internal Temp - 66.4
+  ECU Supply Voltage - 12.76
+  Communication Error Counter - 27
+DTC - 0x1762 - KEYLESS Performance issue
+Status - Pending
+Occurrence Counter - 32
+Aging Counter - 6
+Priority - 5
+Healing Counter - 14
+Debounce Counter - 161
+Severity - Low
+First Detected - 2025-12-13 15:00:00
+Last Detected - 2025-12-25 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Network congestion or termination issue
+Recommended Check - Inspect connector and harness
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-25 15:00:00
+  Key RSSI - 285
+  Key Status - 420
+  Immobilizer State - 710
+  Antenna Status - 690
+  Voltage - 546
+  ECU Internal Temp - 73.7
+  ECU Supply Voltage - 12.93
+  Communication Error Counter - 28
+INV_FRONT :
+DTC - 0xAE19 - INV_FRONT Performance issue
+Status - Pending
+Occurrence Counter - 30
+Aging Counter - 6
+Priority - 5
+Healing Counter - 14
+Debounce Counter - 155
+Severity - Critical
+First Detected - 2025-12-13 18:00:00
+Last Detected - 2025-12-25 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Network congestion or termination issue
+Recommended Check - Verify supply and ground under load
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-25 18:00:00
+  DC Link Voltage - 502
+  Motor Speed - 451
+  Motor Torque - 555
+  Phase Current - 659
+  Temperature - 670
+  ECU Internal Temp - 73.7
+  ECU Supply Voltage - 12.93
+  Communication Error Counter - 28
+DTC - 0x2D32 - INV_FRONT Calibration fault
+Status - Intermittent
+Occurrence Counter - 37
+Aging Counter - 7
+Priority - 1
+Healing Counter - 15
+Debounce Counter - 168
+Severity - High
+First Detected - 2025-12-11 15:00:00
+Last Detected - 2025-12-24 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Connector or harness issue
+Recommended Check - Run actuator test and rescan
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-24 15:00:00
+  DC Link Voltage - 575
+  Motor Speed - 524
+  Motor Torque - 628
+  Phase Current - 732
+  Temperature - 743
+  ECU Internal Temp - 81.0
+  ECU Supply Voltage - 13.1
+  Communication Error Counter - 29
+TPMS :
+DTC - 0xC3BC - TPMS Calibration fault
+Status - Intermittent
+Occurrence Counter - 35
+Aging Counter - 7
+Priority - 1
+Healing Counter - 15
+Debounce Counter - 162
+Severity - Medium
+First Detected - 2025-12-11 18:00:00
+Last Detected - 2025-12-24 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Connector or harness issue
+Recommended Check - Inspect connector and harness
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-24 18:00:00
+  Pressure FL - 451
+  Pressure FR - 524
+  Pressure RL - 597
+  Pressure RR - 670
+  Temperature FL - 836
+  ECU Internal Temp - 81.0
+  ECU Supply Voltage - 13.1
+  Communication Error Counter - 29
+DTC - 0x0EF7 - TPMS Internal control module fault
+Status - Stored
+Occurrence Counter - 42
+Aging Counter - 8
+Priority - 2
+Healing Counter - 16
+Debounce Counter - 175
+Severity - Low
+First Detected - 2025-12-09 15:00:00
+Last Detected - 2025-12-23 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Sensor drift or contamination
+Recommended Check - Compare live value with reference
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-23 15:00:00
+  Pressure FL - 524
+  Pressure FR - 597
+  Pressure RL - 670
+  Pressure RR - 743
+  Temperature FL - 909
+  ECU Internal Temp - 88.3
+  ECU Supply Voltage - 13.27
+  Communication Error Counter - 30
+DCDC :
+DTC - 0x9E00 - DCDC Internal control module fault
+Status - Stored
+Occurrence Counter - 40
+Aging Counter - 8
+Priority - 2
+Healing Counter - 16
+Debounce Counter - 169
+Severity - Critical
+First Detected - 2025-12-09 18:00:00
+Last Detected - 2025-12-23 18:00:00
+Confirmation State - Pending confirmation
+Possible Cause - Sensor drift or contamination
+Recommended Check - Run actuator test and rescan
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-23 18:00:00
+  Input Voltage - 586
+  Output Voltage - 690
+  Output Current - 763
+  Temperature - 743
+  Enable State - 847
+  ECU Internal Temp - 88.3
+  ECU Supply Voltage - 13.27
+  Communication Error Counter - 30
+DTC - 0xA175 - DCDC Communication fault
+Status - Active
+Occurrence Counter - 47
+Aging Counter - 9
+Priority - 3
+Healing Counter - 17
+Debounce Counter - 182
+Severity - High
+First Detected - 2025-12-07 15:00:00
+Last Detected - 2025-12-22 15:00:00
+Confirmation State - Failed this cycle
+Possible Cause - Software or calibration mismatch
+Recommended Check - Preserve trace and check network integrity
+Source Language - ja
+Source Possible Cause - 考えられる原因: 技術的原因は測定データで確認する必要があります。
+Source Recommended Check - 推奨確認項目: 承認済みの診断手順を使用してください。
+Environment Data:
+  Timestamp - 2025-12-22 15:00:00
+  Input Voltage - 659
+  Output Voltage - 763
+  Output Current - 836
+  Temperature - 816
+  Enable State - 920
+  ECU Internal Temp - 95.6
+  ECU Supply Voltage - 13.44
+  Communication Error Counter - 31
+ADDITIONAL VEHICLE TEST INFORMATION
+Test Start - 2026-01-01 13:00:00
+Test End - 2026-01-01 18:00:00
+Test Type - Highway profile
+Test Environment - Proving ground
+Logger ID - LOGGER-46
+ECU Count - 26
+Total DTCs - 62
+Active DTCs - 16
+CAN Frames Captured - 6679022
+CAN FD Frames Captured - 5911474
+Ethernet Packets Captured - 3509826
+Data Completeness - 98.60 %
+Overall Result - FAIL
+DISCLAIMER - Synthetic data only.

@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-050
+Source Report - Prod_Diagnostic_Extended_SYN_050.txt
+Source Language - en-US
+Canonical Language - en
+Region - NA
+VIN Scope - Synthetic
+SW I-Step - 25-06-957
+Test Type - Cold climate
+Test Environment - Workshop dynamometer
+Primary ECU - BCM
+Related ECUs - DMS, EPS, HVAC, TCU
+DTC Codes - 0x8511, 0xF2FD, 0xD691, 0x25C9, 0xD760
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_050.txt contains 59 DTCs across 26 ECUs for SW I-Step 25-06-957. The leading candidates include BCM 0x8511 BCM Communication fault (Active, Critical); TCU 0xF2FD TCU Timeout fault (Active, Critical); EPS 0xD691 EPS Signal plausibility fault (Stored, Critical); DMS 0x25C9 DMS Performance issue (Pending, Critical); HVAC 0xD760 HVAC Sensor range fault (Intermittent, Critical). Engineering confirmation is required.
+Source-Language Note - The technical cause must be confirmed from measured evidence. Use approved diagnostic procedures.
+Root Cause Status - Candidate only
+Possible Root Cause - Sensor drift or contamination
+Recommended Checks - Preserve trace and check network integrity; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

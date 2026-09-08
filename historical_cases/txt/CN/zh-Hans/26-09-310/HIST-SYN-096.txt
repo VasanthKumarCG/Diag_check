@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-096
+Source Report - Prod_Diagnostic_Extended_SYN_096.txt
+Source Language - zh-Hans
+Canonical Language - en
+Region - CN
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Software regression
+Test Environment - Charging laboratory
+Primary ECU - SEAT_CTRL
+Related ECUs - BCM, RR_CORNER_RADAR, TCU, THERMAL_CTRL
+DTC Codes - 0x5053, 0x8199, 0x641A, 0x2865, 0x0ABB
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_096.txt contains 71 DTCs across 24 ECUs for SW I-Step 26-09-310. The leading candidates include SEAT_CTRL 0x5053 SEAT_CTRL Communication fault (Active, Critical); BCM 0x8199 BCM Timeout fault (Active, Critical); RR_CORNER_RADAR 0x641A RR_CORNER_RADAR Timeout fault (Active, Critical); TCU 0x2865 TCU Communication fault (Active, Critical); THERMAL_CTRL 0x0ABB THERMAL_CTRL Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - 技术原因必须通过测量数据确认。 使用经批准的诊断流程。
+Root Cause Status - Candidate only
+Possible Root Cause - Software or calibration mismatch
+Recommended Checks - Compare live value with reference; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

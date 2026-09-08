@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-088
+Source Report - Prod_Diagnostic_Extended_SYN_088.txt
+Source Language - fr
+Canonical Language - en
+Region - EU-FR
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Software regression
+Test Environment - Proving ground
+Primary ECU - TCU
+Related ECUs - ADAS, BCM, SEAT_CTRL, THERMAL_CTRL
+DTC Codes - 0x34F5, 0x4CF5, 0xE6AB, 0x982F, 0x6F19
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_088.txt contains 77 DTCs across 24 ECUs for SW I-Step 26-09-310. The leading candidates include TCU 0x34F5 TCU Communication fault (Active, Critical); THERMAL_CTRL 0x4CF5 THERMAL_CTRL Timeout fault (Active, Critical); ADAS 0xE6AB ADAS Communication fault (Active, Critical); SEAT_CTRL 0x982F SEAT_CTRL Communication fault (Active, Critical); BCM 0x6F19 BCM Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - La cause technique doit être confirmée à partir des mesures. Utiliser les procédures de diagnostic approuvées.
+Root Cause Status - Candidate only
+Possible Root Cause - Supply or ground instability
+Recommended Checks - Preserve trace and check network integrity; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

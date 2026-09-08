@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-077
+Source Report - Prod_Diagnostic_Extended_SYN_077.txt
+Source Language - es
+Canonical Language - en
+Region - LATAM
+VIN Scope - Synthetic
+SW I-Step - 26-09-310
+Test Type - Charging validation
+Test Environment - HIL bench
+Primary ECU - EPS
+Related ECUs - CHARGE_CTRL, DMS, FCAM, TCM
+DTC Codes - 0xF742, 0x6EBA, 0x450D, 0xAF86, 0x5C35
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_077.txt contains 62 DTCs across 25 ECUs for SW I-Step 26-09-310. The leading candidates include EPS 0xF742 EPS Internal control module fault (Stored, Critical); DMS 0x6EBA DMS Voltage fault (Pending, Critical); TCM 0x450D TCM Performance issue (Pending, Critical); CHARGE_CTRL 0xAF86 CHARGE_CTRL Internal control module fault (Stored, Critical); FCAM 0x5C35 FCAM Signal plausibility fault (Stored, Critical). Engineering confirmation is required.
+Source-Language Note - La causa técnica debe confirmarse con los datos medidos. Utilizar procedimientos de diagnóstico aprobados.
+Root Cause Status - Candidate only
+Possible Root Cause - Software or calibration mismatch
+Recommended Checks - Preserve trace and check network integrity; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

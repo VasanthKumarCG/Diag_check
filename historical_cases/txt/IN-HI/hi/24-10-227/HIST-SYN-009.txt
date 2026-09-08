@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-009
+Source Report - Prod_Diagnostic_Extended_SYN_009.txt
+Source Language - hi
+Canonical Language - en
+Region - IN-HI
+VIN Scope - Synthetic
+SW I-Step - 24-10-227
+Test Type - Hot climate
+Test Environment - Climate chamber
+Primary ECU - GW
+Related ECUs - DMS, EPS, PARK_ASSIST, RADAR
+DTC Codes - 0xCFDA, 0x373F, 0xC195, 0x071E, 0x4C49
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_009.txt contains 51 DTCs across 25 ECUs for SW I-Step 24-10-227. The leading candidates include GW 0xCFDA GW Signal plausibility fault (Stored, Critical); RADAR 0x373F RADAR Performance issue (Pending, Critical); PARK_ASSIST 0xC195 PARK_ASSIST Internal control module fault (Stored, Critical); EPS 0x071E EPS Signal plausibility fault (Stored, Critical); DMS 0x4C49 DMS Performance issue (Pending, Critical). Engineering confirmation is required.
+Source-Language Note - तकनीकी कारण की पुष्टि मापन डेटा से की जानी चाहिए। स्वीकृत डायग्नोस्टिक प्रक्रिया का उपयोग करें।
+Root Cause Status - Candidate only
+Possible Root Cause - Sensor drift or contamination
+Recommended Checks - Compare live value with reference; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

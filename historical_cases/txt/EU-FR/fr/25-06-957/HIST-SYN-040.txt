@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-040
+Source Report - Prod_Diagnostic_Extended_SYN_040.txt
+Source Language - fr
+Canonical Language - en
+Region - EU-FR
+VIN Scope - Synthetic
+SW I-Step - 25-06-957
+Test Type - Software regression
+Test Environment - Proving ground
+Primary ECU - SEAT_CTRL
+Related ECUs - BCM, RR_CORNER_RADAR, TCU, THERMAL_CTRL
+DTC Codes - 0x6420, 0xB185, 0x2D76, 0x56E3, 0xDF69
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_040.txt contains 51 DTCs across 24 ECUs for SW I-Step 25-06-957. The leading candidates include SEAT_CTRL 0x6420 SEAT_CTRL Communication fault (Active, Critical); BCM 0xB185 BCM Timeout fault (Active, Critical); RR_CORNER_RADAR 0x2D76 RR_CORNER_RADAR Timeout fault (Active, Critical); TCU 0x56E3 TCU Communication fault (Active, Critical); THERMAL_CTRL 0xDF69 THERMAL_CTRL Timeout fault (Active, Critical). Engineering confirmation is required.
+Source-Language Note - La cause technique doit être confirmée à partir des mesures. Utiliser les procédures de diagnostic approuvées.
+Root Cause Status - Candidate only
+Possible Root Cause - Sensor drift or contamination
+Recommended Checks - Run actuator test and rescan; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes

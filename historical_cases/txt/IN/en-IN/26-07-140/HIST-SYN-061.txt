@@ -1,0 +1,20 @@
+SYNTHETIC HISTORICAL DIAGNOSTIC CASE - NOT FOR VEHICLE SERVICE
+Case ID - HIST-SYN-061
+Source Report - Prod_Diagnostic_Extended_SYN_061.txt
+Source Language - en-IN
+Canonical Language - en
+Region - IN
+VIN Scope - Synthetic
+SW I-Step - 26-07-140
+Test Type - Charging validation
+Test Environment - Public road profile
+Primary ECU - TCM
+Related ECUs - CHARGE_CTRL, FCAM, OBC, VCU
+DTC Codes - 0xB0A2, 0xF1F4, 0xFCE4, 0x9BB3, 0x0E57
+Canonical Summary - Synthetic report Prod_Diagnostic_Extended_SYN_061.txt contains 74 DTCs across 25 ECUs for SW I-Step 26-07-140. The leading candidates include TCM 0xB0A2 TCM Performance issue (Pending, Critical); CHARGE_CTRL 0xF1F4 CHARGE_CTRL Internal control module fault (Stored, Critical); FCAM 0xFCE4 FCAM Signal plausibility fault (Stored, Critical); VCU 0x9BB3 VCU Performance issue (Pending, Critical); OBC 0x0E57 OBC Voltage fault (Pending, Critical). Engineering confirmation is required.
+Source-Language Note - The technical cause must be confirmed from measured evidence. Use approved diagnostic procedures.
+Root Cause Status - Candidate only
+Possible Root Cause - Network congestion or termination issue
+Recommended Checks - Inspect connector and harness; preserve synchronized traces; compare related ECU timestamps.
+Validation Result - Not validated; synthetic test record.
+Engineering Confirmation Required - Yes
